@@ -1,0 +1,17 @@
+{
+    "device_model": "3-1-0",
+    "device_name": "大疆机场",
+    "release_pages": "https://enterprise.dji.com/cn/dock/downloads",
+    "firmwares": [
+        {
+            "product_version": "10.01.0205",
+            "file_name": "dock_10.01.02.05_pro.zip",
+            "file_size": 562213158,
+            "md5": "9f08214d7b9f168f68c9b4bf97e1f7fd",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/%E6%9C%BA%E5%9C%BA/dock_10.01.02.05_pro.zip",
+            "release_date": "2024-08-15",
+            "release_notes": "1. 在RTK长时间无法收敛时，支持取消飞行任务。\r\n2. 修复偶现4G私有化部署信息丢失的问题。\r\n3. 提升系统稳定性。",
+            "can_downgrade": true
+        }
+    ]
+}

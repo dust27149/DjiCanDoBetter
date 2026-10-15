@@ -1,0 +1,27 @@
+{
+    "device_model": "3-3-0",
+    "device_name": "大疆机场 3",
+    "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads",
+    "firmwares": [
+        {
+            "product_version": "17.07.0401",
+            "file_name": "DOCK3_17.07.04.01_pro.zip",
+            "file_size": 242690636,
+            "md5": "cac646be6ce0fa30eb6cc21c9b218ed8",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/17.7/DOCK3_17.07.04.01_pro.zip",
+            "release_date": "2026-10-14",
+            "release_notes": "1. Matrice 4D系列飞行器支持为大疆机场 4 勘察选址。\r\n2. 指点飞行和远程操控开放高速模式，最大飞行速度提升至21米/秒。\r\n\t* 受飞行器动力性能限制，最大飞行速度在逆风环境下速度可能有所下降。高速模式下，无人机的避障刹停距离将相应增加，请飞手务必注意飞行安全，提前预留安全距离，避免发生碰撞。\r\n3. 司空 2 驾驶舱支持 AGL 优先显示。\r\n4. 司空 2 飞行记录支持显示仿地高度（AGL）。\r\n5. 新增碰撞告警提示。飞行作业中发生碰撞后将触发告警，避免在桨叶破损的情况下二次起飞造成严重故障。",
+            "can_downgrade": true
+        },
+        {
+            "product_version": "17.02.0521",
+            "file_name": "DOCK3_17.02.05.21_pro.zip",
+            "file_size": 241829868,
+            "md5": "8a8573e388fecbf6956e9efb58681b26",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/17.2.5/DOCK3_17.02.05.21_pro.zip",
+            "release_date": "2026-06-16",
+            "release_notes": "1. 新增支持 DJI O4 地面站。地面站支持网关模式或中继模式，可作为大疆机场 3 的信号增强设备，扩展单架次作业范围。\r\n2. DJI Pilot 2：飞行界面新增真高（AGL）数值显示（需开启地形数据）。\r\n3. 司空2：驾驶舱内支持开启对地真高高度提示，超过设定真高值时可触发告警提示。\r\n4. 司空2：飞行记录支持计算及显示飞行过程中的对地高度变化（该高度基于司空全球高程模型计算，可能存在误差）。\r\n5. 修复部分已知问题。",
+            "can_downgrade": true
+        }
+    ]
+}

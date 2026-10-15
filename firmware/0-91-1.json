@@ -1,0 +1,17 @@
+{
+    "device_model": "0-91-1",
+    "device_name": "Matrice 3TD",
+    "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads",
+    "firmwares": [
+        {
+            "product_version": "17.03.0502",
+            "file_name": "M3TD_17.03.05.02_pro.zip",
+            "file_size": 410201708,
+            "md5": "1163a3c95b61ac117a8d89ca6ba9a2ba",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK2/17.3/M3TD_17.03.05.02_pro.zip",
+            "release_date": "2026-10-09",
+            "release_notes": "1. 新增相关功能，以满足GB 46750-2025 和 GB 46761-2025 国家强制性标准要求。为确保设备功能正常启用并顺利使用，请进入司空 2 的设备运维页面，确保飞行器处于开机状态，按指引完成相关登记与激活流程。\r\n2. 司空 2 飞行记录支持显示仿地高度（AGL）",
+            "can_downgrade": true
+        }
+    ]
+}

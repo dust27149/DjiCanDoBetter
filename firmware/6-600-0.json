@@ -1,0 +1,17 @@
+{
+    "device_model": "6-600-0",
+    "device_name": "D-RTK 3",
+    "release_pages": "https://enterprise.dji.com/cn/d-rtk-3/downloads",
+    "firmwares": [
+        {
+            "product_version": "17.01.0502",
+            "file_name": "D-RTK3_17.01.05.02_pro.zip",
+            "file_size": 216207656,
+            "md5": "09da0ec7d5ec98bc29d2133ec0f885ec",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/17.2.5/D-RTK3_17.01.05.02_pro.zip",
+            "release_date": "2026-06-16",
+            "release_notes": "1.  新增支持点放样功能，拓展应用场景。\r\n2. 新增语音播报功能。支持实时播报作业信息，提升操作效率。\r\n3. 新增支持配置快捷打点按键。",
+            "can_downgrade": true
+        }
+    ]
+}
