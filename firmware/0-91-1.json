@@ -12,6 +12,36 @@
             "release_date": "2026-10-09",
             "release_notes": "1. 新增相关功能，以满足GB 46750-2025 和 GB 46761-2025 国家强制性标准要求。为确保设备功能正常启用并顺利使用，请进入司空 2 的设备运维页面，确保飞行器处于开机状态，按指引完成相关登记与激活流程。\r\n2. 司空 2 飞行记录支持显示仿地高度（AGL）",
             "can_downgrade": true
+        },
+        {
+            "product_version": "14.03.0915",
+            "file_name": "M3TD_14.03.09.15_pro.zip",
+            "file_size": 409843308,
+            "md5": "141cf00e39f9d622f0b54786a73d7ca8",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK2/U11/M3TD_14.03.09.15_pro.zip",
+            "release_date": "2026-06-11 ",
+            "release_notes": "1. 修复部分已知问题。",
+            "can_downgrade": true
+        },
+        {
+            "product_version": "14.03.0906",
+            "file_name": "M3TD_14.03.09.06_pro.zip",
+            "file_size": 410062892,
+            "md5": "9def8baaae4e71f3a077064484e95eb6",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK2/U13.1_1/M3TD_14.03.09.06_pro.zip",
+            "release_date": "2026-02-06 ",
+            "release_notes": "1. 修复部分已知问题。",
+            "can_downgrade": true
+        },
+        {
+            "product_version": "14.03.0701",
+            "file_name": "M3TD_14.03.07.01_pro.zip",
+            "file_size": 409922560,
+            "md5": "127f716ecb4de8a2460058eeb5965ee4",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK2/U9/M3TD_14.03.07.01_pro.zip",
+            "release_date": "2025-08-28",
+            "release_notes": "1. 支持在司空 2 自定义飞行器的返航预留电量。在大风天气下，建议适当调高返航预留电量，保障飞行安全。",
+            "can_downgrade": true
         }
     ]
 }

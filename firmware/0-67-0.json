@@ -12,6 +12,16 @@
             "release_date": "2026-08-11",
             "release_notes": "1. 新增相关功能，以满足GB 46750-2025 和 GB 46761-2025 国家强制性标准要求，为确保设备功能正常启用并顺利使用，请使用DJI Pilot 2 App，按指引完成相关登记与激活流程。\r\n 2. 飞行记录新增【仿地高】和【仿地状态】显示（仅中国大陆地区）。",
             "can_downgrade": true
+        },
+        {
+            "product_version": "14.03.0110",
+            "file_name": "Matrice_30_UAV_14.03.01.10.zip",
+            "file_size": 552500402,
+            "md5": "19305de5b170b81cc459083926cd6050",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/Flagship/Matrice%2030/v14.3/Matrice_30_UAV_14.03.01.10.zip",
+            "release_date": "2026-03-31 ",
+            "release_notes": "1. 增加相关功能，以满足当地法规要求。 ",
+            "can_downgrade": true
         }
     ]
 }

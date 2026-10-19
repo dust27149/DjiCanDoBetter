@@ -10,7 +10,27 @@
             "md5": "09da0ec7d5ec98bc29d2133ec0f885ec",
             "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/17.2.5/D-RTK3_17.01.05.02_pro.zip",
             "release_date": "2026-06-16",
-            "release_notes": "1.  新增支持点放样功能，拓展应用场景。\r\n2. 新增语音播报功能。支持实时播报作业信息，提升操作效率。\r\n3. 新增支持配置快捷打点按键。",
+            "release_notes": "1. 提升北斗卫星升级后的定位能力，解决部分场景无法定位的问题。\r\n2. 修复部分已知问题。",
+            "can_downgrade": true
+        },
+        {
+            "product_version": "17.00.0006",
+            "file_name": "D-RTK3_17.00.00.06_pro.zip",
+            "file_size": 216320680,
+            "md5": "a1128bac0a08372525aab30d5b687e41",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/17.0/D-RTK3_17.00.00.06_pro.zip",
+            "release_date": "2026-03-31",
+            "release_notes": "1. 新增支持点放样功能，拓展应用场景。\r\n2. 新增语音播报功能。支持实时播报作业信息，提升操作效率。\r\n3. 新增支持配置快捷打点按键。",
+            "can_downgrade": true
+        },
+        {
+            "product_version": "16.01.0002",
+            "file_name": "D-RTK3_16.01.00.02_pro.zip",
+            "file_size": 208361472,
+            "md5": "0dd18f1eaf24b53aaa36be48aaf8bdf9",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/U5/D-RTK3_16.01.00.02_pro.zip",
+            "release_date": "2025-12-11 ",
+            "release_notes": "D-RTK 3 多功能基站 \r\n1. 基准站模式下，新增支持FlyCart 100。2. \r\n大疆行业App连接基准站时，支持自定义网络RTK标定基准站位置。配合1+N模式使用，可获取精确基站位置。\r\n3. 大疆行业App连接流动站时，支持无网络进行打点，配合观测文件，可用三方软件进行PPK解算。\r\n4. 大疆行业App的打点报告中，增加打点时间戳。\r\n5. 支持记录.OBS格式的原始观测文件，用于三方工具进行PPK解算。\r\n6. 支持记录.MRK格式的时间戳文件，用于记录打点与标定结果。\r\n7. 修复大疆行业App打点时，.CSV报告文件出现中文乱码的问题。\r\n8. 修复大疆行业App打点时，部分国家区域，平面坐标北东向显示相反问题。\r\n9. 修复部分国家场景下，基准站模式传输距离相对短的问题。\r\n10. 修复基准站模式下，配合M400使用时（需更新M400固件至v16.00.0813），打开4G图传后，输入密码提示密码错误的问题。\r\nD-RTK 3 中继站固定部署版 \r\n1. 中继站模式下，新增支持FlyCart 100。\r\n2. 修复部分已知问题。",
             "can_downgrade": true
         }
     ]
