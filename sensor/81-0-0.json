@@ -1,0 +1,127 @@
+{
+    "device_model": "81-0-0",
+    "device_name": "Matrice 3TD Camera",
+    "product_page": "https://enterprise.dji.com/cn/dock-2/specs",
+    "sensor": [
+        {
+            "type": "wide",
+            "desc": "广角",
+            "sensor_size": {
+                "width": 9.691,
+                "height": 7.278,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.197,
+                "height": 1.197,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8064,
+                    "height": 6048,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 6.78,
+                "min": 6.78,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.0,
+                    "dfov": 83.58,
+                    "hfov": 71.1,
+                    "vfov": 56.45,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 24.2,
+                "min": 24.2,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",
+            "desc": "变焦",
+            "sensor_size": {
+                "width": 6.4,
+                "height": 4.8,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.6,
+                "height": 1.6,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 4000,
+                    "height": 3000,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 30,
+                "min": 30,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 4.42,
+                    "dfov": 15.19,
+                    "hfov": 12.18,
+                    "vfov": 9.15,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 162.25,
+                "min": 162.25,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "ir",
+            "desc": "红外",
+            "sensor_size": {
+                "width": 7.68,
+                "height": 6.144,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 12,
+                "height": 12,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 640,
+                    "height": 512,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 9.1,
+                "min": 9.1,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.34,
+                    "dfov": 56.77,
+                    "hfov": 45.76,
+                    "vfov": 37.31,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 40.03,
+                "min": 40.03,
+                "unit": "mm"
+            }
+        }
+    ]
+}

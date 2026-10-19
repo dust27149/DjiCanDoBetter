@@ -1,0 +1,127 @@
+{
+    "device_model": "98-0-0",
+    "device_name": "Matrice 4D Camera",
+    "product_page": "https://enterprise.dji.com/cn/dock-3/specs",
+    "sensor": [
+        {
+            "type": "wide",
+            "desc": "广角",
+            "sensor_size": {
+                "width": 17.4,
+                "height": 13.0,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 3.3,
+                "height": 3.3,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 5280,
+                    "height": 3956,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 12.287,
+                "min": 12.287,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.0,
+                    "dfov": 82.94,
+                    "hfov": 70.60,
+                    "vfov": 55.76,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 24.48,
+                "min": 24.48,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",
+            "desc": "中长焦",
+            "sensor_size": {
+                "width": 9.69,
+                "height": 7.27,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.197,
+                "height": 1.197,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8064,
+                    "height": 6048,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 19.35,
+                "min": 19.35,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.57,
+                    "dfov": 34.76,
+                    "hfov": 28.11,
+                    "vfov": 21.28,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 69.11,
+                "min": 69.11,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",
+            "desc": "长焦",
+            "sensor_size": {
+                "width": 8.29,
+                "height": 6.23,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.008,
+                "height": 1.008,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8192,
+                    "height": 6144,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 40,
+                "min": 40,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 3.26,
+                    "dfov": 14.77,
+                    "hfov": 11.83,
+                    "vfov": 8.91,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 166.89,
+                "min": 166.89,
+                "unit": "mm"
+            }
+        }
+    ]
+}

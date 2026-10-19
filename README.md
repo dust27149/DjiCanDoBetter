@@ -97,13 +97,171 @@ HMS功能是为了设备的问题能在云端显示，提升用户对于风险�
 * [M4TD](./firmware/0-100-1.json)
 * [D-RTK 3](./firmware/6-600-0.json)
 
-仅提供`文件下载地址`、`MD5`等必要信息；不提供具体固件文件。
+本项目仅提供`文件下载地址`、`MD5`等必要信息；不提供具体固件文件。
+
+### 相机传感器信息
+
+大疆技术支持提供了各设备相机传感器尺寸、像元大小、照片分辨率和真实焦距信息。
+
+本项目中，真实记录了大疆提供的信息，并使用大模型根据传感器尺寸对FOV进行推演，结果如下：
+
+* [M30相机](./sensor/52-0-0.json)
+* [M30T相机](./sensor/53-0-0.json)
+* [M3D相机](./sensor/80-0-0.json)
+* [M3TD相机](./sensor/81-0-0.json)
+* [M4D相机](./sensor/98-0-0.json)
+* [M4TD相机](./sensor/99-0-0.json)
+
+**特别声明**：相机传感器尺寸触及我的知识盲区，因此无法对大模型分析结果进行校对。推演结果与大疆技术参数有出入，请谨慎使用。如有相关行业大佬，欢迎审阅并指正。
+
+```json
+{
+    "device_model": "53-0-0",// 相机编码
+    "device_name": "Matrice 30T Camera",// 相机名称
+    "product_page": "https://enterprise.dji.com/cn/matrice-30/specs",// 相机部分技术参数
+    "sensor": [// 传感器信息
+        {
+            "type": "wide",// 相机类型
+            "desc": "广角",// 相机描述
+            "sensor_size": {// 传感器尺寸信息
+                "width": 6.4,
+                "height": 4.8,
+                "unit": "mm"
+            },
+            "pixel_size": {// 像元大小
+                "width": 1.6,
+                "height": 1.6,
+                "unit": "µm"
+            },
+            "photo_resolution": [// 照片分辨率
+                {
+                    "width": 4000,
+                    "height": 3000,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {// 真实焦距
+                "max": 4.5,
+                "min": 4.5,
+                "unit": "mm"
+            },
+            "fov": [// FOV（推算值）
+                {
+                    "factor": 1.0,// 光学变焦倍数
+                    "dfov": 83.27,// 对角线FOV（下同）
+                    "hfov": 70.83,// 水平FOV（下同）
+                    "vfov": 56.14,// 垂直FOV（下同）
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {// 等效焦距（推算值）
+                "max": 24.34,
+                "min": 24.34,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",// 相机类型
+            "desc": "变焦",// 相机描述
+            "sensor_size": {// 传感器尺寸信息
+                "width": 6.4,
+                "height": 4.8,
+                "unit": "mm"
+            },
+            "pixel_size": {// 像元大小
+                "width": 1.6,
+                "height": 1.6,
+                "unit": "µm"
+            },
+            "photo_resolution": [// 照片分辨率
+                {
+                    "width": 4000,// 大疆技术支持提供了两种分辨率，此处可能为超分模式下的分辨率
+                    "height": 3000,
+                    "unit": "px"
+                },
+                {
+                    "width": 8000,// 大疆技术支持提供了两种分辨率，此处可能为超分模式下的分辨率
+                    "height": 6000,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {// 真实焦距
+                "max": 75,
+                "min": 21,
+                "unit": "mm"
+            },
+            "fov": [// FOV（推算值）
+                {
+                    "factor": 4.67,// 光学变焦倍数。M30系列变焦相机为连续光学变焦，此处为最小倍数时FOV大小
+                    "dfov": 21.57,
+                    "hfov": 17.33,
+                    "vfov": 13.04,
+                    "unit": "°"
+                },
+                {
+                    "factor": 16.67,// 光学变焦倍数。M30系列变焦相机为连续光学变焦，此处为最焦倍数时FOV大小
+                    "dfov": 6.11,
+                    "hfov": 4.89,
+                    "vfov": 3.67,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {// 等效焦距（推算值）
+                "max": 405.62,
+                "min": 113.58,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "ir",// 相机类型
+            "desc": "红外",// 相机描述
+            "sensor_size": {// 传感器尺寸
+                "width": 7.68,
+                "height": 6.144,
+                "unit": "mm"
+            },
+            "pixel_size": {// 像元大小
+                "width": 12,
+                "height": 12,
+                "unit": "µm"
+            },
+            "photo_resolution": [// 照片分辨率
+                {
+                    "width": 640,
+                    "height": 512,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {// 真实焦距
+                "max": 9.1,
+                "min": 9.1,
+                "unit": "mm"
+            },
+            "fov": [// FOV（推算值）
+                {
+                    "factor": 2.02,// 光学变焦倍数
+                    "dfov": 56.77,
+                    "hfov": 45.76,
+                    "vfov": 37.31,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {// 等效焦距（推算值）
+                "max": 40.03,
+                "min": 40.03,
+                "unit": "mm"
+            }
+        }
+    ]
+}
+```
+
 
 ### 未来计划支持的开发资源
 * 踩坑记录（常见问题和排障方案）
-* 机型GSD信息
 * 设备属性
 * 文档中遗漏的各类枚举值
+* 补全大疆4代机场相关信息
 
 ### 其他
 欢迎提交必要需求。
