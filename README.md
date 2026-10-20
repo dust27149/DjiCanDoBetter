@@ -54,14 +54,11 @@
 * 大疆智图API(当前已从开发者网站下架，无法访问)
 * ……
 
-
-
-
 ### HMS健康告警 
 
 HMS功能是为了设备的问题能在云端显示，提升用户对于风险的感知和处理能力，以保障作业安全。
 
-当前存在的问题：错误码不全，一些已公开的常见HMS提示长期未收录进官方文档中。
+当前存在的问题：错误码不全，一些已公开的常见HMS提示长期未收录进官方文档中；一些细节问题未在文档中提及。
 
 本项目对HMS健康告警文件按设备类型了整理，见：
 
@@ -77,6 +74,14 @@ HMS功能是为了设备的问题能在云端显示，提升用户对于风险�
 * [大疆论坛](https://sdk-forum.dji.net/hc/zh-cn/categories/900001352083--上云API)
 * [大疆运载云端互联](https://terra-1-g.djicdn.com/28a68761a34f4df3b477d3cfca12eea2/SDK/drone-hms.json)
 * ……
+
+#### HMS信息的一些补充知识：
+* key格式符合`0x16100xxx`的，为328xxx相关的错误码，前缀包含并不限于`dock_tip_`/`fpv_tip_`等
+* key格式符合`0x16200xxx`的，为332xxx相关的错误码，前缀包含并不限于`dock_tip_`/`fpv_tip_`等
+* key格式符合`xxx_tip_xxx`的，其文案相当于错误信息；key格式符合`xxx_faq_content_xxx`或`xxx_faq_xxx`的，相当于该错误信息的排障方案
+* HMS通常两秒上报一次，且常常上报空数组；及时性的告警码建议显示不超过2秒
+* [HMS文档](https://developer.dji.com/doc/cloud-api-tutorial/cn/feature-set/dock-feature-set/hms.html)中提到：`飞行器拼接逻辑：fpv_tip_{code}_{in_the_sky}，以错误码为0x16100083为例：若协议中in_the_sky为1，设备在飞行时，文案Key为：fpv_tip_0x16100083_in_the_sky` 。但是官方提供的hms中有许多key不带`_in_the_sky`后缀（数量较多，本项目中也未进行补充）。因此，建议查询HMS告警文案时，不要死板地拼接该后缀。
+* 遥控器也会上报无人机的HMS，例如`{"event":"hms","method":"hms","output":{"codes":[{"component_index":0,"id":370147569,"level":3,"sensor_index":0},{"component_index":0,"id":370147570,"level":3,"sensor_index":0},{"component_index":0,"id":370147571,"level":3,"sensor_index":0},{"component_index":0,"id":370147572,"level":3,"sensor_index":0},{"component_index":0,"id":453509123,"level":1,"sensor_index":0}]}}`，将十进制的`id`转换为16进制字符串，并补充`fpv_tip_0x`等前缀后，可以在HMS中查到对应文案;`level`取值[0,4]，可以映射到HMS文档中对应的告警等级。
 
 ### 固件发布记录
 
