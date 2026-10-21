@@ -1,0 +1,587 @@
+{
+    "0-11-0": {
+        "domain": 0,
+        "type": 11,
+        "sub_type": 0,
+        "en": "Phantom 4",
+        "zh": "精灵 4",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/phantom-4/downloads"
+    },
+    "0-18-0": {
+        "domain": 0,
+        "type": 18,
+        "sub_type": 0,
+        "en": "Phantom 4 Pro",
+        "zh": "精灵 4 Pro",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/phantom-4-pro/downloads"
+    },
+    "0-27-0": {
+        "domain": 0,
+        "type": 27,
+        "sub_type": 0,
+        "en": "Phantom 4 Advanced",
+        "zh": "精灵 4 Advanced",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/phantom-4-adv/downloads"
+    },
+    "0-59-0": {
+        "domain": 0,
+        "type": 59,
+        "sub_type": 0,
+        "en": "Phantom 4 RTK",
+        "zh": "精灵 4 RTK",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/phantom-4-rtk/downloads"
+    },
+    "0-60-0": {
+        "domain": 0,
+        "type": 60,
+        "sub_type": 0,
+        "en": "Matrice 300 RTK",
+        "zh": "经纬 M300 RTK",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-300/downloads"
+    },
+    "0-67-0": {
+        "domain": 0,
+        "type": 67,
+        "sub_type": 0,
+        "en": "Matrice 30",
+        "zh": "经纬 M30",
+        "icon": "./img/0-67-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads"
+    },
+    "0-67-1": {
+        "domain": 0,
+        "type": 67,
+        "sub_type": 1,
+        "en": "Matrice 30T",
+        "zh": "经纬 M30T",
+        "icon": "./img/0-67-1.png",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads"
+    },
+    "0-77-0": {
+        "domain": 0,
+        "type": 77,
+        "sub_type": 0,
+        "en": "Mavic 3E",
+        "zh": "御 3E",
+        "icon": "./img/0-77-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "0-77-1": {
+        "domain": 0,
+        "type": 77,
+        "sub_type": 1,
+        "en": "Mavic 3T",
+        "zh": "御 3T",
+        "icon": "./img/0-77-1.png",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "0-77-2": {
+        "domain": 0,
+        "type": 77,
+        "sub_type": 2,
+        "en": "Mavic 3M",
+        "zh": "御 3M",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-m/downloads"
+    },
+    "0-77-3": {
+        "domain": 0,
+        "type": 77,
+        "sub_type": 3,
+        "en": "Mavic 3TA",
+        "zh": "御 3TA",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "0-89-0": {
+        "domain": 0,
+        "type": 89,
+        "sub_type": 0,
+        "en": "Matrice 350 RTK",
+        "zh": "经纬 M350 RTK",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-350-rtk/downloads"
+    },
+    "0-91-0": {
+        "domain": 0,
+        "type": 91,
+        "sub_type": 0,
+        "en": "Matrice 3D",
+        "zh": "经纬 M3D",
+        "icon": "./img/0-91-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads"
+    },
+    "0-91-1": {
+        "domain": 0,
+        "type": 91,
+        "sub_type": 1,
+        "en": "Matrice 3TD",
+        "zh": "经纬 M3TD",
+        "icon": "./img/0-91-1.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads"
+    },
+    "0-99-0": {
+        "domain": 0,
+        "type": 99,
+        "sub_type": 0,
+        "en": "Matrice 4E",
+        "zh": "经纬 M4E",
+        "icon": "./img/0-99-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-4-series/downloads"
+    },
+    "0-99-1": {
+        "domain": 0,
+        "type": 99,
+        "sub_type": 1,
+        "en": "Matrice 4T",
+        "zh": "经纬 M4T",
+        "icon": "./img/0-99-1.png",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-4-series/downloads"
+    },
+    "0-100-0": {
+        "domain": 0,
+        "type": 100,
+        "sub_type": 0,
+        "en": "Matrice 4D",
+        "zh": "经纬 M4D",
+        "icon": "./img/0-100-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "0-100-1": {
+        "domain": 0,
+        "type": 100,
+        "sub_type": 1,
+        "en": "Matrice 4TD",
+        "zh": "经纬 M4TD",
+        "icon": "./img/0-100-1.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "0-103-0": {
+        "domain": 0,
+        "type": 103,
+        "sub_type": 0,
+        "en": "Matrice 400",
+        "zh": "经纬 M400",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-400/downloads"
+    },
+    "0-130-0": {
+        "domain": 0,
+        "type": 130,
+        "sub_type": 0,
+        "en": "Matrice 5TD",
+        "zh": "经纬 M5TD",
+        "icon": "./img/0-130-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-4/downloads"
+    },
+    "1-20-0": {
+        "domain": 1,
+        "type": 20,
+        "sub_type": 0,
+        "en": "Zenmuse Z30",
+        "zh": "禅思 Z30",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/zenmuse-z30/downloads"
+    },
+    "1-26-0": {
+        "domain": 1,
+        "type": 26,
+        "sub_type": 0,
+        "en": "Zenmuse XT2",
+        "zh": "禅思 XT2",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/zenmuse-xt2/downloads"
+    },
+    "1-39-0": {
+        "domain": 1,
+        "type": 39,
+        "sub_type": 0,
+        "en": "FPV",
+        "zh": "FPV",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/dji-fpv/downloads"
+    },
+    "1-41-0": {
+        "domain": 1,
+        "type": 41,
+        "sub_type": 0,
+        "en": "Zenmuse XTS",
+        "zh": "禅思 XTS",
+        "icon": "",
+        "release_pages": ""
+    },
+    "1-42-0": {
+        "domain": 1,
+        "type": 42,
+        "sub_type": 0,
+        "en": "Zenmuse H20",
+        "zh": "禅思 H20",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-h20-series/downloads"
+    },
+    "1-43-0": {
+        "domain": 1,
+        "type": 43,
+        "sub_type": 0,
+        "en": "Zenmuse H20T",
+        "zh": "禅思 H20T",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-h20-series/downloads"
+    },
+    "1-50-0": {
+        "domain": 1,
+        "type": 50,
+        "sub_type": 0,
+        "en": "Zenmuse P1 (V3)",
+        "zh": "禅思 P1(V3)",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-p1/downloads"
+    },
+    "1-50-1": {
+        "domain": 1,
+        "type": 50,
+        "sub_type": 1,
+        "en": "Zenmuse P1 (24mm)",
+        "zh": "禅思 P1(24mm)",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-p1/downloads"
+    },
+    "1-50-2": {
+        "domain": 1,
+        "type": 50,
+        "sub_type": 2,
+        "en": "Zenmuse P1 (35mm)",
+        "zh": "禅思 P1(35mm)",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-p1/downloads"
+    },
+    "1-50-3": {
+        "domain": 1,
+        "type": 50,
+        "sub_type": 3,
+        "en": "Zenmuse P1 (50mm)",
+        "zh": "禅思 P1(50mm)",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-p1/downloads"
+    },
+    "1-50-65535": {
+        "domain": 1,
+        "type": 50,
+        "sub_type": 65535,
+        "en": "Zenmuse P1",
+        "zh": "禅思 P1",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-p1/downloads"
+    },
+    "1-52-0": {
+        "domain": 1,
+        "type": 52,
+        "sub_type": 0,
+        "en": "Matrice 30 Camera",
+        "zh": "经纬 M30相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads"
+    },
+    "1-53-0": {
+        "domain": 1,
+        "type": 53,
+        "sub_type": 0,
+        "en": "Matrice 30T Camera",
+        "zh": "经纬 M30T相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads"
+    },
+    "1-61-0": {
+        "domain": 1,
+        "type": 61,
+        "sub_type": 0,
+        "en": "Zenmuse H20N",
+        "zh": "禅思 H20N",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-h20n/downloads"
+    },
+    "1-66-0": {
+        "domain": 1,
+        "type": 66,
+        "sub_type": 0,
+        "en": "Mavic 3E Camera",
+        "zh": "御 3E相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "1-67-0": {
+        "domain": 1,
+        "type": 67,
+        "sub_type": 0,
+        "en": "Mavic 3T Camera",
+        "zh": "御 3T相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "1-68-0": {
+        "domain": 1,
+        "type": 68,
+        "sub_type": 0,
+        "en": "Mavic 3M Camera",
+        "zh": "御 3M相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-m/downloads"
+    },
+    "1-80-0": {
+        "domain": 1,
+        "type": 80,
+        "sub_type": 0,
+        "en": "Matrice 3D Camera",
+        "zh": "经纬 M3D相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads"
+    },
+    "1-81-0": {
+        "domain": 1,
+        "type": 81,
+        "sub_type": 0,
+        "en": "Matrice 3TD Camera",
+        "zh": "经纬 M3TD相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads"
+    },
+    "1-82-0": {
+        "domain": 1,
+        "type": 82,
+        "sub_type": 0,
+        "en": "Zenmuse H30",
+        "zh": "禅思 H30",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-h30-series/downloads"
+    },
+    "1-83-0": {
+        "domain": 1,
+        "type": 83,
+        "sub_type": 0,
+        "en": "Zenmuse H30T",
+        "zh": "禅思 H30T",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-h30-series/downloads"
+    },
+    "1-84-0": {
+        "domain": 1,
+        "type": 84,
+        "sub_type": 0,
+        "en": "Zenmuse L2",
+        "zh": "禅思 L2",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-l2/downloads"
+    },
+    "1-88-0": {
+        "domain": 1,
+        "type": 88,
+        "sub_type": 0,
+        "en": "Matrice 4E Camera",
+        "zh": "经纬 M4E相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-4-series/downloads"
+    },
+    "1-89-0": {
+        "domain": 1,
+        "type": 89,
+        "sub_type": 0,
+        "en": "Matrice 4T Camera",
+        "zh": "经纬 M4T相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-4-series/downloads"
+    },
+    "1-98-0": {
+        "domain": 1,
+        "type": 98,
+        "sub_type": 0,
+        "en": "Matrice 4D Camera",
+        "zh": "经纬 M4D相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "1-99-0": {
+        "domain": 1,
+        "type": 99,
+        "sub_type": 0,
+        "en": "Matrice 4TD Camera",
+        "zh": "经纬 M4TD相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "1-117-0": {
+        "domain": 1,
+        "type": 117,
+        "sub_type": 0,
+        "en": "Zenmuse L3",
+        "zh": "禅思 L3",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-l3/downloads"
+    },
+    "1-122-0": {
+        "domain": 1,
+        "type": 122,
+        "sub_type": 0,
+        "en": "Matrice 5TD Camera",
+        "zh": "经纬 M5TD相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-4/downloads"
+    },
+    "1-129-0": {
+        "domain": 1,
+        "type": 129,
+        "sub_type": 0,
+        "en": "Mavic 3TA Camera",
+        "zh": "御 3TA相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "1-165-0": {
+        "domain": 1,
+        "type": 165,
+        "sub_type": 0,
+        "en": "Dock Camera",
+        "zh": "机场相机",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "1-176-0": {
+        "domain": 1,
+        "type": 176,
+        "sub_type": 0,
+        "en": "Assistant Camera",
+        "zh": "辅助影像",
+        "icon": "",
+        "release_pages": ""
+    },
+    "1-90742-0": {
+        "domain": 1,
+        "type": 90742,
+        "sub_type": 0,
+        "en": "Zenmuse L1",
+        "zh": "禅思 L1",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/zenmuse-l1/downloads"
+    },
+    "2-56-0": {
+        "domain": 2,
+        "type": 56,
+        "sub_type": 0,
+        "en": "DJI Smart Controller",
+        "zh": "DJI 带屏遥控器",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/smart-controller/downloads"
+    },
+    "2-119-0": {
+        "domain": 2,
+        "type": 119,
+        "sub_type": 0,
+        "en": "DJI RC Plus",
+        "zh": "DJI RC Plus",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads"
+    },
+    "2-144-0": {
+        "domain": 2,
+        "type": 144,
+        "sub_type": 0,
+        "en": "DJI RC Pro",
+        "zh": "DJI RC Pro",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/mavic-3-enterprise/downloads"
+    },
+    "2-174-0": {
+        "domain": 2,
+        "type": 174,
+        "sub_type": 0,
+        "en": "DJI RC Plus 2",
+        "zh": "DJI RC Plus 2",
+        "icon": "",
+        "release_pages": "https://enterprise.dji.com/cn/matrice-4-series/downloads"
+    },
+    "3-1-0": {
+        "domain": 3,
+        "type": 1,
+        "sub_type": 0,
+        "en": "DJI Dock",
+        "zh": "大疆机场 1",
+        "icon": "./img/3-1-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock/downloads"
+    },
+    "3-2-0": {
+        "domain": 3,
+        "type": 2,
+        "sub_type": 0,
+        "en": "DJI Dock 2",
+        "zh": "大疆机场 2",
+        "icon": "./img/3-2-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads"
+    },
+    "3-3-0": {
+        "domain": 3,
+        "type": 3,
+        "sub_type": 0,
+        "en": "DJI Dock 3",
+        "zh": "大疆机场 3",
+        "icon": "./img/3-3-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads"
+    },
+    "3-4-0": {
+        "domain": 3,
+        "type": 4,
+        "sub_type": 0,
+        "en": "DJI Dock 4",
+        "zh": "大疆机场 4",
+        "icon": "./img/3-4-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-4/downloads"
+    },
+    "6-600-0": {
+        "domain": 6,
+        "type": 600,
+        "sub_type": 0,
+        "en": "D-RTK 3",
+        "zh": "D-RTK3多功能基站",
+        "icon": "./img/6-600-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/d-rtk-3/downloads"
+    },
+    "6-610-0": {
+        "domain": 6,
+        "type": 610,
+        "sub_type": 0,
+        "en": "DJI O4 Ground Station (Relay)",
+        "zh": "O4 地面站（中继）",
+        "icon": "./img/6-610-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/o4-ground-station/downloads"
+    },
+    "7-262-1": {
+        "domain": 7,
+        "type": 262,
+        "sub_type": 1,
+        "en": "DJI Power Auro 2000 Elite",
+        "zh": "DJI Power Auro 2000 Elite",
+        "icon": "",
+        "release_pages": "https://www.dji.com/cn/downloads/products/power-auro-2000-elite"
+    },
+    "8-135-0": {
+        "domain": 8,
+        "type": 135,
+        "sub_type": 0,
+        "en": "DJI O4 Ground Station",
+        "zh": "DJI O4 地面站",
+        "icon": "./img/8-135-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/o4-ground-station/downloads"
+    },
+    "9-131-0": {
+        "domain": 9,
+        "type": 131,
+        "sub_type": 0,
+        "en": "DJI Dock 4 (Hangar)",
+        "zh": "大疆机场 4（机库）",
+        "icon": "./img/9-131-0.png",
+        "release_pages": "https://enterprise.dji.com/cn/dock-4/downloads"
+    }
+}
