@@ -39,17 +39,17 @@
     "zh": "激光测距接收器高压异常"
   },
   "fpv_faq_content_0x14043001": {
-    "de": "1. Umgebungstemperatur und Wärmeableitung prüfen\\n2. Gerät neu starten und prüfen, ob die Funktion wieder normal ist\\n3. Sollte das Problem weiterhin bestehen, kontaktiere bitte den Vertragshändler oder den DJI Support",
-    "ru": "1. Проверьте температуру окружающей среды и теплоотвод\\n2. Перезапустите устройство и проверьте, восстановилась ли функция\\n3. Если проблема сохраняется, обратитесь к уполномоченному местному представителю или в службу поддержки DJI",
-    "ko": "1. 주변 온도와 방열 상태를 확인하세요\\n2. 기기를 재시작하고 기능이 정상으로 돌아오는지 확인하세요\\n3. 문제가 지속되면 공인 현지 딜러 또는 DJI 고객지원에 문의하세요",
-    "pt": "1. Verifique a temperatura ambiente e a dissipação de calor\\n2. Reinicie o dispositivo e verifique se a função volta ao normal\\n3. Se o problema persistir, entre em contato com um revendedor local autorizado ou com o Suporte DJI",
-    "ja": "1. 周囲温度と放熱状態を確認してください\\n2. 機器を再起動し、機能が正常に戻るか確認してください\\n3. 問題が解決しない場合は、お近くの正規代理店またはDJIサポートまでお問い合わせください",
-    "en": "1. Check ambient temperature and heat dissipation\\n2. Restart device and check if function returns to normal\\n3. If issue persists, contact authorized local dealer or DJI Support",
-    "it": "1. Controlla la temperatura ambiente e la dissipazione del calore\\n2. Riavvia il dispositivo e verifica se la funzione torna alla normalità\\n3. Se il problema persiste, contatta il rivenditore locale autorizzato o l'assistenza DJI",
-    "fr": "1. Vérifiez la température ambiante et la dissipation thermique\\n2. Redémarrez l’appareil et vérifiez si la fonction redevient normale\\n3. Si le problème persiste, contactez votre revendeur local agréé ou le service client DJI",
-    "pl": "1. Sprawdź temperaturę otoczenia i odprowadzanie ciepła.\\n2. Uruchom urządzenie ponownie i sprawdź, czy funkcja znowu działa prawidłowo.\\n3. Jeśli problem nadal występuje, skontaktuj się z autoryzowanym lokalnym sprzedawcą lub pomocą techniczną DJI.",
-    "es": "1. Compruebe la temperatura ambiente y la disipación del calor\\n2. Reinicie el dispositivo y compruebe si la función vuelve a la normalidad\\n3. Si el problema persiste, póngase en contacto con un distribuidor local autorizado o con la asistencia técnica de DJI",
-    "zh": "1、请检查环境温度与散热情况。\\r\\r\\n2、重启后确认功能是否恢复正常工作。\\r\\r\\n3、若仍存在该问题，请联系就近代理商或DJI 大疆创新售后服务。"
+    "de": "1. Umgebungstemperatur und Wärmeableitung prüfen\n2. Gerät neu starten und prüfen, ob die Funktion wieder normal ist\n3. Sollte das Problem weiterhin bestehen, kontaktiere bitte den Vertragshändler oder den DJI Support",
+    "ru": "1. Проверьте температуру окружающей среды и теплоотвод\n2. Перезапустите устройство и проверьте, восстановилась ли функция\n3. Если проблема сохраняется, обратитесь к уполномоченному местному представителю или в службу поддержки DJI",
+    "ko": "1. 주변 온도와 방열 상태를 확인하세요\n2. 기기를 재시작하고 기능이 정상으로 돌아오는지 확인하세요\n3. 문제가 지속되면 공인 현지 딜러 또는 DJI 고객지원에 문의하세요",
+    "pt": "1. Verifique a temperatura ambiente e a dissipação de calor\n2. Reinicie o dispositivo e verifique se a função volta ao normal\n3. Se o problema persistir, entre em contato com um revendedor local autorizado ou com o Suporte DJI",
+    "ja": "1. 周囲温度と放熱状態を確認してください\n2. 機器を再起動し、機能が正常に戻るか確認してください\n3. 問題が解決しない場合は、お近くの正規代理店またはDJIサポートまでお問い合わせください",
+    "en": "1. Check ambient temperature and heat dissipation\n2. Restart device and check if function returns to normal\n3. If issue persists, contact authorized local dealer or DJI Support",
+    "it": "1. Controlla la temperatura ambiente e la dissipazione del calore\n2. Riavvia il dispositivo e verifica se la funzione torna alla normalità\n3. Se il problema persiste, contatta il rivenditore locale autorizzato o l'assistenza DJI",
+    "fr": "1. Vérifiez la température ambiante et la dissipation thermique\n2. Redémarrez l’appareil et vérifiez si la fonction redevient normale\n3. Si le problème persiste, contactez votre revendeur local agréé ou le service client DJI",
+    "pl": "1. Sprawdź temperaturę otoczenia i odprowadzanie ciepła.\n2. Uruchom urządzenie ponownie i sprawdź, czy funkcja znowu działa prawidłowo.\n3. Jeśli problem nadal występuje, skontaktuj się z autoryzowanym lokalnym sprzedawcą lub pomocą techniczną DJI.",
+    "es": "1. Compruebe la temperatura ambiente y la disipación del calor\n2. Reinicie el dispositivo y compruebe si la función vuelve a la normalidad\n3. Si el problema persiste, póngase en contacto con un distribuidor local autorizado o con la asistencia técnica de DJI",
+    "zh": "1、请检查环境温度与散热情况。\r\r\n2、重启后确认功能是否恢复正常工作。\r\r\n3、若仍存在该问题，请联系就近代理商或DJI 大疆创新售后服务。"
   },
   "fpv_faq_content_0x14043002": {
     "de": "Lasertemperaturfehler des Laser-Entfernungsmessers",
@@ -866,14 +866,14 @@
     "zh": "起落架异常，避障性能降低，请谨慎飞行，注意降落镜头保护，请联系售后"
   },
   "fpv_tip_0x11020030": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%battery_index Akkudeckel-Temperaturfehler. Auf Flugmodus mit einem Akku umgestellt. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Ошибка температуры крышки аккумулятора %battery_index. Выполнено переключение на полет с одним аккумулятором. Выполните возврат домой или посадку незамедлительно",
+    "ko": "%battery_index 배터리 커버 온도 오류. 싱글 배터리 비행으로 전환되었습니다. 리턴 투 홈을 실행하거나 즉시 착륙하세요.",
+    "pt": "Erro de temperatura da tampa da bateria %battery_index. Alternado para voo com uma única bateria. Retorne à base ou pouse imediatamente.",
+    "ja": "%battery_index バッテリーカバーの温度エラー。単一バッテリー飛行に切り替えました。直ちにホーム帰還または着陸してください",
     "en": "%battery_index battery cover temperature error. Switched to single-battery flight. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de température du couvercle de la batterie %battery_index. Passage en vol avec batterie unique. Revenez au point de départ ou atterrissez rapidement",
+    "es": "Error de temperatura de la tapa del compartimento de la batería %battery_index. Cambiado a vuelo con una sola batería. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池上盖温度异常，转为单电池飞行，请尽快返航或降落"
   },
   "fpv_tip_0x11020030_ta101": {
@@ -888,14 +888,14 @@
     "zh": ""
   },
   "fpv_tip_0x11020031": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%battery_index Akkuanschluss-Temperaturfehler. Auf Flugmodus mit einem Akku umgestellt. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Ошибка температуры разъема аккумулятора %battery_index. Выполнено переключение на полет с одним аккумулятором. Выполните возврат домой или посадку незамедлительно",
+    "ko": "%battery_index 배터리 커넥터 온도 오류. 싱글 배터리 비행으로 전환되었습니다. 리턴 투 홈을 실행하거나 즉시 착륙하세요.",
+    "pt": "Erro de temperatura do conector da bateria %battery_index. Mudou para voo com bateria única. Retorne para casa ou pouse imediatamente.",
+    "ja": "%battery_index バッテリーコネクターの温度エラー。単一バッテリー飛行に切り替えました。直ちにホーム帰還または着陸してください",
     "en": "%battery_index battery connector temperature error. Switched to single-battery flight. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de température du connecteur de la batterie %battery_index. Passage en vol avec batterie unique. Revenez au point de départ ou atterrissez rapidement",
+    "es": "Error de temperatura del conector de la batería %battery_index. Cambiado a vuelo con una sola batería. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池连接器温度异常，转为单电池飞行，请尽快返航或降落"
   },
   "fpv_tip_0x11020031_ta101": {
@@ -910,14 +910,14 @@
     "zh": ""
   },
   "fpv_tip_0x11020032": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%battery_index Akku-Temperaturfehler. Auf Flugmodus mit einem Akku umgestellt. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Ошибка температуры аккумулятора %battery_index. Выполнено переключение на полет с одним аккумулятором. Выполните возврат домой или посадку незамедлительно",
+    "ko": "%battery_index 배터리 온도 오류. 싱글 배터리 비행으로 전환되었습니다. 리턴 투 홈을 실행하거나 즉시 착륙하세요.",
+    "pt": "Erro de temperatura da bateria %battery_index. Mudou para voo com uma única bateria. Retorne ao ponto de origem ou pouse imediatamente.",
+    "ja": "%battery_index バッテリー温度エラー。単一バッテリー飛行に切り替えました。直ちにホーム帰還または着陸してください",
     "en": "%battery_index battery temperature error. Switched to single-battery flight. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de température de la batterie %battery_index. Passage en vol avec batterie unique. Revenez au point de départ ou atterrissez rapidement",
+    "es": "Error de temperatura de la batería %battery_index. Cambiado a vuelo con una sola batería. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池温度异常，转为单电池飞行，请尽快返航或降落"
   },
   "fpv_tip_0x11020032_ta101": {
@@ -932,14 +932,14 @@
     "zh": ""
   },
   "fpv_tip_0x11020033": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%battery_index Akku-Fehler. Auf Flugmodus mit einem Akku umgestellt. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Ошибка аккумулятора %battery_index. Выполнено переключение на полет с одним аккумулятором. Выполните возврат домой или посадку незамедлительно",
+    "ko": "%battery_index 배터리 오류. 싱글 배터리 비행으로 전환되었습니다. 리턴 투 홈을 실행하거나 즉시 착륙하세요.",
+    "pt": "Erro na bateria %battery_index. Troca para voo com uma única bateria. Retorne para casa ou pouse imediatamente.",
+    "ja": "%battery_index バッテリーエラー。単一バッテリー飛行に切り替えました。直ちにホーム帰還または着陸してください",
     "en": "%battery_index battery error. Switched to single-battery flight. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de la batterie %battery_index. Passage en vol avec batterie unique. Revenez au point de départ ou atterrissez rapidement",
+    "es": "Error de batería %battery_index. Cambiado a vuelo con una sola batería. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池异常，转为单电池飞行，请尽快返航或降落"
   },
   "fpv_tip_0x11020033_ta101": {
@@ -2472,7 +2472,7 @@
     "ru": "Перегрев процессора. Вернитесь в домашнюю точку или приземлитесь как можно скорее. Снимите полезную нагрузку и подождите, пока она остынет, перед повторным использованием",
     "ko": "페이로드 프로세서 과열. 즉시 RTH 또는 착륙 필요. 페이로드 분리 후 열이 다 식은 후 사용 가능",
     "pt": "",
-    "ja": "ペイロードプロセッサー高温。直ちに帰還するか着陸してください。ペイロードを取り外し、プロセッサーが常温に戻るまで待ち\\r\\r\\n、使用してください",
+    "ja": "ペイロードプロセッサー高温。直ちに帰還するか着陸してください。ペイロードを取り外し、プロセッサーが常温に戻るまで待ち\r\r\n、使用してください",
     "en": "Payload processor overheated. Return to home or land promptly. Remove payload and wait for it to cool down before use",
     "fr": "Surchauffe du processeur de la charge utile. Retournez au point de départ ou atterrissez rapidement. Retirer la charge utile et attendez qu'elle revienne à une température normale",
     "es": "Procesador del instrumento sobrecalentado. Regresa al punto de origen o aterriza rápidamente. Quita el instrumento y espera a que se enfríe antes del uso",
@@ -2787,7 +2787,7 @@
     "en": "",
     "fr": "",
     "es": "",
-    "zh": "1、请检查环境温度是否过高或过低。 \\r\\n2、重启后确认环扫激光雷达是否恢复正常。"
+    "zh": "1、请检查环境温度是否过高或过低。 \r\n2、重启后确认环扫激光雷达是否恢复正常。"
   },
   "fpv_tip_0x14021008": {
     "de": "",
@@ -2878,25 +2878,25 @@
     "zh": "环境温度低，激光雷达预热中，避障能力退化，请注意飞行安全"
   },
   "fpv_tip_0x14023001": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Temperaturfehler des Hauptsteuerchips des Laser-Entfernungsmessers",
+    "ru": "Ошибка температуры основного управляющего чипа лазерного дальномера",
+    "ko": "레이저 거리 측정기 메인 제어 칩 온도 이상",
+    "pt": "Erro de temperatura do chip de controle principal do telêmetro a laser",
+    "ja": "レーザー距離計のメイン制御チップの温度異常",
+    "en": "Laser rangefinder main control chip temperature error",
+    "fr": "Erreur de température de la puce de contrôle principale du télémètre laser",
+    "es": "Error de temperatura del chip de control principal del telémetro láser",
     "zh": "激光测距主控芯片温度异常"
   },
   "fpv_tip_0x14023008": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Parameterfehler des Laser-Entfernungsmessers",
+    "ru": "Ошибка параметров лазерного дальномера",
+    "ko": "레이저 거리 측정기 파라미터 이상",
+    "pt": "Erro de parâmetros do telêmetro a laser",
+    "ja": "レーザー距離計のパラメーター異常",
+    "en": "Laser rangefinder parameter error",
+    "fr": "Erreur de paramètres du télémètre laser",
+    "es": "Error de parámetros del telémetro láser",
     "zh": "激光测距参数异常"
   },
   "fpv_tip_0x14030000": {
@@ -3113,7 +3113,7 @@
     "en": "",
     "fr": "",
     "es": "",
-    "zh": "1、请检查环境温度是否过高或过低。 \\r\\n2、重启后确认环扫激光雷达是否恢复正常。"
+    "zh": "1、请检查环境温度是否过高或过低。 \r\n2、重启后确认环扫激光雷达是否恢复正常。"
   },
   "fpv_tip_0x14041002": {
     "de": "",
@@ -3124,7 +3124,7 @@
     "en": "",
     "fr": "",
     "es": "",
-    "zh": "1、请检查环境温度是否过高或过低。 \\r\\n2、重启后确认环扫激光雷达是否恢复正常。"
+    "zh": "1、请检查环境温度是否过高或过低。 \r\n2、重启后确认环扫激光雷达是否恢复正常。"
   },
   "fpv_tip_0x14041005": {
     "de": "",
@@ -3160,58 +3160,58 @@
     "zh": "请重启飞行器，重启后确认环扫激光雷达是否恢复正常。"
   },
   "fpv_tip_0x14043000": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Hochspannungsfehler des Empfängers des Laser-Entfernungsmessers",
+    "ru": "Ошибка высокого напряжения приемника лазерного дальномера",
+    "ko": "레이저 거리 측정기 수신기 고전압 이상",
+    "pt": "Erro de alta tensão do receptor do telêmetro a laser",
+    "ja": "レーザー距離計の受信器の高電圧異常",
+    "en": "Laser rangefinder receiver high voltage error",
+    "fr": "Erreur de haute tension du récepteur du télémètre laser",
+    "es": "Error de alto voltaje del receptor del telémetro láser",
     "zh": "激光测距接收器高压异常"
   },
   "fpv_tip_0x14043001": {
-    "de": "Temperatur des Laser-Entfernungsmessempfängers anormal. Die Entfernungsmessfunktion wird eingeschränkt oder deaktiviert. Wird wiederhergestellt, sobald die Temperatur wieder normal ist.",
-    "ru": "Аномальная температура приемника лазерного дальномера. Функция измерения расстояния будет ограничена или отключена. Работа восстановится после возврата температуры к норме.",
-    "ko": "레이저 거리 측정 수신기 온도 이상. 거리 측정 기능이 저하되거나 비활성화됩니다. 온도가 정상으로 회복되면 복구됩니다.",
-    "pt": "",
-    "ja": "レーザー測距レシーバーの温度に異常があります。測距機能が制限または無効になります。温度が常温に戻ると復旧します。",
-    "en": "Laser rangefinder receiver temperature abnormal. Ranging function will be degraded or disabled. Will recover after temperature returns to normal.",
-    "fr": "Température anormale du récepteur du télémètre laser. La fonction de télémétrie sera dégradée ou désactivée. La fonction sera rétablie une fois la température revenue à la normale.",
-    "es": "Temperatura anómala del receptor del telémetro láser. La función de telemetría se degradará o se desactivará. Se restablecerá cuando la temperatura vuelva a la normalidad.",
-    "zh": "激光测距接收器温度异常；测距功能将降级或关闭；复温后恢复；"
+    "de": "Temperatur des Laser-Entfernungsmesser-Empfängers abnormal. Die Entfernungsmessfunktion wird eingeschränkt oder deaktiviert",
+    "ru": "Ненормальная температура приемника лазерного дальномера. Функция измерения расстояния будет ограничена или отключена",
+    "ko": "레이저 거리측정기 수신기 온도가 비정상입니다. 거리 측정 기능의 성능이 저하되거나 비활성화됩니다",
+    "pt": "Temperatura anormal do receptor do telêmetro a laser. A função de medição de distância será reduzida ou desativada.",
+    "ja": "レーザー距離計の受光部温度に異常があります。測距機能の性能が低下するか、無効になります",
+    "en": "Laser rangefinder receiver temperature abnormal. Ranging function will be downgraded or disabled",
+    "fr": "Température anormale du récepteur du télémètre laser. La fonction de mesure de distance sera dégradée ou désactivée",
+    "es": "Temperatura anómala del receptor del telémetro láser. La función de medición de distancia se reducirá o desactivará",
+    "zh": "激光测距接收器温度异常，测距功能将降级或关闭"
   },
   "fpv_tip_0x14043002": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Lasertemperaturfehler des Laser-Entfernungsmessers",
+    "ru": "Ошибка температуры лазера лазерного дальномера",
+    "ko": "레이저 거리 측정기 레이저 온도 이상",
+    "pt": "Erro de temperatura do laser do telêmetro a laser",
+    "ja": "レーザー距離計のレーザー温度異常",
+    "en": "Laser rangefinder laser temperature error",
+    "fr": "Erreur de température du laser du télémètre laser",
+    "es": "Error de temperatura del láser del telémetro láser",
     "zh": "激光测距激光器温度异常"
   },
   "fpv_tip_0x14043003": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "TIA_DC-Schwellenwertfehler des Laser-Entfernungsmessers",
+    "ru": "Ошибка порога TIA_DC лазерного дальномера",
+    "ko": "레이저 거리 측정기 TIA_DC 임계값 이상",
+    "pt": "Erro de limite TIA_DC do telêmetro a laser",
+    "ja": "レーザー距離計のTIA_DCしきい値異常",
+    "en": "Laser rangefinder TIA_DC threshold error",
+    "fr": "Erreur de seuil TIA_DC du télémètre laser",
+    "es": "Error de umbral TIA_DC del telémetro láser",
     "zh": "激光测距TIA_DC阈值异常"
   },
   "fpv_tip_0x14043004": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Hauptsteuerspannungsfehler des Laser-Entfernungsmessers",
+    "ru": "Ошибка напряжения основного управления лазерного дальномера",
+    "ko": "레이저 거리 측정기 메인 제어 전압 이상",
+    "pt": "Erro de tensão de controle principal do telêmetro a laser",
+    "ja": "レーザー距離計のメイン制御電圧異常",
+    "en": "Laser rangefinder main control voltage error",
+    "fr": "Erreur de tension de contrôle principale du télémètre laser",
+    "es": "Error de voltaje de control principal del telémetro láser",
     "zh": "激光测距主控电压异常"
   },
   "fpv_tip_0x14050000": {
@@ -3304,14 +3304,14 @@
     "zh": "近红外补光功率异常并关闭，请重启或联系售后客服"
   },
   "fpv_tip_0x14063000": {
-    "de": "Funktion deaktiviert. Stromversorgung des Fülllichts des Laser-Entfernungsmessers fehlerhaft",
+    "de": "Funktion deaktiviert. Stromversorgung des Fülllichts des Laser-Entfernungsmessers abnormal",
     "ru": "Функция отключена. Ненормальная мощность подсветки лазерного дальномера",
     "ko": "기능 비활성화됨. 레이저 거리측정기 필라이트 전원 이상",
-    "pt": "",
+    "pt": "Função desativada. A alimentação da luz de preenchimento do sensor telemétrico está anormal.",
     "ja": "機能が無効です。レーザー距離計の補助光の電源に異常があります",
     "en": "Function disabled. Laser rangefinder fill light power abnormal",
     "fr": "Fonction désactivée. Anomalie d’alimentation de la lampe d’appoint du télémètre laser",
-    "es": "Función deshabilitada. Alimentación anómala de la luz de relleno del telémetro láser",
+    "es": "Función desactivada. Potencia anómala de la luz de relleno del telémetro láser",
     "zh": "激光测距补光灯功率异常，功能已关闭"
   },
   "fpv_tip_0x1466001": {
@@ -4827,23 +4827,25 @@
     "zh": "当前仅使用雷达定位，请勿在狭窄走廊、隧道等环境飞行"
   },
   "fpv_tip_0x16010051": {
-    "de": "Dock-Ausrichtung geändert. Dock erneut einsetzen",
-    "ru": "Ориентация док-станции изменена. Выполните повторное развертывание",
-    "ko": "도크 방향 변경됨. 도크를 다시 배치하세요",
-    "ja": "ドックの向きが変更されました。ドックを再配置してください",
-    "en": "Dock orientation changed. Redeploy dock",
-    "fr": "L’orientation du dock a changé. Redéployez le dock",
-    "es": "La orientación del dock ha cambiado. Vuelva a desplegarlo.",
+    "de": "Dock-Ausrichtung geändert. Setzen Sie das Dock erneut ein",
+    "ru": "Ориентация док-станции изменена. Разверните док-станцию заново",
+    "ko": "도크 방향이 변경되었습니다. 도크를 다시 배치하세요",
+    "pt": "A orientação do dock mudou. Reimplante o dock",
+    "ja": "ドックの向きが変更されました。ドックを再展開してください",
+    "en": "Dock orientation changed. Redeploy the dock",
+    "fr": "L'orientation du dock a changé. Redéployez le dock",
+    "es": "La orientación del dock ha cambiado. Vuelva a desplegar el dock",
     "zh": "机场朝向改变，请重新部署机场"
   },
   "fpv_tip_0x16010052": {
-    "de": "Dock-Standort geändert. Dock erneut einsetzen",
-    "ru": "Местоположение док-станции изменено. Выполните повторное развертывание",
-    "ko": "도크 위치 변경됨. 도크를 다시 배치하세요",
-    "ja": "ドックの位置が変更されました。ドックを再配置してください",
-    "en": "Dock location changed. Redeploy dock",
-    "fr": "Emplacement du dock modifié. Redéployez le dock",
-    "es": "La ubicación del dock ha cambiado. Vuelva a desplegarlo.",
+    "de": "Dock-Position geändert. Setzen Sie das Dock erneut ein",
+    "ru": "Положение док-станции изменено. Разверните док-станцию заново",
+    "ko": "도크 위치가 변경되었습니다. 도크를 다시 배치하세요",
+    "pt": "A posição do dock mudou. Reimplante o dock",
+    "ja": "ドックの位置が変更されました。ドックを再展開してください",
+    "en": "Dock position changed. Redeploy the dock",
+    "fr": "La position du dock a changé. Redéployez le dock",
+    "es": "La posición del dock ha cambiado. Vuelva a desplegar el dock",
     "zh": "机场位置改变，请重新部署机场"
   },
   "fpv_tip_0x16020001": {
@@ -5518,13 +5520,14 @@
     "zh": "卫星定位信号干扰强，飞行器自动返航"
   },
   "fpv_tip_0x16050021": {
-    "de": "RTK nicht konvergiert. Fluggerät in einem offenen Bereich platzieren und Aufgabe starten, nachdem RTK konvergiert ist.",
+    "de": "RTK nicht konvergiert. Fluggerät in einem offenen Bereich platzieren und Aufgabe starten, nachdem RTK konvergiert ist",
     "ru": "RTK без конвергенции. Разместите дрон на открытой местности и приступайте к выполнению задачи после конвергенции RTK",
     "ko": "RTK가 수렴되지 않았습니다. 기체를 개방된 공간에 두고 RTK가 수렴된 후 작업을 시작하세요",
+    "pt": "RTK não convergido. Coloque a aeronave em uma área aberta e inicie a tarefa após o RTK convergir.",
     "ja": "RTKが収束していません。機体を開けた場所に置き、RTKが収束したらタスクを開始してください",
     "en": "RTK not converged. Place aircraft in an open area and start task after RTK converged",
-    "fr": "RTK non convergent. Placez l'appareil dans une zone dégagée et démarrez la tâche après la convergence RTK",
-    "es": "RTK no convergente. Sitúe la aeronave en una zona abierta y comience la tarea después de la convergencia de RTK",
+    "fr": "RTK non convergé. Placez l’appareil dans une zone dégagée et démarrez la tâche après la convergence RTK",
+    "es": "RTK no convergido. Coloque la aeronave en un área abierta e inicie la tarea después de que RTK haya convergido",
     "zh": "RTK 启用未收敛，请将飞机置于空旷环境等待 RTK 收敛后执行任务"
   },
   "fpv_tip_0x16050022": {
@@ -5795,24 +5798,26 @@
     "zh": "RTK信号源切换异常"
   },
   "fpv_tip_0x16070032": {
-    "de": "D-RTK-Basisstation getrennt",
-    "ru": "Базовая станция D-RTK отсоединена",
-    "ko": "D-RTK 베이스 스테이션 분리됨",
-    "ja": "D-RTK基地局が取り外されました",
-    "en": "D-RTK base station detached",
-    "fr": "Station de base D-RTK détachée",
-    "es": "Estación base D-RTK desacoplada",
-    "zh": "D-RTK 基准站倾倒"
+    "de": "Relaisstation wurde getrennt",
+    "ru": "Ретрансляционная станция упала",
+    "ko": "릴레이 스테이션 이탈됨",
+    "pt": "A estação retransmissora caiu",
+    "ja": "リレーステーションが落下しました",
+    "en": "Relay station fell off",
+    "fr": "La station de relais est tombée",
+    "es": "La estación repetidora se ha caído",
+    "zh": "中继站倾倒"
   },
   "fpv_tip_0x16070033": {
-    "de": "D-RTK-Basisstation bewegt",
-    "ru": "Базовая станция D-RTK перемещена",
-    "ko": "D-RTK 베이스 스테이션 이동됨",
-    "ja": "D-RTK基地局が移動しました",
-    "en": "D-RTK base station moved",
-    "fr": "Station de base D-RTK déplacée",
-    "es": "Estación base D-RTK movida",
-    "zh": "D-RTK 基准站发生移动"
+    "de": "Relaisstation verschoben",
+    "ru": "Ретрансляционная станция перемещена",
+    "ko": "릴레이 스테이션 이동됨",
+    "pt": "Estação de retransmissão movida",
+    "ja": "リレーステーションが移動しました",
+    "en": "Relay station moved",
+    "fr": "Station de relais déplacée",
+    "es": "La estación repetidora se ha movido",
+    "zh": "中继站发生移动"
   },
   "fpv_tip_0x16070034": {
     "de": "RTK-Flugkurs mit anderen Quellen inkonsistent. Vorsichtig fliegen.",
@@ -5825,14 +5830,15 @@
     "zh": "RTK 航向与其他源不一致"
   },
   "fpv_tip_0x16070035": {
-    "de": "D-RTK-Fluggeräte-Antennenfehler. Vorsichtig fliegen.",
-    "ru": "Ошибка антенны D-RTK дрона",
-    "ko": "항공기 D-RTK 안테나 오류입니다. 주의하여 비행하세요.",
-    "ja": "機体のD-RTKアンテナのエラーです。注意して飛行してください",
-    "en": "Aircraft D-RTK antenna error",
-    "fr": "Erreur d'antenne D-RTK de l'appareil. Volez avec prudence",
-    "es": "Error de la antena D-RTK de la aeronave. Vuela con cuidado",
-    "zh": "机载 D-RTK 天线异常"
+    "de": "Fehler an der Antenne der Onboard-Relaisstation",
+    "ru": "Ошибка антенны встроенной ретрансляционной станции",
+    "ko": "온보드 릴레이 스테이션 안테나 오류",
+    "pt": "Erro na antena da estação de retransmissão onboard",
+    "ja": "搭載リレーステーションアンテナエラー",
+    "en": "Onboard relay station antenna error",
+    "fr": "Erreur d’antenne de la station relais embarquée",
+    "es": "Error de la antena de la estación repetidora integrada",
+    "zh": "机载中继站天线异常"
   },
   "fpv_tip_0x16070036": {
     "de": "Start nicht möglich. RTK-Antennen getrennt. DJI Support kontaktieren",
@@ -5873,18 +5879,26 @@
     "zh": "RTK副天线信号异常"
   },
   "fpv_tip_0x16070040": {
-    "en": "RTK not converged. Place aircraft in an open environment and start task after RTK converged",
+    "de": "RTK nicht konvergiert. Fluggerät in einem offenen Bereich platzieren und Aufgabe starten, nachdem RTK konvergiert ist",
+    "ru": "RTK без конвергенции. Разместите дрон на открытой местности и приступайте к выполнению задачи после конвергенции RTK",
+    "ko": "RTK가 수렴되지 않았습니다. 기체를 개방된 공간에 두고 RTK가 수렴된 후 작업을 시작하세요",
+    "pt": "RTK não convergido. Coloque a aeronave em uma área aberta e inicie a tarefa após o RTK convergir.",
+    "ja": "RTKが収束していません。機体を開けた場所に置き、RTKが収束したらタスクを開始してください",
+    "en": "RTK not converged. Place aircraft in an open area and start task after RTK converged",
+    "fr": "RTK non convergé. Placez l’appareil dans une zone dégagée et démarrez la tâche après la convergence RTK",
+    "es": "RTK no convergido. Coloque la aeronave en un área abierta e inicie la tarea después de que RTK haya convergido",
     "zh": "RTK 启用未收敛，请将飞机置于空旷环境等待 RTK 收敛后执行任务"
   },
   "fpv_tip_0x16070042": {
-    "de": "Datenfehler RTK-Basisstation. Prüfen, ob ein Netzwerk-RTK- oder D-RTK-Dienst verbunden ist",
-    "ru": "Ошибка данных базовой станции RTK. Проверьте, подключена ли сеть RTK или D-RTK",
-    "ko": "RTK 베이스 스테이션 데이터 오류. 네트워크 RTK 또는 D-RTK 연결 여부 확인",
-    "ja": "RTK基地のデータエラー。ネットワークRTKまたはD-RTKが接続されているかを確認してください",
-    "en": "RTK base station data error. Check if network RTK or D-RTK is connected",
-    "fr": "Erreur de données de la station de base RTK. Vérifiez si le réseau RTK ou D-RTK est connecté",
-    "es": "Error de los datos de la estación móvil RTK. Comprueba si el RTK o el D-RTK de red están conectados",
-    "zh": "RTK基站数据异常，请检查网络RTK或D-RTK是否断联"
+    "de": "RTK-Bodenstationsdatenfehler. Überprüfe die Verbindung der Netzwerk-RTK oder der Relaisstation",
+    "ru": "Ошибка данных RTK наземной станции. Проверьте сетевое RTK или подключение ретрансляционной станции",
+    "ko": "RTK 그라운드 스테이션 데이터 오류. 네트워크 RTK 또는 릴레이 스테이션 연결을 확인하세요",
+    "pt": "Erro de dados da estação base RTK. Verifique a conexão RTK de rede ou da estação de retransmissão",
+    "ja": "RTK地上ステーションデータエラー。ネットワークRTKまたはリレーステーションの接続を確認してください",
+    "en": "RTK ground station data error. Check network RTK or relay station connection",
+    "fr": "Erreur de données de la station au sol RTK. Vérifiez la connexion réseau RTK ou la station relais.",
+    "es": "Error de datos de la estación en tierra RTK. Compruebe la conexión de la estación repetidora o RTK de red",
+    "zh": "RTK 地面站数据异常，请检查网络 RTK 或中继站是否断联"
   },
   "fpv_tip_0x16070042_baipai": {
     "de": "RTK-Datenfehler. Überprüfe, ob das Netzwerk-RTK getrennt ist.",
@@ -5947,14 +5961,15 @@
     "zh": "检测到电离层闪烁，RTK定位性能受影响，请谨慎飞行"
   },
   "fpv_tip_0x16070047": {
-    "de": "Relais verbunden. Aktueller RTK-Servicetyp nicht verfügbar. Bitte den RTK-Servicetyp ändern",
-    "ru": "Ретранслятор подключен. Текущий тип службы RTK недоступен. Измените тип службы RTK",
-    "ko": "릴레이가 연결되었습니다. 현재 RTK 서비스 유형을 사용할 수 없습니다. RTK 서비스 유형을 변경하세요",
-    "ja": "リレー接続済み。現在のRTKサービスタイプは利用できません。RTKサービスタイプを変更してください",
-    "en": "Relay connected. Current RTK service type unavailable. Change RTK service type",
-    "fr": "Relais connecté. Type de service RTK actuel indisponible. Modifiez le type de service RTK",
-    "es": "Relé conectado. Tipo de servicio RTK actual no disponible. Cambie el tipo de servicio RTK",
-    "zh": "飞行器已连接中继，当前RTK服务类型不可用，请切换RTK服务类型"
+    "de": "Relais verbunden. Aktueller RTK-Diensttyp nicht verfügbar. RTK-Diensttyp vor der Verwendung auf Relaisstation einstellen",
+    "ru": "Ретранслятор подключен. Текущий тип службы RTK недоступен. Перед использованием установите тип службы RTK на ретрансляционную станцию",
+    "ko": "릴레이 연결됨. 현재 RTK 서비스 유형 사용 불가. 사용 전에 RTK 서비스 유형을 릴레이 스테이션으로 설정하세요",
+    "pt": "Relé conectado. Tipo de serviço RTK atual indisponível. Defina o tipo de serviço RTK como estação de retransmissão antes de usar",
+    "ja": "リレーが接続されました。現在のRTKサービスタイプは使用できません。RTKサービスタイプをリレーステーションに変更してから使用してください",
+    "en": "Relay connected. Current RTK service type unavailable. Set RTK service type to relay station before use",
+    "fr": "Relais connecté. Type de service RTK actuel non disponible. Réglez le type de service RTK sur station relais avant utilisation.",
+    "es": "Repetidor conectado. Tipo de servicio RTK actual no disponible. Establezca el tipo de servicio RTK en estación repetidora antes de usar",
+    "zh": "飞行器已连接中继，当前 RTK 服务类型不可用，请切换 RTK 服务类型至中继站"
   },
   "fpv_tip_0x16079007": {
     "zh": "RTK观测数量跳变"
@@ -5980,14 +5995,15 @@
     "zh": "%index号电调短路，请停止飞行，并重启飞行器。"
   },
   "fpv_tip_0x16080022": {
-    "de": "ESC %index überlastet %index. Fluggerät sofort landen",
-    "ru": "Перегрузка ESC %index . Приземлитесь немедленно",
-    "ko": "ESC %index 과부하 . 즉시 기체 착륙해야 함",
-    "ja": "ESC%index過負荷状態。機体を直ちに着陸させてください",
-    "en": "ESC %index overloaded . Land aircraft immediately",
-    "fr": "Surcharge ESC %index . Atterrissez immédiatement",
-    "es": "ESC %index sobrecargado. Aterriza la aeronave de inmediato",
-    "zh": "%index号电机过载，请停止飞行。"
+    "de": "Motor %index überlastet. Flug stoppen und prüfen, ob Propeller eingefroren oder das Fluggerät überladen ist",
+    "ru": "Мотор %index перегружен. Прекратите полет и проверьте, не обледенели ли пропеллеры и не перегружен ли дрон",
+    "ko": "모터 %index에 과부하가 걸렸습니다. 비행을 중지하고 프로펠러가 얼었는지 또는 기체가 과부하되었는지 확인하십시오.",
+    "pt": "Motor %index sobrecarregado. Interrompa o voo e verifique se as hélices estão travadas ou se a aeronave está sobrecarregada",
+    "ja": "モーター%indexが過負荷状態です。飛行を停止し、プロペラが凍結していないか、または機体が過負荷になっていないか確認してください",
+    "en": "Motor %index overloaded. Stop flight and check if propellers are frozen or aircraft is overloaded",
+    "fr": "Moteur %index surchargé. Arrêtez le vol et vérifiez si les hélices sont gelées ou si l’appareil est surchargé",
+    "es": "Motor %index sobrecargado. Detenga el vuelo y revise si las hélices están congeladas o si la aeronave está sobrecargada",
+    "zh": "%index号电机过载，请停止飞行并检查是否存在桨叶结冰或飞行器异常挂载情况"
   },
   "fpv_tip_0x16080023": {
     "de": "Kommunikationsfehler: Motor %index %index. Sofort landen und Fluggerät neu starten",
@@ -6948,113 +6964,113 @@
     "zh": "电调异常，请尽快返航或降落"
   },
   "fpv_tip_0x16080077": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC überhitzt (%alarmid)",
+    "ru": "ESC %index перегрет (%alarmid)",
+    "ko": "%index ESC 과열됨 (%alarmid)",
+    "pt": "%index ESC superaquecido (%alarmid)",
+    "ja": "%index ESCが過熱しています（%alarmid）",
     "en": "%index ESC overheated (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "L’ESC %index a surchauffé (%alarmid)",
+    "es": "ESC %index sobrecalentado (%alarmid)",
     "zh": "%index号电调严重超温(%alarmid)"
   },
   "fpv_tip_0x16080078": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC überhitzt (%alarmid)",
+    "ru": "ESC %index перегрет (%alarmid)",
+    "ko": "%index ESC 과열됨 (%alarmid)",
+    "pt": "%index ESC superaquecido (%alarmid)",
+    "ja": "%index ESCが過熱しています（%alarmid）",
     "en": "%index ESC overheated (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "L’ESC %index a surchauffé (%alarmid)",
+    "es": "ESC %index sobrecalentado (%alarmid)",
     "zh": "%index号电调严重超温(%alarmid)"
   },
   "fpv_tip_0x16080079": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC-Firmware inkompatibel mit Fluggerätemodell (%alarmid)",
+    "ru": "Встроенное ПО ESC %index несовместимо с моделью дрона (%alarmid)",
+    "ko": "%index ESC 펌웨어가 기체 모델과 호환되지 않습니다 (%alarmid)",
+    "pt": "Firmware do ESC incompatível com o modelo da aeronave (%alarmid)",
+    "ja": "%index ESCファームウェアが機体モデルと互換性がありません（%alarmid）",
     "en": "%index ESC firmware incompatible with aircraft model (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Micrologiciel de l’ESC %index incompatible avec le modèle d’appareil (%alarmid)",
+    "es": "Firmware del ESC %index incompatible con el modelo de la aeronave (%alarmid)",
     "zh": "%index号电调固件与飞机机型不匹配(%alarmid)"
   },
   "fpv_tip_0x1608007A": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC-Firmware inkompatibel mit Fluggerätemodell (%alarmid)",
+    "ru": "Встроенное ПО ESC %index несовместимо с моделью дрона (%alarmid)",
+    "ko": "%index ESC 펌웨어가 기체 모델과 호환되지 않습니다 (%alarmid)",
+    "pt": "Firmware do ESC incompatível com o modelo da aeronave (%alarmid)",
+    "ja": "%index ESCファームウェアが機体モデルと互換性がありません（%alarmid）",
     "en": "%index ESC firmware incompatible with aircraft model (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Micrologiciel de l’ESC %index incompatible avec le modèle d’appareil (%alarmid)",
+    "es": "Firmware del ESC %index incompatible con el modelo de la aeronave (%alarmid)",
     "zh": "%index号电调固件与飞机机型不匹配(%alarmid)"
   },
   "fpv_tip_0x1608007B": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC %index (%alarmid)",
+    "ko": "%index ESC 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de verificação automática do ESC (%alarmid)",
+    "ja": "%index ESC自動チェックエラー（%alarmid）",
     "en": "%index ESC auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index (%alarmid)",
+    "es": "Error de comprobación automática del ESC %index (%alarmid)",
     "zh": "%index号电调自检异常(%alarmid)"
   },
   "fpv_tip_0x1608007C": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC %index (%alarmid)",
+    "ko": "%index ESC 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de verificação automática do ESC (%alarmid)",
+    "ja": "%index ESC自動チェックエラー（%alarmid）",
     "en": "%index ESC auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index (%alarmid)",
+    "es": "Error de comprobación automática del ESC %index (%alarmid)",
     "zh": "%index号电调自检异常(%alarmid)"
   },
   "fpv_tip_0x1608007D": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC- oder Motor-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC или мотора %index (%alarmid)",
+    "ko": "%index ESC 또는 모터 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de autoverificação do ESC ou motor (%alarmid)",
+    "ja": "%index ESCまたはモーター自動チェックエラー（%alarmid）",
     "en": "%index ESC or motor auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index ou du moteur (%alarmid)",
+    "es": "Error de comprobación automática del ESC o motor %index (%alarmid)",
     "zh": "%index号电调或电机自检异常(%alarmid)"
   },
   "fpv_tip_0x1608007E": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC- oder Motor-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC или мотора %index (%alarmid)",
+    "ko": "%index ESC 또는 모터 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de autoverificação do ESC ou motor (%alarmid)",
+    "ja": "%index ESCまたはモーター自動チェックエラー（%alarmid）",
     "en": "%index ESC or motor auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index ou du moteur (%alarmid)",
+    "es": "Error de comprobación automática del ESC o motor %index (%alarmid)",
     "zh": "%index号电调或电机自检异常(%alarmid)"
   },
   "fpv_tip_0x1608007F": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC- oder Motor-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC или мотора %index (%alarmid)",
+    "ko": "%index ESC 또는 모터 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de autoverificação do ESC ou motor (%alarmid)",
+    "ja": "%index ESCまたはモーター自動チェックエラー（%alarmid）",
     "en": "%index ESC or motor auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index ou du moteur (%alarmid)",
+    "es": "Error de comprobación automática del ESC o motor %index (%alarmid)",
     "zh": "%index号电调或电机自检异常(%alarmid)"
   },
   "fpv_tip_0x16080080": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "%index ESC- oder Motor-Selbsttestfehler (%alarmid)",
+    "ru": "Ошибка автопроверки ESC или мотора %index (%alarmid)",
+    "ko": "%index ESC 또는 모터 자동 점검 오류 (%alarmid)",
+    "pt": "%index Erro de autoverificação do ESC ou motor (%alarmid)",
+    "ja": "%index ESCまたはモーター自動チェックエラー（%alarmid）",
     "en": "%index ESC or motor auto-check error (%alarmid)",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur d’auto-vérification de l’ESC %index ou du moteur (%alarmid)",
+    "es": "Error de comprobación automática del ESC o motor %index (%alarmid)",
     "zh": "%index号电调或电机自检异常(%alarmid)"
   },
   "fpv_tip_0x16080083": {
@@ -7972,17 +7988,25 @@
     "zh": "%battery_index电池对外通信异常，请尽快返航或降落"
   },
   "fpv_tip_0x16090086": {
+    "de": "%battery_index Akku-Anschlusstemperatur zu hoch. Flugsicherheit beeinträchtigt",
+    "ru": "Температура разъема аккумулятора %battery_index слишком высокая. Безопасность полета снижена",
+    "ko": "%battery_index 배터리 커넥터 온도가 너무 높습니다. 비행 안전에 영향이 있습니다.",
+    "pt": "O conector da bateria %battery_index está com a temperatura muito alta. A segurança do voo foi afetada.",
+    "ja": "%battery_index バッテリーコネクターの温度が高すぎます。飛行安全性に影響が生じています",
     "en": "%battery_index battery connector temperature too high. Flight safety affected",
+    "fr": "La température du connecteur de batterie %battery_index est trop élevée. La sécurité en vol est compromise",
+    "es": "Temperatura del conector de la batería %battery_index demasiado alta. Seguridad de vuelo afectada",
     "zh": "%battery_index电池连接器温度过高，影响飞行安全"
   },
   "fpv_tip_0x16090086_in_the_sky": {
-    "de": "%battery_index battery-Anschlusstemperatur zu hoch. Flugsicherheit beeinträchtigt. Zeitnah zum Startpunkt zurückkehren oder landen",
+    "de": "%battery_index Akku-Anschlusstemperatur zu hoch. Flugsicherheit beeinträchtigt. Sofort zum Startpunkt zurückkehren oder landen",
     "ru": "%battery_index battery слишком высокая температура коннектора. Затронута безопасность полетов. Незамедлительно совершите возврат домой или посадку",
     "ko": "%battery_index battery 커넥터 온도가 너무 높습니다. 비행 안전에 영향이 있습니다. 즉시 리턴 투 홈(RTH)하거나 착륙시키세요",
-    "ja": "%battery_index batteryコネクターの温度が高すぎます。飛行安全性に影響します。すぐにRTHするか着陸させてください",
+    "pt": "O conector da bateria %battery_index está com temperatura muito alta. A segurança do voo foi comprometida. Retorne ao ponto de origem ou pouse imediatamente.",
+    "ja": "%battery_index バッテリーコネクターの温度が高すぎます。飛行安全性に影響が生じています。すぐにホームに帰還するか、着陸させてください",
     "en": "%battery_index battery connector temperature too high. Flight safety affected. Return to home or land promptly",
-    "fr": "Température du connecteur %battery_index battery trop élevée. Sécurité en vol affectée. Retourner au point de départ ou atterrir immédiatement",
-    "es": "Temperatura del conector %battery_index battery demasiado alta. Seguridad de vuelo afectada. Regrese al punto de origen o aterrice lo antes posible",
+    "fr": "Température du connecteur de batterie %battery_index trop élevée. Sécurité en vol affectée. Retournez au point de départ ou atterrissez rapidement",
+    "es": "Temperatura del conector de la batería %battery_index demasiado alta. Seguridad de vuelo afectada. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池连接器温度过高，影响飞行安全，请尽快返航或降落"
   },
   "fpv_tip_0x16090086_in_the_sky_ta101": {
@@ -8340,23 +8364,25 @@
     "zh": "%battery_index电池上盖温度过高"
   },
   "fpv_tip_0x1609009D": {
-    "de": "%battery_index battery-Anschlusstemperatur zu hoch",
+    "de": "%battery_index Akku-Anschlusstemperatur zu hoch",
     "ru": "%battery_index battery слишком высокая температура коннектора",
     "ko": "%battery_index battery 커넥터 온도가 너무 높습니다",
-    "ja": "%battery_index batteryコネクターの温度が高すぎます",
+    "pt": "%battery_index temperatura do conector da bateria muito alta",
+    "ja": "%battery_index バッテリーコネクターの温度が高すぎます",
     "en": "%battery_index battery connector temperature too high",
-    "fr": "Température du connecteur %battery_index battery trop élevée",
-    "es": "Temperatura del conector %battery_index battery demasiado alta",
+    "fr": "Température du connecteur de batterie %battery_index trop élevée",
+    "es": "Temperatura del conector de la batería %battery_index demasiado alta",
     "zh": "%battery_index电池连接器温度过高"
   },
   "fpv_tip_0x1609009D_in_the_sky": {
-    "de": "%battery_index battery-Anschlusstemperatur zu hoch. Flugsicherheit beeinträchtigt. Zeitnah zum Startpunkt zurückkehren oder landen",
+    "de": "%battery_index Akku-Anschlusstemperatur zu hoch. Flugsicherheit beeinträchtigt. Sofort zum Startpunkt zurückkehren oder landen",
     "ru": "%battery_index battery слишком высокая температура коннектора. Затронута безопасность полетов. Незамедлительно совершите возврат домой или посадку",
     "ko": "%battery_index battery 커넥터 온도가 너무 높습니다. 비행 안전에 영향이 있습니다. 즉시 리턴 투 홈(RTH)하거나 착륙시키세요",
-    "ja": "%battery_index batteryコネクターの温度が高すぎます。飛行安全性に影響します。すぐにRTHするか着陸させてください",
+    "pt": "O conector da bateria %battery_index está com temperatura muito alta. A segurança do voo foi comprometida. Retorne ao ponto de origem ou pouse imediatamente.",
+    "ja": "%battery_index バッテリーコネクターの温度が高すぎます。飛行安全性に影響が生じています。すぐにホームに帰還するか、着陸させてください",
     "en": "%battery_index battery connector temperature too high. Flight safety affected. Return to home or land promptly",
-    "fr": "Température du connecteur %battery_index battery trop élevée. Sécurité en vol affectée. Retourner au point de départ ou atterrir immédiatement",
-    "es": "Temperatura del conector %battery_index battery demasiado alta. Seguridad de vuelo afectada. Regrese al punto de origen o aterrice lo antes posible",
+    "fr": "Température du connecteur de batterie %battery_index trop élevée. Sécurité en vol affectée. Retournez au point de départ ou atterrissez rapidement",
+    "es": "Temperatura del conector de la batería %battery_index demasiado alta. Seguridad de vuelo afectada. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%battery_index电池连接器温度过高，影响飞行安全，请尽快返航或降落"
   },
   "fpv_tip_0x1609009D_in_the_sky_ta101": {
@@ -8424,7 +8450,14 @@
     "zh": "%battery_index电池总电压低"
   },
   "fpv_tip_0x160900A2": {
+    "de": "%index Akku-Anschluss überhitzt. Flugsicherheit beeinträchtigt. Vorsichtig fliegen",
+    "ru": "Разъем аккумулятора %index перегрет. Безопасность полета снижена. Соблюдайте осторожность во время полета",
+    "ko": "%index 배터리 커넥터가 과열되었습니다. 비행 안전에 영향이 있습니다. 주의하여 비행하세요.",
+    "pt": "%index conector da bateria superaquecido. Segurança do voo afetada. Voe com cautela.",
+    "ja": "%index バッテリーコネクターが過熱しています。飛行安全性に影響が生じています。慎重に飛行してください",
     "en": "%index battery connector overheated. Flight safety affected. Fly with caution",
+    "fr": "Le connecteur de la batterie %index a surchauffé. La sécurité en vol est compromise. Volez avec précaution",
+    "es": "Conector de la batería %index sobrecalentado. Seguridad de vuelo afectada. Vuele con precaución",
     "zh": "%index电池连接器温升异常，影响飞行安全，请谨慎飞行"
   },
   "fpv_tip_0x160900A2_in_the_sky_ta101": {
@@ -8443,7 +8476,14 @@
     "zh": "%battery_index电池连接器温升异常，影响飞行安全，请谨慎飞行"
   },
   "fpv_tip_0x160900A3": {
+    "de": "%index Akku überschreitet Leistungsgrenze. Flugsicherheit beeinträchtigt. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Аккумулятор %index превышает допустимый предел мощности. Безопасность полета снижена. Выполните возврат домой или посадку незамедлительно",
+    "ko": "%index 배터리가 전력 제한을 초과했습니다. 비행 안전에 영향이 있습니다. 즉시 리턴 투 홈 또는 착륙하세요.",
+    "pt": "A bateria %index excede o limite de potência. A segurança do voo está comprometida. Retorne ao ponto de origem ou pouse imediatamente.",
+    "ja": "%index バッテリーが電力制限を超過しています。飛行安全性に影響が生じています。直ちにホームに帰還または着陸してください。",
     "en": "%index battery exceeds power limit. Flight safety affected. Return to home or land promptly",
+    "fr": "La batterie %index dépasse la limite de puissance. La sécurité en vol est compromise. Retournez au point de départ ou atterrissez rapidement",
+    "es": "La batería %index excede el límite de potencia. Seguridad de vuelo afectada. Regrese al punto de origen o aterrice de inmediato",
     "zh": "%index电池超过使用功率限制范围，影响飞行安全，请尽快返航或降落"
   },
   "fpv_tip_0x160900A3_in_the_sky_ta101": {
@@ -8745,83 +8785,91 @@
     "zh": "%battery_index电池电量需要校准，请静置2h尝试恢复"
   },
   "fpv_tip_0x160900C8": {
-    "de": "D-RTK 3: Akkustand unter 20 %. Umgehend aufladen",
-    "ru": "Уровень заряда аккумулятора D-RTK 3 ниже 20%. Немедленно зарядите АКБ",
-    "ko": "D-RTK 3 배터리 잔량이 20% 미만입니다. 즉시 충전하세요.",
-    "ja": "D-RTK 3バッテリーの残量が20%未満です。直ちに充電してください",
-    "en": "D-RTK 3 battery level below 20%. Charge promptly",
-    "fr": "D-RTK 3 : niveau de batterie inférieur à 20 %. Rechargez la batterie dès que possible.",
-    "es": "Nivel de batería de D-RTK 3 por debajo del 20 %. Cárguela cuanto antes",
-    "zh": "基站电池电量低于20%，请及时充电"
+    "de": "Akkustand der Relaisstation unter 20 %. Bitte umgehend aufladen",
+    "ru": "Уровень заряда аккумулятора ретрансляционной станции ниже 20%. Немедленно зарядите его",
+    "ko": "릴레이 스테이션 배터리 잔량 20% 미만. 즉시 충전하세요",
+    "pt": "Bateria da estação de retransmissão abaixo de 20%. Carregue imediatamente",
+    "ja": "リレーステーションのバッテリー残量が20％未満です。速やかに充電してください",
+    "en": "Relay station battery below 20%. Charge promptly",
+    "fr": "Batterie de la station relais inférieure à 20 %. Rechargez-la rapidement.",
+    "es": "Batería de la estación repetidora inferior al 20 %. Cárguela de inmediato",
+    "zh": "中继站电池电量低于 20%，请及时充电"
   },
   "fpv_tip_0x160900C9": {
-    "de": "D-RTK 3: Akkustand unter 10 %. Umgehend aufladen",
-    "ru": "Уровень заряда аккумулятора D-RTK 3 ниже 10%. Немедленно зарядите АКБ",
-    "ko": "D-RTK 3 배터리 잔량이 10% 미만입니다. 즉시 충전하세요.",
-    "ja": "D-RTK 3バッテリーの残量が10%未満です。直ちに充電してください",
-    "en": "D-RTK 3 battery level below 10%. Charge promptly",
-    "fr": "D-RTK 3 : niveau de batterie inférieur à 10 %. Rechargez la batterie dès que possible.",
-    "es": "Nivel de batería de D-RTK 3 por debajo del 10 %. Cárguela cuanto antes",
-    "zh": "基站电池电量低于10%，请及时充电"
+    "de": "Akkustand der Relaisstation unter 10 %. Bitte umgehend aufladen",
+    "ru": "Уровень заряда аккумулятора ретрансляционной станции ниже 10%. Немедленно зарядите его",
+    "ko": "릴레이 스테이션 배터리 잔량 10% 미만. 즉시 충전하세요",
+    "pt": "Bateria da estação de retransmissão abaixo de 10%. Carregue imediatamente",
+    "ja": "リレーステーションのバッテリー残量が10％未満です。速やかに充電してください",
+    "en": "Relay station battery below 10%. Charge promptly",
+    "fr": "Batterie de la station relais inférieure à 10 %. Rechargez rapidement.",
+    "es": "Batería de la estación repetidora inferior al 10 %. Cárguela de inmediato",
+    "zh": "中继站电池电量低于 10%，请及时充电"
   },
   "fpv_tip_0x160900CA": {
-    "de": "D-RTK 3: Akku-Überstrom während des Ladevorgangs. Ladegerät trennen und wieder anschließen",
-    "ru": "Сверхток аккумулятора D-RTK 3 при зарядке. Отсоедините зарядное устройство и переподключите его",
-    "ko": "충전 중 D-RTK 3 배터리 과전류 현상입니다. 충전 기기를 분리하고 다시 연결하세요.",
-    "ja": "充電中のD-RTK 3バッテリー過電流。充電中のデバイスを取り外して再接続してください",
-    "en": "D-RTK 3 battery overcurrent during charging. Disconnect charging device and reconnect",
-    "fr": "D-RTK 3 : surintensité de la batterie pendant la recharge. Débranchez le chargeur, puis reconnectez-le.",
-    "es": "Sobrecorriente de la batería de D-RTK 3 durante la carga. Desconecta el dispositivo de carga y vuelve a conectarlo",
-    "zh": "基站电池充电过流，请断开充电设备后重新连接"
+    "de": "Überstrom beim Laden des Akkus der Relaisstation. Ladegerät trennen und wieder anschließen",
+    "ru": "Перегрузка по току аккумулятора ретрансляционной станции при зарядке. Отключите зарядное устройство и подключите снова",
+    "ko": "충전 중 릴레이 스테이션 배터리 과전류. 충전기를 분리한 후 다시 연결하세요",
+    "pt": "Sobrecorrente da bateria da estação de retransmissão durante o carregamento. Desconecte o carregador e conecte novamente",
+    "ja": "充電中のリレーステーションバッテリーが過電流になっています。充電器を切断し、再接続してください",
+    "en": "Relay station battery overcurrent during charging. Disconnect charger and connect again",
+    "fr": "Surtension de la batterie de la station relais pendant la recharge. Déconnectez le chargeur puis reconnectez-le.",
+    "es": "Sobrecorriente de la batería de la estación repetidora durante la carga. Desconecte el cargador y vuelva a conectarlo",
+    "zh": "中继站电池充电过流，请断开充电设备后重新连接"
   },
   "fpv_tip_0x160900CB": {
-    "de": "D-RTK 3: Akku-Überstrom während der Entladung. D-RTK 3 neu starten",
-    "ru": "Сверхток аккумулятора D-RTK 3 во время разрядки. Перезапустите D-RTK 3",
-    "ko": "방전 중 D-RTK 3 배터리 과전류 현상입니다. D-RTK 3 다시 시작",
-    "ja": "放電中のD-RTK 3バッテリー過電流。D-RTK 3を再起動します",
-    "en": "D-RTK 3 battery overcurrent during discharging. Restart D-RTK 3",
-    "fr": "D-RTK 3 : surintensité de la batterie pendant la décharge. Redémarrez D-RTK 3",
-    "es": "Sobrecorriente de la batería de D-RTK 3 durante la descarga. Reiniciar la D-RTK 3",
-    "zh": "基站电池放电过流，请尝试重启"
+    "de": "Überstrom beim Entladen des Akkus der Relaisstation. Bitte neu starten",
+    "ru": "Перегрузка по току аккумулятора ретрансляционной станции при разряде. Попробуйте выполнить перезапуск",
+    "ko": "방전 중 릴레이 스테이션 배터리 과전류. 재시작해 보세요",
+    "pt": "Sobrecorrente da bateria da estação de retransmissão durante a descarga. Tente reiniciar",
+    "ja": "放電中のリレーステーションバッテリーが過電流になっています。再起動してみてください",
+    "en": "Relay station battery overcurrent during discharge. Try to restart",
+    "fr": "Surtension de la batterie de la station relais pendant la décharge. Essayez de redémarrer.",
+    "es": "Sobrecorriente de la batería de la estación repetidora durante la descarga. Intente reiniciar",
+    "zh": "中继站电池放电过流，请尝试重启"
   },
   "fpv_tip_0x160900CD": {
-    "de": "Akkutemperatur der Basisstation zu hoch. Warte, bis sich der Akku abgekühlt hat, bevor du ihn nutzen",
-    "ru": "Температура аккумулятора базовой станции слишком высокая. Перед использованием подождите, пока аккумулятор остынет",
-    "ko": "베이스 스테이션 배터리 온도가 높습니다. 배터리가 식을 때까지 기다린 후 사용하세요",
-    "ja": "ベースステーションのバッテリー温度が高くなっています。バッテリー温度が下がるまで使用しないでください",
-    "en": "Base station battery temperature high. Wait until battery cools down before use",
-    "fr": "Température élevée de la batterie de la station de base. Attendez que la batterie refroidisse avant utilisation.",
-    "es": "Temperatura de la batería de la estación base alta. Espere a que la batería se enfríe antes de usarla",
-    "zh": "基站电池温度较高，请待电池冷却到常温后再使用"
+    "de": "Temperatur des Akkus der Relaisstation über 70 °C. Warte vor dem Einsatz, bis der Akku auf Raumtemperatur abgekühlt ist",
+    "ru": "Температура аккумулятора ретрансляционной станции выше 70°C. Перед использованием дождитесь охлаждения аккумулятора до комнатной температуры",
+    "ko": "릴레이 스테이션 배터리 온도가 70°C 초과. 배터리가 실온으로 식을 때까지 기다린 후 사용하세요",
+    "pt": "Temperatura da bateria da estação de retransmissão acima de 70 °C. Aguarde até que a bateria esfrie até a temperatura ambiente antes de usar",
+    "ja": "リレーステーションのバッテリー温度が70°Cを超えています。バッテリー温度が室温まで下がるまで使用しないでください",
+    "en": "Relay station battery temperature above 70° C. Wait until battery cools down to room temperature before use",
+    "fr": "Température de la batterie de la station relais supérieure à 70 °C. Attendez que la batterie refroidisse à température ambiante avant utilisation.",
+    "es": "Temperatura de la batería de la estación repetidora superior a los 70 °C. Espere a que la batería se enfríe a temperatura ambiente antes de usarla",
+    "zh": "中继站电池温度大于 70℃，请待电池冷却到常温后再使用"
   },
   "fpv_tip_0x160900CE": {
-    "de": "Die Akkutemperatur der Basisstation ist zu hoch. Bei weiterer Nutzung wird die Stromversorgung unterbrochen. Warte, bis sich der Akku abgekühlt hat, bevor du ihn wieder nutzt",
-    "ru": "Температура аккумулятора базовой станции слишком высокая. Продолжение использования приведет к отключению электропитания. Перед использованием подождите, пока аккумулятор остынет",
-    "ko": "베이스 스테이션 배터리 온도가 너무 높습니다. 계속 사용하면 전력 공급이 차단됩니다. 배터리가 식을 때까지 기다린 후 사용하세요",
-    "ja": "ベースステーションのバッテリー温度が高すぎます。使用を続けると電源が切断されます。バッテリー温度が下がるまで使用しないでください",
-    "en": "Base station battery temperature too high. Continued use will cut off power supply. Wait until battery cools down before use",
-    "fr": "Température de la batterie de la base trop élevée. Une utilisation continue entraînera une coupure de l’alimentation. Attendez que la batterie refroidisse avant de l’utiliser.",
-    "es": "Temperatura de la batería de la estación base demasiado alta. Si se continúa utilizando, se interrumpirá la fuente de alimentación. Espere a que la batería se enfríe antes de usarla",
-    "zh": "基站电池温度过高，继续使用将关闭电池供电，请待电池冷却到常温后再使用"
+    "de": "Temperatur des Akkus der Relaisstation über 75 °C. Warte vor dem Einsatz, bis der Akku auf Raumtemperatur abgekühlt ist",
+    "ru": "Температура аккумулятора ретрансляционной станции выше 75°C. Перед использованием дождитесь охлаждения аккумулятора до комнатной температуры",
+    "ko": "릴레이 스테이션 배터리 온도가 75°C 초과. 배터리가 실온으로 식을 때까지 기다린 후 사용하세요",
+    "pt": "Temperatura da bateria da estação de retransmissão acima de 75 °C. Aguarde até que a bateria esfrie até a temperatura ambiente antes de usar",
+    "ja": "リレーステーションのバッテリー温度が75°Cを超えています。バッテリー温度が室温まで下がるまで使用しないでください",
+    "en": "Relay station battery temperature above 75° C. Wait until battery cools down to room temperature before use",
+    "fr": "La température de la batterie de la station relais est supérieure à 75 °C. Attendez que la batterie refroidisse à température ambiante avant de l’utiliser.",
+    "es": "Temperatura de la batería de la estación repetidora superior a los 75 °C. Espere a que la batería se enfríe a temperatura ambiente antes de usarla",
+    "zh": "中继站电池温度大于 75℃，请待电池冷却到常温后再使用"
   },
   "fpv_tip_0x160900D0": {
-    "de": "Die Akkutemperatur der Basisstation ist zu niedrig. Bei weiterer Nutzung wird die Stromversorgung unterbrochen",
-    "ru": "Температура аккумулятора базовой станции слишком низкая. При дальнейшем использовании питание будет отключено",
-    "ko": "베이스 스테이션 배터리 온도가 너무 낮습니다. 계속 사용하면 전력 공급이 차단됩니다",
-    "ja": "ベースステーションのバッテリー温度が低すぎます。使用を続けると電源が切断されます",
-    "en": "Base station battery temperature too low. Continued use will cut off power supply",
-    "fr": "Température de la batterie de la station de base trop basse. Une utilisation continue entraînera une coupure de l’alimentation.",
-    "es": "Temperatura de la batería de la estación base demasiado baja. Si se continúa utilizando, se interrumpirá la fuente de alimentación",
-    "zh": "基站电池温度过低，继续使用将关闭电池供电"
+    "de": "Temperatur des Akkus der Relaisstation zu niedrig. Wird in Kürze ausgeschaltet...",
+    "ru": "Температура аккумулятора ретрансляционной станции слишком низкая. Скоро будет выполнено отключение питания...",
+    "ko": "릴레이 스테이션 배터리 온도가 너무 낮음. 곧 전원 꺼짐...",
+    "pt": "Temperatura da bateria da estação de retransmissão muito baixa. Desligando em breve...",
+    "ja": "リレーステーションのバッテリー温度が低すぎます。まもなく電源がオフになります…",
+    "en": "Relay station battery temperature too low. Powering off soon...",
+    "fr": "Température de la batterie de la station relais trop basse. Arrêt imminent...",
+    "es": "Temperatura de la batería de la estación repetidora demasiado baja. Se apagará en breve…",
+    "zh": "中继站电池温度过低，即将关机"
   },
   "fpv_tip_0x160900D2": {
-    "de": "%battery_index battery-Stand längere Zeit nicht kalibriert. Akku vor dem Kalibrieren eine Stunde lang ruhen lassen",
+    "de": "%battery_index Akkuladestand wurde lange nicht kalibriert. Akku vor dem Kalibrieren eine Stunde lang ruhen lassen",
     "ru": "%battery_index battery уровень давно не калибровался. Не используйте аккумулятор в течение 1 часа перед калибровкой",
     "ko": "%battery_index battery 레벨을 장기간 캘리브레이션하지 않았습니다. 배터리를 1시간 동안 그대로 두었다가 캘리브레이션을 진행하세요",
-    "ja": "%battery_index battery残量のキャリブレーションが長期間行われていません。バッテリーを1時間放置してからキャリブレーションを行ってください",
+    "pt": "O nível de bateria %battery_index não foi calibrado por um longo período. Deixe a bateria descansar por 1 hora antes da calibração.",
+    "ja": "%battery_index バッテリー残量のキャリブレーションが長期間行われていません。バッテリーを1時間放置してからキャリブレーションを行ってください",
     "en": "%battery_index battery level not calibrated for a long time. Let battery sit for 1 hour before calibration",
-    "fr": "Niveau %battery_index battery non étalonné depuis longtemps. Laissez la batterie reposer pendant 1 heure avant l'étalonnage",
-    "es": "Nivel %battery_index battery no calibrado durante mucho tiempo. Deje reposar la batería durante 1 hora antes de la calibración",
+    "fr": "Niveau de batterie %battery_index non étalonné depuis longtemps. Laissez la batterie reposer pendant 1 heure avant l’étalonnage",
+    "es": "Nivel de la batería %battery_index no calibrado durante mucho tiempo. Deje la batería reposar durante 1 hora antes de calibrar",
     "zh": "%battery_index电池电量长期未校准，请静置1h以上等待校准"
   },
   "fpv_tip_0x160900D5": {
@@ -8865,14 +8913,15 @@
     "zh": "识别到非标准的POE插入，请注意使用15W以上的POE接口"
   },
   "fpv_tip_0x160900D8": {
-    "de": "Die Leistung des Stromadapters ist zu niedrig. D-RTK 3-Betrieb bei Temperaturen unter -20° C kann nicht unterstützt werden",
-    "ru": "Слишком низкая мощность текущего адаптера. Не удается поддерживать работу D-RTK 3 при температуре ниже -20 °C",
-    "ko": "현재 어댑터의 전력이 너무 낮습니다. -20°C 미만의 온도에서는 D-RTK 3 작동을 지원할 수 없습니다.",
-    "ja": "使用中のアダプターの電力が低すぎます。-20°C未満の温度では、D-RTK 3の動作をサポートできません",
-    "en": "Power of current adapter is too low. Unable to support D-RTK 3 operation in temperature below -20° C",
-    "fr": "La puissance de l’adaptateur de courant est trop faible. Impossible de prendre en charge le fonctionnement de D-RTK 3 à une température inférieure à -20 °C.",
-    "es": "La potencia del adaptador de corriente es demasiado baja. No se puede usar D-RTK 3 a temperaturas inferiores a -20° C",
-    "zh": "当前插入的适配器功率过低，不支持基站在低于-20度环境下工作"
+    "de": "Leistung des angeschlossenen Adapters ist zu niedrig. Der Betrieb der Relaisstation in einer Umgebung mit Temperaturen unter -20 °C ist nicht möglich",
+    "ru": "Мощность подключенного адаптера слишком низкая. Невозможно использовать ретрансляционную станцию при температуре окружающей среды ниже −20°C",
+    "ko": "연결된 어댑터의 전력이 너무 낮음. 온도가 -20°C 미만인 환경에서는 릴레이 스테이션 작동 불가",
+    "pt": "Potência do adaptador conectado muito baixa. Não é possível operar a estação de relé em ambiente com temperatura abaixo de -20 °C",
+    "ja": "接続されているアダプターの電力が低すぎます。温度が-20°C未満の環境ではリレーステーションを操作できません",
+    "en": "Power of connected adapter too low. Unable to operate relay station in environment with temperature below -20° C",
+    "fr": "Puissance de l’adaptateur connecté trop faible. Fonctionnement de la station relais impossible dans un environnement avec une température inférieure à -20 °C",
+    "es": "Potencia del adaptador conectado demasiado baja. La estación repetidora no puede funcionar en un entorno con una temperatura inferior a –20 °C",
+    "zh": "当前插入的适配器功率过低，不支持中继站在低于 -20 度环境下工作"
   },
   "fpv_tip_0x160900DA": {
     "de": "Start nicht möglich. Akkuspannung zu niedrig oder Fehler bei der gekoppelten Stromversorgung. Stelle sicher, dass die Spannung der gekoppelten Stromversorgung zwischen 48,0 V und 52,0 V liegt und die Spannung des gekoppelten Akkus höher als die Spannung der gekoppelten Stromversorgung ist",
@@ -8988,64 +9037,70 @@
     "zh": "光线不足定位能力退化，执行进离场航线飞行器将自动调整朝向以获得最佳避障效果"
   },
   "fpv_tip_0x160A0011": {
-    "de": "Die Registrierung mit Klarnamen wurde abgebrochen, was zu Flugsicherheitsrisiken führen kann. Vor dem Flug die Hilfedokumentation beachten und eine Registrierung mit Klarnamen anhand der Anweisungen abschließen",
-    "ru": "Регистрация с использованием настоящего имени отменена. Это может угрожать безопасности полета. Изучите справочную документацию и завершите регистрацию по инструкции перед началом полета",
-    "ko": "실명 등록이 취소되어 비행 안전 위험이 발생할 수 있습니다. 비행 전에 지침에 따라 도움말 문서를 보고 실명 등록을 완료하세요.",
-    "ja": "実名の登録がキャンセルされたため、飛行の安全性に危険が生じる可能性があります。飛行前に手順に従ってヘルプドキュメントを参照し、実名の登録を完了してください",
-    "en": "Real-name registration is canceled, which may result in flight safety risks. View Help Documentation and complete real-name registration based on instructions before flight",
-    "fr": "L'enregistrement du nom réel est annulé, ce qui peut entraîner des risques de sécurité en vol. Consultez les documents d'aide et effectuez l'enregistrement du nom réel en fonction des instructions avant le vol",
-    "es": "El registro de nombre real se ha cancelado, lo que puede provocar riesgos de seguridad de vuelo. Echa un vistazo a la documentación de ayuda y completa el registro de nombre real según las instrucciones antes del vuelo",
-    "zh": "飞机实名登记状态已注销，存在飞行风险，请点击查看帮助文档，按照指引完成实名登记后飞行"
+    "de": "Die CAAC-Registrierung wurde abgebrochen, was zu Flugsicherheitsrisiken führen kann. Stellen Sie vor dem Flug eine Verbindung zur Fernsteuerung und schließen Sie die Registrierung gemäß den Anweisungen ab",
+    "ru": "Регистрация CAAC отменена, это может создать риски для безопасности полета. Подключитесь к пульту управления и завершите регистрацию по инструкции перед полетом",
+    "ko": "CAAC 등록이 취소되어 비행 안전 위험이 발생할 수 있습니다. 조종기에 연결하여 비행 전에 지침에 따라 등록을 완료하세요.",
+    "pt": "O registro na CAAC foi cancelado, o que pode resultar em riscos à segurança do voo. Conecte-se ao controlador remoto e conclua o registro seguindo as instruções antes do voo.",
+    "ja": "CAAC（中国民用航空局）登録がキャンセルされたため、飛行の安全性に危険が生じる可能性があります。飛行前に、送信機に接続し、指示に従って登録を完了してください",
+    "en": "CAAC registration is canceled, which may result in flight safety risks. Connect to remote controller and complete registration based on instructions before flight",
+    "fr": "L’enregistrement CAAC est annulé, ce qui peut entraîner des risques de sécurité en vol. Connectez-vous à la radiocommande et effectuez l’enregistrement conformément aux instructions avant le vol",
+    "es": "El registro CAAC está cancelado, lo que puede provocar riesgos para la seguridad del vuelo. Conéctese al control remoto y complete el registro siguiendo las instrucciones antes del vuelo",
+    "zh": "飞机实名登记状态已注销，存在飞行风险，请连接遥控器，按照指引完成实名登记后飞行"
   },
   "fpv_tip_0x160B0000": {
-    "de": "D-RTK 3 Multifunktionsstation nicht verbunden",
-    "ru": "Многофункциональная станция D-RTK 3 отключена",
-    "ko": "D-RTK 3 다기능 스테이션 연결 끊김",
-    "ja": "D-RTK 3多機能ステーションの接続が切断されました",
-    "en": "D-RTK 3 multifunctional station disconnected",
-    "fr": "Station multifonction D-RTK 3 débranchée",
-    "es": "Estación multifunción D-RTK 3 desconectada",
-    "zh": "基站断开连接"
+    "de": "Relaisstation getrennt",
+    "ru": "Ретрансляционная станция отключена",
+    "ko": "릴레이 스테이션 연결 끊김",
+    "pt": "Estação retransmissora desconectada",
+    "ja": "リレーステーションが切断されました",
+    "en": "Relay station disconnected",
+    "fr": "Station de relais déconnectée",
+    "es": "Estación repetidora desconectada",
+    "zh": "中继站断开连接"
   },
   "fpv_tip_0x160B0001": {
-    "de": "D-RTK 3 Multifunktionsstation wurde bewegt",
-    "ru": "Многофункциональная станция D-RTK 3 перемещена",
-    "ko": "D-RTK 3 다기능 스테이션 이동됨",
-    "ja": "D-RTK 3多機能ステーションが移動しました",
-    "en": "D-RTK 3 multifunctional station moved",
-    "fr": "Station multifonction D-RTK 3 déplacée",
-    "es": "Estación multifunción D-RTK 3 movida",
-    "zh": "基站位置移动"
+    "de": "Relaisstation verschoben",
+    "ru": "Ретрансляционная станция перемещена",
+    "ko": "릴레이 스테이션 이동됨",
+    "pt": "Estação de retransmissão movida",
+    "ja": "リレーステーションが移動しました",
+    "en": "Relay station moved",
+    "fr": "Station de relais déplacée",
+    "es": "La estación repetidora se ha movido",
+    "zh": "中继站位置移动"
   },
   "fpv_tip_0x160B0002": {
-    "de": "D-RTK 3 Multifunktionsstation, RTK: Fehler bei Suche nach Satellitensignal. Prüfen, ob das Signal blockiert ist, und das Gerät in einem Bereich mit starkem Satellitensignal verwenden",
-    "ru": "Ошибка поиска спутникового сигнала RTK многофункциональной станции D-RTK 3. Проверьте, не нарушается ли сигнал, и используйте устройство в области с мощным спутниковым сигналом",
-    "ko": "D-RTK 3 다기능 스테이션 RTK 위성 신호 검색 오류. 신호가 막혔는지 확인하고 위성 신호가 강한 장소에서 기기를 사용하세요.",
-    "ja": "D-RTK 3多機能ステーションのRTK衛星信号検索エラーです。信号が遮断されていないことを確認し、衛星信号が強い場所でデバイスを使用してください",
-    "en": "D-RTK 3 multifunctional station RTK satellite signal searching error. Check if signal is obstructed and use device in area with strong satellite signal",
-    "fr": "Erreur de recherche du signal satellite RTK de la station multifonction D-RTK 3. Vérifiez si le signal est obstrué et utilisez l’appareil dans une zone où le signal satellite est puissant.",
-    "es": "Error de búsqueda de señal del satélite RTK de la estación multifunción D-RTK 3. Comprueba si la señal está obstruida y usa el dispositivo en una zona con una señal de satélite fuerte",
-    "zh": "基站RTK搜星异常，请检查信号是否有遮挡，并在搜星信号良好位置使用设备"
+    "de": "Fehler bei der Suche nach RTK-Satellitensignal der Relaisstation. Überprüfe, ob das Signal blockiert ist, und verwende das Gerät in einem Bereich mit starkem Satellitensignal.",
+    "ru": "Ошибка поиска спутникового сигнала RTK ретрансляционной станции. Проверьте наличие помех сигналу и используйте устройство в зоне с устойчивым спутниковым сигналом",
+    "ko": "릴레이 스테이션 RTK 위성 신호 검색 오류. 신호에 장애물이 없는지 확인하고 위성 신호가 강한 영역에서 기기를 사용하세요",
+    "pt": "Erro na busca de sinal de satélite RTK da estação de retransmissão. Verifique se há obstrução do sinal e utilize o dispositivo em uma área com sinal de satélite forte",
+    "ja": "リレーステーションRTK衛星信号検索エラー。信号が遮断されていないことを確認し、衛星信号が強い場所で機器を使用してください",
+    "en": "Relay station RTK satellite signal searching error. Check for signal obstruction and use device in area with strong satellite signal",
+    "fr": "Erreur de recherche du signal satellite RTK de la station de relais. Vérifiez s’il y a une obstruction du signal et utilisez l’appareil dans une zone avec un signal satellite fort.",
+    "es": "Error de búsqueda de señal de satélite RTK de la estación repetidora. Compruebe si la señal está obstruida y use el dispositivo en un área con una señal de satélite fuerte",
+    "zh": "中继站 RTK 搜星异常，请检查信号是否有遮挡，并在搜星信号良好位置使用设备"
   },
   "fpv_tip_0x160B0003": {
-    "de": "Initialisierungsposition der D-RTK 3-Multifunktionsstation ist zu weit von der zuletzt kalibrierten Position entfernt",
-    "ru": "Положение инициализации многофункциональной станции D-RTK 3 находится слишком далеко от последнего точно установленного положения",
-    "ko": "D-RTK 3 다기능 스테이션의 초기화 위치가 마지막으로 캘리브레이션된 위치에서 너무 멉니다.",
-    "ja": "D-RTK 3多機能ステーションの初期化位置が前回キャリブレーションした位置から離れすぎています",
-    "en": "Initialization position of D-RTK 3 multifunctional station is too far from last calibrated position",
-    "fr": "La position d’initialisation de la station multifonction D-RTK 3 est trop éloignée de la dernière position étalonnée.",
-    "es": "La posición de inicialización de la estación multifunción D-RTK 3 está demasiado lejos de la última posición calibrada",
-    "zh": "基站初始化定位位置距离上次标定位置过远"
+    "de": "Die Initialisierungsposition der Relaisstation ist zu weit von der letzten kalibrierten Position entfernt",
+    "ru": "Начальная позиция ретрансляционной станции слишком удалена от последней откалиброванной позиции",
+    "ko": "릴레이 스테이션의 초기화 위치가 마지막 캘리브레이션 위치에서 너무 멉니다",
+    "pt": "A posição inicial da estação de retransmissão está muito distante da última posição calibrada.",
+    "ja": "リレーステーションの初期化位置が最終キャリブレーション位置から離れすぎています",
+    "en": "Initialization position of relay station is too far from last calibrated position",
+    "fr": "La position d’initialisation de la station relais est trop éloignée de la dernière position étalonnée",
+    "es": "La posición de iniciación de la estación repetidora está demasiado lejos de la última posición calibrada",
+    "zh": "中继站初始化定位位置距离上次标定位置过远"
   },
   "fpv_tip_0x160B0004": {
-    "de": "Die Positionierung der D-RTK 3-Multifunktionsstation konnte nicht gestartet werden. In einem Bereich mit starkem Satellitensignal erneut versuchen",
-    "ru": "Не удалось инициировать позиционирование многофункциональной станции D-RTK 3. Переместите в область с мощным спутниковым сигналом",
-    "ko": "D-RTK 3 다기능 스테이션 포지셔닝을 시작하지 못했습니다. 위성 신호가 강한 장소에 재배치하세요.",
-    "ja": "D-RTK 3多機能ステーションの測位の開始に失敗しました。衛星信号の強い場所に再配備してください",
-    "en": "Failed to initiate D-RTK 3 multifunctional station positioning. Redeploy in area with strong satellite signal",
-    "fr": "Échec du lancement du positionnement de la station multifonction D-RTK 3. Recommencez dans une zone où le signal satellite est puissant.",
-    "es": "Fallo al iniciar el posicionamiento de la estación multifunción D-RTK 3. Vuelve a desplegarla en una zona con una señal de satélite fuerte",
-    "zh": "基站初始化定位失败，请移动至搜星信号良好位置重新部署"
+    "de": "Die Positionierung der Relaisstation konnte nicht initiiert werden. Versuche es in einem Bereich mit starkem Satellitensignal erneut",
+    "ru": "Не удалось инициализировать позиционирование ретрансляционной станции. Повторно установите устройство в зоне с устойчивым спутниковым сигналом",
+    "ko": "릴레이 스테이션 포지셔닝 시작 실패. 위성 신호가 강한 영역에 다시 배치하세요",
+    "pt": "Falha ao iniciar o posicionamento da estação de retransmissão. Realize a nova implantação em uma área com sinal de satélite forte.",
+    "ja": "リレーステーションの測位の開始に失敗しました。衛星信号の強い場所に再配備してください",
+    "en": "Failed to initiate relay station positioning. Redeploy in area with strong satellite signal",
+    "fr": "Échec de l’initialisation du positionnement de la station relais. Redéployez la station dans une zone avec un signal satellite fort",
+    "es": "Error al iniciar el posicionamiento de la estación repetidora. Vuelva a desplegarlo en un área con señal de satélite fuerte",
+    "zh": "中继站初始化定位失败，请移动至搜星信号良好位置重新部署"
   },
   "fpv_tip_0x160a000d": {
     "de": "Mit Fallschirm ausgestattet. LiDAR-Rückwärtssensor nicht verfügbar. Hinderniserkennung bei schlechten Lichtverhältnissen nicht verfügbar. Bitte achte besonders auf die Flugumgebung",
@@ -9484,14 +9539,15 @@
     "zh": "飞行器倾斜角度过大，请水平放置飞行器后起飞"
   },
   "fpv_tip_0x16100016": {
-    "de": "Fluggerät nicht aktiviert. Kann nicht abheben. DJI Pilot neu starten und aktivieren",
-    "ru": "Дрон не активирован. Взлет невозможен. Перезагрузите DJI Pilot и активируйте дрон",
-    "ko": "활성화 안 된 기체. 이륙 불가. DJI Pilot 재시작 후 기체 활성화해야 함",
-    "ja": "機体が未アクティベーション。離陸できません。DJI Pilotを再起動して機体をアクティベートしてください",
-    "en": "Aircraft not activated. Unable to take off. Restart DJI Pilot and activate aircraft",
-    "fr": "L'appareil n'est pas activé. Impossible de décoller. Redémarrez DJI Pilot et activez l'appareil",
-    "es": "Aeronave no activada. No se puede despegar. Reinicia DJI Pilot y activa la aeronave",
-    "zh": "无法起飞：飞行器未激活，请重启App进行激活"
+    "de": "Start nicht möglich. Fluggerät nicht aktiviert. Zur Aktivierung mit der DJI Enterprise App verbinden",
+    "ru": "Невозможно выполнить взлет. Дрон не активирован. Подключитесь к приложению DJI Enterprise для активации",
+    "ko": "이륙 불가. 기체가 활성화되지 않음. DJI Enterprise 앱에 연결하여 활성화하세요",
+    "pt": "Não foi possível decolar. A aeronave não foi ativada. Conecte-se ao aplicativo DJI Enterprise para ativar",
+    "ja": "離陸できません。機体がアクティベーションされていません。DJI Enterpriseアプリに接続してアクティベーションしてください",
+    "en": "Unable to take off. Aircraft not activated. Connect to DJI Enterprise app to activate",
+    "fr": "Impossible de décoller. Appareil non activé. Connectez-vous à l’application DJI Enterprise pour l’activer",
+    "es": "No se puede despegar. La aeronave no está activada. Conéctese a la aplicación DJI Enterprise para activarla",
+    "zh": "无法起飞：飞行器未激活，请连接大疆行业 App 进行激活"
   },
   "fpv_tip_0x16100016_in_the_sky": {
     "de": "Fluggerät nicht aktiviert. Starten Sie DJI Pilot neu und aktivieren Sie das Fluggerät",
@@ -9730,7 +9786,14 @@
     "zh": "飞控温度过高，强制降落中"
   },
   "fpv_tip_0x16100022": {
+    "de": "Start nicht möglich. Fluggerät konnte mehrmals nicht stabil bleiben. Um die Flugsicherheit zu gewährleisten, wenden Sie sich an den DJI Support",
+    "ru": "Невозможно выполнить взлет. Дрон несколько раз не смог удержать стабильное положение. Для обеспечения безопасности полета обратитесь в службу поддержки DJI",
+    "ko": "이륙할 수 없습니다. 기체가 여러 번 안정적으로 유지될 수 없습니다. 비행 안전을 위해 DJI 고객지원에 문의하십시오.",
+    "pt": "Não foi possível decolar. A aeronave não conseguiu se manter estável diversas vezes. Para garantir a segurança do voo, entre em contato com o Suporte DJI",
+    "ja": "離陸できません。機体が複数回安定しませんでした。飛行の安全を確保するため、DJIサポートにお問い合わせください",
     "en": "Unable to take off. Aircraft unable to remain stable for several times. To ensure flight safety, contact DJI Support",
+    "fr": "Impossible de décoller. L’appareil n’a pas pu rester stable à plusieurs reprises. Pour assurer la sécurité en vol, contactez le service client DJI",
+    "es": "No se puede despegar. La aeronave no puede permanecer estable varias veces. Para garantizar la seguridad del vuelo, póngase en contacto con la Asistencia técnica de DJI",
     "zh": "无法起飞：飞机已多次失稳，为保证飞行安全，请联系大疆售后服务"
   },
   "fpv_tip_0x16100023": {
@@ -9920,24 +9983,26 @@
     "zh": "空吊系统线绳反绕，请勿操作空吊并尽快降落理线"
   },
   "fpv_tip_0x16100033": {
-    "de": "Registrierung mit Klarnamen wurde nicht durchgeführt. Vor dem Flug die Hilfedokumentation beachten und eine Registrierung mit Klarnamen anhand der Anweisungen abschließen",
-    "ru": "Регистрация с использованием настоящего имени не пройдена. Изучите справочную документацию и завершите регистрацию по инструкции перед началом полета",
-    "ko": "실명 등록이 수행되지 않았습니다. 비행 전에 지침에 따라 도움말 문서를 보고 실명 등록을 완료하세요.",
-    "ja": "実名の登録が行われていません。飛行前に手順に従ってヘルプドキュメントを参照し、実名の登録を完了してください",
-    "en": "Real-name registration is not performed. View Help Documentation and complete real-name registration based on instructions before flight",
-    "fr": "L'enregistrement du nom réel n'est pas effectué. Consultez les documents d'aide et effectuez l'enregistrement du nom réel en fonction des instructions avant le vol",
-    "es": "No se ha realizado el registro de nombre real. Echa un vistazo a la documentación de ayuda y completa el registro de nombre real según las instrucciones antes del vuelo",
-    "zh": "飞机未完成实名登记，请点击查看帮助文档，按照指引完成实名登记后飞行"
+    "de": "Fluggerät nicht unter echtem Namen registriert. Bitte gehen Sie zur Geräteverwaltung von FlightHub 2 und folgen Sie den Anweisungen zur Klarnamensregistrierung. (Für DJI Dock 1 verbinden Sie bitte die Fernsteuerung, um die Registrierung abzuschließen.)",
+    "ru": "Воздушное судно не зарегистрировано на реальное имя. Перейдите в раздел управления устройствами FlightHub 2 и следуйте инструкциям для завершения регистрации. (Для DJI Dock 1 подключите пульт управления для завершения регистрации.)",
+    "ko": "기체가 실명 등록되지 않았습니다. FlightHub 2 기기 관리 페이지에서 안내에 따라 실명 등록을 완료하세요. (DJI Dock 1의 경우 조종기를 연결하여 등록을 완료하세요.)",
+    "pt": "A aeronave não está registrada com nome real. Acesse o Gerenciamento de dispositivos do FlightHub 2 e siga as instruções para concluir o registro com nome real. (Para o DJI Dock 1, conecte o controle remoto para concluir o registro.)",
+    "ja": "機体が実名登録されていません。司空 2 のデバイス管理ページで手順に従って実名登録を完了してください。（DJI Dock 1 の場合は送信機を接続して実名登録を完了してください。）",
+    "en": "Aircraft not registered under real name. Please go to FlightHub 2 Device Management and follow the instructions to complete real-name registration. (For DJI Dock 1, connect the remote controller to complete registration.)",
+    "fr": "L'aéronef n'est pas enregistré sous un nom réel. Veuillez accéder à la gestion des appareils de FlightHub 2 et suivre les instructions pour compléter l'enregistrement. (Pour le DJI Dock 1, connectez la radiocommande pour finaliser l'enregistrement.)",
+    "es": "La aeronave no está registrada con nombre real. Vaya a Gestión de dispositivos de FlightHub 2 y siga las instrucciones para completar el registro con nombre real. (Para DJI Dock 1, conecte el control remoto para completar el registro.)",
+    "zh": "飞机未完成实名登记，大疆机场 1 请连接遥控器实名，其余设备可前往司空设备管理页，按照指引完成实名登记后飞行"
   },
   "fpv_tip_0x16100034": {
-    "de": "Registrierung mit Klarnamen wurde abgebrochen. Vor dem Flug die Hilfedokumentation beachten und eine Registrierung mit Klarnamen anhand der Anweisungen abschließen",
-    "ru": "Регистрация с использованием настоящего имени отменена. Изучите справочную документацию и завершите регистрацию по инструкции перед началом полета",
-    "ko": "실명 등록이 취소되었습니다. 비행 전에 지침에 따라 도움말 문서를 보고 실명 등록을 완료하세요.",
-    "ja": "実名の登録がキャンセルされました。飛行前に手順に従ってヘルプドキュメントを参照し、実名の登録を完了してください",
-    "en": "Real-name registration is canceled. View Help Documentation and complete real-name registration based on instructions before flight",
-    "fr": "L'enregistrement du nom réel est annulé. Consultez les documents d'aide et effectuez l'enregistrement du nom réel en fonction des instructions avant le vol",
-    "es": "Se ha cancelado el registro de nombre real. Echa un vistazo a la documentación de ayuda y completa el registro de nombre real según las instrucciones antes del vuelo",
-    "zh": "飞行器实名登记状态已注销，请点击查看帮助文档，按照指引完成实名登记后飞行"
+    "de": "Klarnamen-Authentifizierung nicht abgeschlossen. Gehe zur Geräteverwaltung von FlightHub 2 oder verbinde das Gerät über die DJI Enterprise App, um die Authentifizierung abzuschließen (bei DJI Dock 1 verbindest du die Fernsteuerung, um die Authentifizierung abzuschließen)",
+    "ru": "Аутентификация по настоящему имени не завершена. Перейдите в раздел «Управление устройствами» FlightHub 2 или подключите устройство через приложение DJI Enterprise, чтобы завершить аутентификацию (для DJI Dock 1 подключите пульт дистанционного управления, чтобы завершить аутентификацию)",
+    "ko": "실명 인증이 완료되지 않았습니다. FlightHub 2 ‘기기 관리’로 이동하거나 DJI Enterprise 앱을 통해 기기를 연결하여 인증을 완료하세요(DJI Dock 1의 경우, 조종기를 연결하여 인증 완료)",
+    "pt": "Autenticação de nome real incompleta. Acesse o gerenciamento do dispositivo do FlightHub 2 ou conecte o dispositivo pelo aplicativo DJI Enterprise para concluir a autenticação (para o DJI Dock 1, conecte o controle remoto para concluir a autenticação)",
+    "ja": "実名認証が完了していません。FlightHub 2の機器管理に移動するか、DJI Enterpriseアプリで機器を接続して認証を完了してください（DJI Dock 1の場合は、送信機を接続して認証を完了してください）",
+    "en": "Real-name authentication incomplete. Go to FlightHub 2 Device Management or connect device via DJI Enterprise app to complete authentication (for DJI Dock 1, connect remote controller to complete authentication)",
+    "fr": "Authentification par nom réel incomplète. Accédez à Gestion des appareils dans FlightHub 2 ou connectez l’appareil via l’application DJI Enterprise pour terminer l’authentification (pour DJI Dock 1, connectez la radiocommande pour terminer l’authentification)",
+    "es": "Autenticación de nombre real incompleta. Vaya a Gestión de dispositivos de FlightHub 2 o conecte el dispositivo mediante la aplicación DJI Enterprise para completar la autenticación (para DJI Dock 1, conecte el control remoto para completar la autenticación)",
+    "zh": "飞机未完成实名认证，可前往司空 2 的设备管理或使用大疆行业 App 连接设备完成实名认证（大疆机场 1 请连接遥控器完成实名）"
   },
   "fpv_tip_0x16100038": {
     "de": "Start nicht möglich. ESC-Spannungsfehler. DJI-Support kontaktieren",
@@ -10859,15 +10924,15 @@
     "zh": "指南针异常，请返航或降落"
   },
   "fpv_tip_0x16100079": {
-    "de": "Start nicht möglich. Fallschirm nicht verfügbar",
-    "ru": "Невозможно выполнить взлет. Парашют недоступен",
-    "ko": "이륙할 수 없습니다. 낙하산을 사용할 수 없습니다.",
-    "pt": "",
-    "ja": "離陸できません。パラシュートは使用できません",
-    "en": "Unable to take off. Parachute unavailable",
-    "fr": "Impossible de décoller. Parachute indisponible",
-    "es": "No se puede despegar. Paracaídas no disponible",
-    "zh": "降落伞不可用，无法起飞"
+    "de": "Der Fallschirm ist nicht aktiviert oder wurde nicht auf die neue Firmware aktualisiert. Ein Start ist nicht möglich.",
+    "ru": "Парашют не активирован или не обновлён до новой прошивки. Взлёт невозможен.",
+    "ko": "낙하산이 활성화되지 않았거나 새 펌웨어로 업그레이드되지 않아 이륙할 수 없습니다.",
+    "pt": "O paraquedas não está ativado ou não foi atualizado para o novo firmware. A decolagem não é possível.",
+    "ja": "パラシュートが未アクティベーション、または新しいファームウェアにアップグレードされていないため、離陸できません。",
+    "en": "The parachute is not activated or has not been updated to the new firmware. Takeoff is not possible.",
+    "fr": "Le parachute n'est pas activé ou n'a pas été mis à jour vers le nouveau firmware. Le décollage n'est pas possible.",
+    "es": "El paracaídas no está activado o no se ha actualizado al nuevo firmware. No es posible despegar.",
+    "zh": "降落伞未激活或未升级新固件，无法起飞"
   },
   "fpv_tip_0x1610007A": {
     "de": "ESC-Piepton. Start nicht möglich. ESC-Piepton vor Start deaktivieren",
@@ -11031,14 +11096,15 @@
     "zh": "电池电芯压差过大，请返航或降落，再对电池进行保养"
   },
   "fpv_tip_0x16100083": {
-    "de": "Akku nicht richtig installiert. Drücken Sie den Akku fest in Position",
-    "ru": "Аккумулятор установлен неправильно. Надежно установите аккумулятор на место",
-    "ko": "배터리가 올바르게 설치되지 않음. 배터리를 단단히 눌러 제자리에 고정하세요",
-    "ja": "バッテリーが正しく取り付けられていません。バッテリーをしっかりと押し込んでください",
-    "en": "Battery not installed properly. Push battery firmly into place",
-    "fr": "Installation incorrecte de la batterie. Enfoncez bien la batterie pour la mettre en place",
-    "es": "La batería no se ha instalado correctamente. Empuje la batería con firmeza para colocarla en su lugar",
-    "zh": "电池安装不到位，请用力将电池推到底"
+    "de": "Start nicht möglich: Der Akku ist nicht ordnungsgemäß installiert. Drehen Sie den Akku-Verriegelungsknopf bis zum Anschlag.",
+    "ru": "Взлет невозможен: аккумулятор установлен неправильно. Поверните фиксирующую ручку аккумулятора до упора.",
+    "ko": "이륙할 수 없습니다: 배터리가 제대로 장착되지 않았습니다. 배터리 잠금 손잡이를 제자리까지 돌리십시오.",
+    "pt": "Não é possível decolar: a bateria não está instalada corretamente. Gire o botão de travamento da bateria até a posição correta.",
+    "ja": "離陸できません：バッテリーが正しく取り付けられていません。バッテリーロックノブを正しい位置まで回してください。",
+    "en": "Unable to take off: The battery is not installed properly. Turn the battery locking knob into place.",
+    "fr": "Impossible de décoller : la batterie n'est pas correctement installée. Tournez le bouton de verrouillage de la batterie jusqu'en position.",
+    "es": "No se puede despegar: la batería no está instalada correctamente. Gire la perilla de bloqueo de la batería hasta su posición.",
+    "zh": "无法起飞：电池安装不到位，请将电池锁紧旋钮旋转到位"
   },
   "fpv_tip_0x16100083_ea340t": {
     "de": "Start nicht möglich: Der Akku ist nicht ordnungsgemäß installiert. Drehen Sie den Akku-Verriegelungsknopf bis zum Anschlag.",
@@ -11047,9 +11113,7 @@
     "pt": "Não é possível decolar: a bateria não está instalada corretamente. Gire o botão de travamento da bateria até a posição correta.",
     "ja": "離陸できません：バッテリーが正しく取り付けられていません。バッテリーロックノブを正しい位置まで回してください。",
     "en": "Unable to take off: The battery is not installed properly. Turn the battery locking knob into place.",
-    "it": "Impossibile decollare: la batteria non è installata correttamente. Ruota la manopola di bloccaggio della batteria in posizione.",
     "fr": "Impossible de décoller : la batterie n'est pas correctement installée. Tournez le bouton de verrouillage de la batterie jusqu'en position.",
-    "pl": "Nie można wystartować: bateria jest nieprawidłowo zainstalowana. Przekręć pokrętło blokady baterii na właściwe położenie.",
     "es": "No se puede despegar: la batería no está instalada correctamente. Gire la perilla de bloqueo de la batería hasta su posición.",
     "zh": "无法起飞：电池安装不到位，请将电池锁紧旋钮旋转到位"
   },
@@ -11070,7 +11134,6 @@
     "ja": "バッテリーが正しく取り付けられていません。帰還するか、着陸してください。バッテリーロッカーを限界まで回し、両方のバッテリーが正しく取り付けられていることを確認してください",
     "en": "Battery installed incorrectly. Return to home or land. Turn battery locker to its limit and ensure both batteries are installed correctly",
     "fr": "Batterie mal installée. Revenez au point de départ ou atterrissez. Tournez le verrou de la batterie jusqu'à sa limite et assurez-vous que les deux batteries sont installées correctement",
-    "pl": "Akumulator zainstalowany nieprawidłowo. Wróć do punktu startu lub wyląduj. Przekręć blokadę akumulatora do oporu i upewnij się, że oba akumulatory są zainstalowane prawidłowo",
     "es": "Batería instalada de forma incorrecta. Regresa al punto de origen o aterriza. Gira el seguro de la batería hasta el tope y asegúrate de que las dos baterías estén instaladas correctamente",
     "zh": "电池安装不到位，请返航或降落，并检查电池锁紧旋是否钮旋转到位"
   },
@@ -11431,14 +11494,15 @@
     "zh": "电池电量异常，请返航或降落，再进行电池保养"
   },
   "fpv_tip_0x16100095": {
-    "de": "Unable to take off. Set Hover mode before flying",
-    "ru": "Unable to take off. Set Hover mode before flying",
-    "ko": "Unable to take off. Set Hover mode before flying",
-    "ja": "Unable to take off. Set Hover mode before flying",
-    "en": "Unable to take off. Set Hover mode before flying",
-    "fr": "Unable to take off. Set Hover mode before flying",
-    "es": "Unable to take off. Set Hover mode before flying",
-    "zh": "无法起飞：请在起飞前设置飞行器悬停模式"
+    "de": "Akku nicht in Position erkannt. Sichern Sie den Akku so bald wie möglich.",
+    "ru": "Обнаружено, что аккумулятор не на месте. Закрепите аккумулятор как можно скорее.",
+    "ko": "배터리가 제자리에 없는 것이 감지되었습니다. 가능한 한 빨리 배터리를 고정하십시오.",
+    "pt": "Bateria fora da posição detectada. Fixe a bateria o mais rápido possível.",
+    "ja": "バッテリーが所定の位置にないことが検出されました。速やかにバッテリーを固定してください。",
+    "en": "Battery not in place detected. Secure the battery as soon as possible.",
+    "fr": "Batterie hors de position détectée. Fixez la batterie dès que possible.",
+    "es": "Se ha detectado que la batería no está en su lugar. Fije la batería lo antes posible.",
+    "zh": "检测到电池不在位，建议尽快缩紧电池"
   },
   "fpv_tip_0x16100096": {
     "de": "%battery_index Fehler Akkustromversorgung. Fluggerät landet automatisch",
@@ -11847,15 +11911,15 @@
     "zh": "无法起飞：起落架已进入运输模式，等待摘除云台"
   },
   "fpv_tip_0x161000B4": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "Remote ID broadcast error. Failed to obtain remote controller location. Unable to take off",
-    "fr": "",
-    "es": "",
-    "zh": "无法起飞：Remote ID 播报异常，无法获取遥控器位置"
+    "de": "Start nicht möglich. Remote-ID-Übertragungsfehler. Dock-Standort kann nicht abgerufen werden",
+    "ru": "Невозможно выполнить взлет. Ошибка передачи дистанционного идентификатора. Не удалось получить местоположение док-станции",
+    "ko": "이륙 불가. 원격 ID 브로드캐스트 오류. 도크 위치 확인 불가",
+    "pt": "Não é possível decolar. Erro de transmissão de ID remota. Falha ao obter localização do dock",
+    "ja": "離陸できません。リモートIDの配信エラー。ドックの位置を取得できません",
+    "en": "Unable to take off. Remote ID broadcast error. Unable to obtain dock location",
+    "fr": "Impossible de décoller. Erreur de diffusion ID à distance. Impossible d’obtenir l’emplacement du dock.",
+    "es": "No se puede despegar. Error de emisión de ID remoto. No se puede obtener la ubicación del Dock",
+    "zh": "无法起飞：Remote ID 播报异常，无法获取机场位置"
   },
   "fpv_tip_0x161000B5": {
     "de": "",
@@ -12552,15 +12616,15 @@
     "zh": "无法起飞：桨叶损坏，请联系售后服务"
   },
   "fpv_tip_0x161000FC": {
-    "de": "Start nicht möglich. Standortauswahl von DJI Dock läuft",
-    "ru": "Не удается выполнить взлет. DJI Dock в процессе выбора площадки",
-    "ko": "이륙 불가. DJI Dock이 장소 선택 중입니다",
-    "pt": "",
-    "ja": "離陸できません。DJI Dockがサイトを選択中です",
-    "en": "Unable to take off. DJI Dock in site selection process",
-    "fr": "Impossible de décoller. DJI Dock dans le processus de sélection du site",
-    "es": "No se puede despegar. DJI Dock en el proceso de selección del sitio",
-    "zh": "无法起飞：机场选址中"
+    "de": "Abheben nicht möglich. Standort der Dockingstation/Bodenstation wird überprüft...",
+    "ru": "Невозможно выполнить взлет. Выполняется оценка площадки док-станции / наземной станции...",
+    "ko": "이륙 불가. 도크/그라운드 스테이션 위치 평가 중...",
+    "pt": "Não foi possível decolar. Avaliando o local da estação/dock terrestre...",
+    "ja": "離陸できません。ドック／地上ステーションの設置場所を評価しています…",
+    "en": "Unable to take off. Evaluating dock/ground station site...",
+    "fr": "Impossible de décoller. Évaluation du site de la station d’accueil/station au sol en cours…",
+    "es": "No se puede despegar. Evaluando el sitio del dock/estación en tierra…",
+    "zh": "无法起飞：机场/地面站选址中"
   },
   "fpv_tip_0x161000FD": {
     "de": "Abheben nicht möglich. Fluggerät befindet sich außerhalb des benutzerdefinierten Aufgabenbereichs oder näher als 10 Meter an der Bereichsgrenze",
@@ -12623,8 +12687,15 @@
     "zh": "遥控器电量过低，请尽快返航或降落"
   },
   "fpv_tip_0x161000b4": {
-    "en": "Remote ID broadcast error. Failed to obtain remote controller location. Unable to take off",
-    "zh": "无法起飞：Remote ID 播报异常，无法获取遥控器位置"
+    "de": "Start nicht möglich. Remote-ID-Übertragungsfehler. Dock-Standort kann nicht abgerufen werden",
+    "ru": "Невозможно выполнить взлет. Ошибка передачи дистанционного идентификатора. Не удалось получить местоположение док-станции",
+    "ko": "이륙할 수 없습니다. 원격 ID 방송 오류. 도크 위치를 가져올 수 없습니다.",
+    "pt": "Não é possível decolar. Erro de transmissão de ID remota. Falha ao obter localização do dock",
+    "ja": "離陸できません。リモートID発信エラー。ドックの位置情報を取得できません",
+    "en": "Unable to take off. Remote ID broadcast error. Unable to obtain dock location",
+    "fr": "Impossible de décoller. Erreur de diffusion ID à distance. Impossible d’obtenir l’emplacement du dock.",
+    "es": "No se puede despegar. Error de transmisión de ID remoto. No se puede obtener la ubicación del dock",
+    "zh": "无法起飞：Remote ID 播报异常，无法获取机场位置"
   },
   "fpv_tip_0x161000b5": {
     "en": "Remote ID module error. Unable to take off. Contact DJI Support",
@@ -13046,14 +13117,15 @@
     "zh": "PPP卫星信号弱，无法完成初始化，周围环境可能存在遮挡、反射或干扰。请移动到开阔无电磁干扰环境，重新进行PPP标定"
   },
   "fpv_tip_0x16150002": {
-    "de": "Basisstation wurde verschoben. PPP-Kalibrierungsfehler erhöht. Halte das Gerät still und kalibriere PPP erneut",
-    "ru": "Базовая станция перемещена. Ошибка калибровки PPP увеличилась. Оставьте устройство неподвижным и выполните повторную калибровку PPP",
-    "ko": "베이스 스테이션 이동됨. PPP 캘리브레이션 오류가 증가했습니다. 기기를 고정한 상태에서 PPP를 다시 캘리브레이션하세요",
-    "ja": "ベースステーションが移動しました。PPPキャリブレーションエラーが増加しました。機器を静止させ、PPPを再キャリブレーションしてください",
-    "en": "Base station moved. PPP calibration error increased. Keep device stationary and recalibrate PPP",
-    "fr": "Station de base déplacée. L’erreur d’étalonnage PPP a augmenté. Maintenez l’appareil immobile et recalibrez le PPP",
-    "es": "La estación base se ha movido. Aumento del error de calibración del PPP. Mantenga el dispositivo inmóvil y vuelva a calibrar el PPP",
-    "zh": "检测到基站发生移动，PPP标定误差增大，请保持设备静止并重新进行PPP标定"
+    "de": "Bewegung der Relaisstation erkannt. PPP-Kalibrierungsfehler erhöht. Halte das Gerät ruhig und kalibriere PPP erneut",
+    "ru": "Обнаружено перемещение ретрансляционной станции. Ошибка калибровки PPP увеличилась. Оставьте устройство неподвижным и выполните повторную калибровку PPP",
+    "ko": "릴레이 스테이션 이동이 감지되었습니다. PPP 캘리브레이션 오류가 증가했습니다. 기기를 고정하고 PPP를 다시 캘리브레이션하세요",
+    "pt": "Movimento da estação de retransmissão detectado. O erro de calibração PPP aumentou. Mantenha o dispositivo parado e recalibre o PPP",
+    "ja": "リレーステーションの移動が検出されました。PPPキャリブレーションエラーが増加しました。機器を静止させ、PPPを再キャリブレーションしてください",
+    "en": "Relay station movement detected. PPP calibration error increased. Keep device stationary and recalibrate PPP",
+    "fr": "Mouvement de la station relais détecté. Augmentation d'erreur d'étalonnage PPP. Gardez l'appareil immobile et étalonnez à nouveau le PPP",
+    "es": "Movimiento de la estación repetidora detectado. Error de calibración PPP aumentado. No mueva el dispositivo y vuelva a calibrar el PPP",
+    "zh": "检测到中继站发生移动，PPP 标定误差增大，请保持设备静止并重新进行 PPP 标定"
   },
   "fpv_tip_0x16150003": {
     "de": "Satellitensignal schwach. GNSS+ kann die Initialisierung nicht abschließen. Signal kann in der aktuellen Umgebung blockiert, reflektiert oder gestört sein",
@@ -13266,36 +13338,37 @@
     "zh": "无法起飞: 下视红外传感器连接异常"
   },
   "fpv_tip_0x16200208": {
-    "de": "Propellerfehler. Sicherstellen, dass die Propeller nicht beschädigt sind. DJI Support kontaktieren",
-    "ru": "Ошибка пропеллера.  Убедитесь, что пропеллеры не повреждены. Свяжитесь со службой поддержки DJI",
-    "ko": "프로펠러 오류입니다. 프로펠러가 손상되지 않았는지 확인하세요. DJI 고객지원으로 문의하세요",
-    "ja": "プロペラエラーです。プロペラが破損していないことを確かにしてください。DJIサポートまでお問い合わせください",
-    "en": "Propeller error. Make sure propellers are not damaged. Contact DJI Support",
-    "fr": "Erreur d'hélice. Assurez-vous que les hélices ne sont pas endommagées. Contactez le service client DJI",
-    "es": "Error de la hélice. Asegúrese de que las hélices no estén dañadas. Póngase en contacto con la Asistencia técnica de DJI",
-    "zh": "桨叶异常，请确认桨叶是否完好无损，并联系售后服务"
+    "de": "Propellerfehler. Start nicht möglich. Stellen Sie sicher, dass die Propeller nicht beschädigt sind. Starten Sie das Fluggerät neu und versuchen Sie es erneut",
+    "ru": "Ошибка пропеллера. Невозможно выполнить взлет. Убедитесь, что пропеллеры не повреждены. Перезапустите дрон и повторите попытку",
+    "ko": "프로펠러 오류. 이륙할 수 없습니다. 프로펠러가 손상되지 않았는지 확인하십시오. 기체를 재시작하고 다시 시도하십시오.",
+    "pt": "Erro da hélice. Não é possível decolar. Certifique-se de que as hélices não estão danificadas. Reinicie a aeronave e tente novamente.",
+    "ja": "プロペラエラーです。離陸できません。プロペラが破損していないことを確認してください。機体を再起動して、やり直してください",
+    "en": "Propeller error. Unable to take off. Make sure propellers are not damaged. Restart aircraft and try again",
+    "fr": "Erreur d’hélice. Impossible de décoller. Assurez-vous que les hélices ne sont pas endommagées. Redémarrez l’appareil et réessayez",
+    "es": "Error de hélice. No se puede despegar. Asegúrese de que las hélices no estén dañadas. Reinicie la aeronave e inténtelo de nuevo",
+    "zh": "桨叶异常，无法起飞，请确认桨叶完好无损后重启飞机再试"
   },
   "fpv_tip_0x1620020A": {
-    "de": "Fehler bei der Verbindung zur Übertragung der Betriebsidentifikation. Überprüfe den Status der Kommunikationsverbindung des Fluggeräts",
+    "de": "Fehler bei der Verbindung zur Betriebsidentifikationsübertragung. Überprüfe den Status der Kommunikationsverbindung des Fluggeräts.",
     "ru": "Ошибка канала трансляции идентификационных данных при эксплуатации. Проверьте состояние подключения дрона к системе связи",
-    "ko": "운용 식별 방송 연동 오류. 기체 통신 연결 상태를 확인하세요",
-    "pt": "",
-    "ja": "運用識別情報送信のリンクエラーです。機体の通信接続ステータスを確認してください",
+    "ko": "운용 식별 방송 링크 오류. 기체 통신 연결 상태를 확인하세요.",
+    "pt": "Erro no link de transmissão de identificação operacional. Verifique o status da conexão de comunicação da aeronave.",
+    "ja": "運用識別情報送信のリンクエラー。機体の通信接続状態を確認してください",
     "en": "Operational Identification Broadcast link error. Check aircraft communication connection status",
-    "fr": "Erreur de liaison de diffusion d'identification opérationnelle. Vérifiez l'état de la connexion de communication de l'appareil",
-    "es": "Error del enlace de transmisión de identificación operativa. Comprueba el estado de la conexión de comunicación de la aeronave.",
-    "zh": "运行识别（OID）报送链路异常，请检查飞行器通信连接状态"
+    "fr": "Erreur de liaison de diffusion de l’identification opérationnelle. Vérifiez l’état de la connexion de communication de l’appareil",
+    "es": "Error del enlace de transmisión de identificación operativa. Comprueba el estado de la conexión de comunicación de la aeronave",
+    "zh": "无人机运行识别（OID）报送链路异常，请检查飞机通信连接状态。"
   },
   "fpv_tip_0x1620020B": {
-    "de": "Verbindung zur Übertragung der Betriebsidentifikation unterbrochen. Kommunikationssignal des Fluggeräts schwach oder gestört. Leite umgehend die Rückkehr ein oder fliege in einen Bereich mit gutem Signal",
-    "ru": "Канал трансляции идентификационных данных при эксплуатации прерван. Сигнал связи дрона слабый или имеются помехи. Как можно скорее выполните возврат домой или переместите дрон в область с хорошим сигналом",
-    "ko": "운용 식별 방송 연동 중단됨. 기체 통신 신호가 약하거나 간섭 발생. 즉시 RTH하거나 신호가 양호한 지역으로 비행하세요",
-    "pt": "",
-    "ja": "運用識別情報送信のリンクが中断されました。機体の通信信号が微弱になっているか、干渉を受けています。直ちにホームへ帰還するか、または信号が良好なエリアまで飛行してください",
-    "en": "Operational Identification broadcast link interrupted. Aircraft communication signal weak or experiencing interference. RTH promptly or fly to area with good signal",
-    "fr": "Liaison de diffusion d'identification opérationnelle interrompue. Signal de communication de l'appareil faible ou interférences. Retournez immédiatement au point de départ ou dirigez-vous vers une zone où le signal est bon",
-    "es": "Enlace de transmisión de identificación operativa interrumpido. La señal de comunicación de la aeronave es débil o sufre interferencias. RPO rápidamente o vuela a una zona con buena señal.",
-    "zh": "运行识别（OID）报送链路中断，飞行器通信信号弱或受干扰，请尽快返航或转至信号良好区域飞行"
+    "de": "Fehler bei der Verbindung zur Betriebsidentifikationsübertragung. Das Kommunikationssignal ist schwach oder wird gestört.",
+    "ru": "Ошибка канала трансляции идентификационных данных при эксплуатации. Слабый сигнал связи или помехи",
+    "ko": "운용 식별 방송 링크 오류. 통신 신호가 약하거나 간섭을 받고 있습니다.",
+    "pt": "Erro no link de transmissão de identificação operacional. Sinal de comunicação fraco ou com interferência.",
+    "ja": "運用識別情報送信のリンクエラー。通信信号が微弱になっているか、干渉を受けています",
+    "en": "Operational Identification Broadcast link error. Communication signal weak or experiencing interference",
+    "fr": "Erreur de liaison de diffusion de l’identification opérationnelle. Le signal de communication est faible ou subit des interférences.",
+    "es": "Error en el enlace de transmisión de identificación operativa. La señal de comunicación es débil o presenta interferencias",
+    "zh": "无人机运行识别（OID）报送链路异常，通信信号弱或受干扰"
   },
   "fpv_tip_0x16200301": {
     "de": "Gerätefehler am Erweiterungsanschluss. Start nicht möglich. PSDK-Gerät überprüfen",
@@ -13428,42 +13501,44 @@
     "de": "Flugsystem wird initialisiert...",
     "ru": "Инициализация системы управления полетом...",
     "ko": "비행 시스템 초기화 중...",
+    "pt": "Inicializando o sistema de voo...",
     "ja": "フライトシステムを初期化中...",
     "en": "Initializing flight system...",
     "fr": "Initialisation du système de vol...",
-    "es": "Iniciando sistema de vuelo...",
+    "es": "Inicializando sistema de vuelo...",
     "zh": "飞行系统初始化中，请等待"
   },
   "fpv_tip_0x16200601_in_the_sky": {
     "de": "Flugsystem wird initialisiert...",
     "ru": "Инициализация системы управления полетом...",
     "ko": "비행 시스템 초기화 중...",
+    "pt": "Inicializando o sistema de voo...",
     "ja": "フライトシステムを初期化中...",
     "en": "Initializing flight system...",
     "fr": "Initialisation du système de vol...",
-    "es": "Iniciando sistema de vuelo...",
+    "es": "Inicializando sistema de vuelo...",
     "zh": "飞行系统初始化中，请等待"
   },
   "fpv_tip_0x16200A01": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Start nicht möglich. Akkudeckel abgenommen",
+    "ru": "Невозможно выполнить взлет. Крышка аккумулятора открыта",
+    "ko": "이륙할 수 없습니다. 배터리 커버가 열려 있습니다.",
+    "pt": "Não é possível decolar. Tampa da bateria aberta",
+    "ja": "離陸できません。バッテリーカバーが外れています",
     "en": "Unable to take off. Battery cover off",
-    "fr": "",
-    "es": "",
+    "fr": "Impossible de décoller. Couvercle de batterie retiré",
+    "es": "No se puede despegar. Tapa del compartimento de la batería abierta",
     "zh": "无法起飞：未接电池帽盖"
   },
   "fpv_tip_0x16200A01_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Akku-Kommunikationsfehler. Vorsichtig fliegen",
+    "ru": "Ошибка связи с аккумулятором. Соблюдайте осторожность во время полета",
+    "ko": "배터리 통신 오류. 주의하여 비행하세요.",
+    "pt": "Erro de comunicação da bateria. Voe com cautela",
+    "ja": "バッテリー通信エラー。慎重に飛行してください",
     "en": "Battery communication error. Fly with caution",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de communication de la batterie. Volez avec précaution",
+    "es": "Error de comunicación de la batería. Vuele con precaución",
     "zh": "电池通信异常，请谨慎飞行"
   },
   "fpv_tip_0x16200A01_in_the_sky_ta101": {
@@ -14865,12 +14940,26 @@
     "zh": "飞机悬停超时"
   },
   "fpv_tip_0x16450012": {
-    "en": "",
-    "zh": "飞机无法接收到机场状态"
+    "de": "Das Fluggerät kann den Status der Dockingstation oder Bodenstation nicht empfangen",
+    "ru": "Дрон не может получить состояние док-станции или наземной станции",
+    "ko": "기체가 도크 또는 그라운드 스테이션 상태를 수신할 수 없습니다",
+    "pt": "A aeronave não consegue receber o status do dock ou da estação terrestre",
+    "ja": "機体がドックまたは地上ステーションの状態を受信できません",
+    "en": "Aircraft cannot receive dock or ground station status",
+    "fr": "L’appareil ne peut pas recevoir le statut du dock ou de la station au sol",
+    "es": "La aeronave no puede recibir el estado del dock o la estación en tierra",
+    "zh": "飞机无法接收到机场/地面站状态"
   },
   "fpv_tip_0x16450013": {
-    "en": "",
-    "zh": "机场暂时不允许降落"
+    "de": "Dock/Bodenstation erlaubt vorübergehend keine Landung",
+    "ru": "Док-станция/наземная станция временно не разрешает посадку",
+    "ko": "도크/그라운드 스테이션에서 일시적으로 착륙이 허용되지 않습니다",
+    "pt": "Estação de acoplamento/base terrestre temporariamente não permite o pouso",
+    "ja": "ドック／地上ステーションは一時的に着陸を許可していません",
+    "en": "Dock/ground station temporarily does not allow landing",
+    "fr": "La station d’accueil ou station au sol n’autorise temporairement pas l’atterrissage",
+    "es": "El dock/estación en tierra no permite el aterrizaje temporalmente",
+    "zh": "机场/地面站暂时不允许降落"
   },
   "fpv_tip_0x16450014": {
     "en": "",
@@ -14905,8 +14994,15 @@
     "zh": "飞机因为切姿态变为普通降落"
   },
   "fpv_tip_0x16450023": {
-    "en": "",
-    "zh": "机场没有设置备降点无法触发备降"
+    "de": "Alternativlandung nicht möglich. Die Dockingstation/Bodenstation hat keinen alternativen Landeplatz festgelegt",
+    "ru": "Невозможно выполнить посадку на альтернативную площадку. Док-станция / наземная станция не настроила альтернативную точку посадки",
+    "ko": "대체 지점에 착륙 불가. 도크/그라운드 스테이션에서 대체 착륙 지점을 설정하지 않았습니다",
+    "pt": "Não foi possível pousar no local alternativo. A estação de acoplamento/estação terrestre não definiu um ponto de pouso alternativo",
+    "ja": "代替着陸地点に着陸できません。ドック／地上ステーションが代替着陸地点を設定していません",
+    "en": "Unable to land at alternate site. Dock/ground station has not set alternate landing point",
+    "fr": "Impossible d’atterrir sur le site alternatif. La station d’accueil ou la station au sol n’a pas défini de point d’atterrissage alternatif.",
+    "es": "No se puede aterrizar en el sitio alternativo. El Dock/estación en tierra no ha establecido un punto de aterrizaje alternativo",
+    "zh": "机场/地面站没有设置备降点无法触发备降"
   },
   "fpv_tip_0x16450024": {
     "en": "",
@@ -16234,9 +16330,7 @@
     "pt": "Não foi possível chegar ao local do FlyTo. Muito perto de obstáculos ou bloqueado por obstáculos",
     "ja": "FlyTo地点に到達できません。障害物に近すぎるか、障害物に遮られています",
     "en": "Unable to reach FlyTo location. Too close to obstacles or blocked by obstacles",
-    "it": "Impossibile raggiungere la posizione FlyTo. Troppo vicina agli ostacoli o bloccata da ostacoli",
     "fr": "Impossible d’atteindre la position FlyTo. Trop proche d’obstacles ou bloquée par des obstacles",
-    "pl": "Nie można dotrzeć do lokalizacji FlyTo. Jest zbyt blisko przeszkód lub jest przez nie zablokowana",
     "es": "No se puede llegar a la ubicación de FlyTo. Está demasiado cerca de obstáculos o bloqueada por obstáculos",
     "zh": "目标点过于靠近障碍物或被障碍物遮挡，无法到达"
   },
@@ -16975,25 +17069,26 @@
     "zh": "无线信号丢失"
   },
   "fpv_tip_0x17000002": {
-    "de": "Schwaches Fernsteuerungssignal. Antennen ausrichten",
-    "ru": "Слабый сигнал пульта управления. Отрегулируйте антенны",
-    "ko": "조종기 신호 약함. 안테나 조정 필요",
-    "ja": "送信機信号が弱い。アンテナを調整してください",
-    "en": "Remote controller signal weak. Adjust antennas",
-    "fr": "Signal de la radiocommande faible. Ajuster les antennes",
-    "es": "La señal del control remoto es débil. Ajusta las antenas",
-    "zh": "遥控器信号微弱，请调整天线"
+    "de": "Dock-Signal schwach. Vorsichtig fliegen",
+    "ru": "Слабый сигнал док-станции. Соблюдайте осторожность во время полета",
+    "ko": "독 신호 약함. 비행 시 주의 필요.",
+    "pt": "Sinal do dock fraco. Voe com cuidado",
+    "ja": "ドック信号が弱くなっています。慎重に飛行してください",
+    "en": "Dock signal weak. Fly with caution",
+    "fr": "Signal du dock faible. Pilotez avec précaution",
+    "es": "Señal del Dock débil. Vuele con precaución",
+    "zh": "机场信号微弱，请谨慎飞行"
   },
   "fpv_tip_0x17000002_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "Remote controller signal weak. Adjust antennas",
-    "fr": "",
-    "es": "",
-    "zh": "遥控器信号微弱，请调整天线"
+    "de": "Dock-Signal schwach. Vorsichtig fliegen",
+    "ru": "Слабый сигнал док-станции. Соблюдайте осторожность во время полета",
+    "ko": "도크 신호 약함. 비행 시 주의 필요",
+    "pt": "Sinal do dock fraco. Voe com cuidado",
+    "ja": "ドック信号が弱くなっています。慎重に飛行してください",
+    "en": "Dock signal weak. Fly with caution",
+    "fr": "Signal du dock faible. Pilotez avec précaution",
+    "es": "Señal del Dock débil. Vuele con precaución",
+    "zh": "机场信号微弱，请谨慎飞行"
   },
   "fpv_tip_0x17000003": {
     "de": "Starke Signalstörungen an der Position des Fluggeräts. Mit Vorsicht fliegen",
@@ -17017,14 +17112,15 @@
     "zh": "飞行器所在位置信号干扰较强，请谨慎飞行"
   },
   "fpv_tip_0x17000004": {
-    "de": "Schwaches Bildübertragungssignal. Antennen ausrichten",
-    "ru": "Слабый сигнал передачи изображения. Отрегулируйте антенны",
-    "ko": "이미지 전송 신호 약함. 안테나 조정 필요",
-    "ja": "映像伝送信号が弱い。アンテナを調整してください",
-    "en": "Image transmission signal weak. Adjust antennas",
-    "fr": "Signal de transmission d'image faible. Ajuster les antennes",
-    "es": "Señal de transmisión de la imagen débil. Ajusta las antenas",
-    "zh": "图传信号弱，请调整遥控器朝向飞行器"
+    "de": "Dock-Signal schwach. Vorsichtig fliegen",
+    "ru": "Слабый сигнал док-станции. Соблюдайте осторожность во время полета",
+    "ko": "독 신호 약함. 비행 시 주의 필요.",
+    "pt": "Sinal do dock fraco. Voe com cuidado",
+    "ja": "ドック信号が弱くなっています。慎重に飛行してください",
+    "en": "Dock signal weak. Fly with caution",
+    "fr": "Signal du dock faible. Pilotez avec précaution",
+    "es": "Señal del dock débil. Vuele con precaución",
+    "zh": "机场信号微弱，请谨慎飞行"
   },
   "fpv_tip_0x17000004_in_the_sky": {
     "de": "",
@@ -17038,14 +17134,15 @@
     "zh": "图传信号弱，请调整遥控器朝向飞行器"
   },
   "fpv_tip_0x17000005": {
-    "de": "Starke Signalstörungen an der Position der Fernsteuerung. Mit Vorsicht fliegen",
-    "ru": "Сильные помехи в местоположении пульта управления. Соблюдайте осторожность при полете",
-    "ko": "조종기 위치에서 강한 신호 간섭 받음. 비행 시 주의 필요",
-    "ja": "送信機の現在地で強い電波干渉があります。慎重に飛行してください",
-    "en": "Strong signal interference in remote controller location. Fly with caution",
-    "fr": "Fortes interférences à la position de la radiocommande. Pilotez avec précaution",
-    "es": "Fuerte interferencia de señal en la ubicación del control remoto. Vuela con cuidado",
-    "zh": "遥控器信号干扰较强，请注意飞行安全"
+    "de": "Starke Signalstörungen an der Position des Docks. Vorsichtig fliegen",
+    "ru": "Сильные помехи сигнала в месте установки док-станции. Соблюдайте осторожность во время полета",
+    "ko": "독 위치에서 강한 신호 간섭 받음. 비행 시 주의 필요.",
+    "pt": "Interferência de sinal forte na localização do dock. Voe com cuidado",
+    "ja": "ドックの現在地で強い信号干渉があります。慎重に飛行してください",
+    "en": "Strong signal interference at dock location. Fly with caution",
+    "fr": "Fortes interférences de signal à la position du dock. Pilotez avec précaution",
+    "es": "Interferencia de señal fuerte en la ubicación del dock. Vuele con precaución",
+    "zh": "机场信号干扰较强，请注意飞行安全"
   },
   "fpv_tip_0x17000005_in_the_sky": {
     "de": "",
@@ -17079,8 +17176,6 @@
     "zh": "国家码未更新，部分功能受限"
   },
   "fpv_tip_0x17000009": {
-    "it": "Stato di funzionamento anomalo del modulo SDR",
-    "pl": "Nieprawidłowy stan pracy modułu SDR",
     "zh": "SDR模块工作状态异常"
   },
   "fpv_tip_0x1700000A": {
@@ -17267,7 +17362,14 @@
     "zh": "O4 地面站样机已锁机，无法使用SDR图传功能"
   },
   "fpv_tip_0x17000041": {
+    "de": "Steuerknüppel-Eingabe nicht verfügbar",
+    "ru": "Не удается получить ввод с джойстика",
+    "ko": "조종 스틱 입력을 수신할 수 없습니다.",
+    "pt": "Não é possível obter entrada dos pinos de controle",
+    "ja": "操作スティックの信号を受け取れません",
     "en": "Unable to get control stick input",
+    "fr": "Impossible d’obtenir l’entrée du joystick",
+    "es": "No se puede obtener la entrada de la palanca de control",
     "zh": "无法获取遥控器杆量"
   },
   "fpv_tip_0x17000071": {
@@ -18219,15 +18321,15 @@
     "zh": "降落伞已开伞，请注意周围环境"
   },
   "fpv_tip_0x17210015": {
-    "de": "Fallschirm nicht aktiviert",
-    "ru": "Парашют не активирован",
-    "ko": "낙하산이 활성화되지 않음",
-    "pt": "",
-    "ja": "パラシュートが作動していません",
-    "en": "Parachute not activated",
-    "fr": "Parachute non activé",
-    "es": "Paracaídas no activado",
-    "zh": "降落伞未激活"
+    "de": "Fallschirm wurde mit Klarnamen-Authentifizierung nicht aktiviert",
+    "ru": "Парашют не активирован — регистрация реального имени не завершена",
+    "ko": "실명 인증이 완료되지 않아 낙하산이 활성화되지 않음",
+    "pt": "Paraquedas não ativado com autenticação de nome real",
+    "ja": "実名認証によるパラシュートの有効化が行われていません",
+    "en": "Parachute not activated with real-name authentication",
+    "fr": "Parachute non activé avec l’authentification sous nom réel",
+    "es": "Paracaídas no activado con autenticación de nombre real",
+    "zh": "降落伞未激活，请使用大疆行业App激活"
   },
   "fpv_tip_0x17210020": {
     "de": "",
@@ -18823,14 +18925,14 @@
     "zh": "进程发生crash，请拉日志分析"
   },
   "fpv_tip_0x1900003E": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Systemabsturz",
+    "ru": "Критическая системная ошибка",
+    "ko": "시스템 패닉",
+    "pt": "Pânico do sistema",
+    "ja": "システムパニック",
     "en": "System panic",
-    "fr": "",
-    "es": "",
+    "fr": "Panique système",
+    "es": "Pánico del sistema",
     "zh": "系统panic"
   },
   "fpv_tip_0x1900003F": {
@@ -19240,26 +19342,26 @@
     "zh": "磁盘扫描异常"
   },
   "fpv_tip_0x19000702": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Dateisystemfehler",
+    "ru": "Ошибка файловой системы",
+    "ko": "파일 시스템 오류",
+    "pt": "Erro no sistema de arquivos",
+    "ja": "ファイルシステムエラー",
     "en": "File system error",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur système du fichier",
+    "es": "Error del sistema de archivos",
     "zh": "文件系统检查异常"
   },
   "fpv_tip_0x19000703": {
-    "de": "Speicherkarte nicht empfohlen. Nutzungserfahrung kann beeinträchtigt werden",
-    "ru": "Карта памяти отличается от рекомендуемой. Это может повлиять на ее работу",
-    "ko": "메모리 카드는 권장되지 않음. 사용자 경험에 영향을 미칠 수 있음",
-    "pt": "",
-    "ja": "メモリーカードは推奨されません。ユーザー体験に影響を与える可能性があります",
-    "en": "Memory card not recommended. User experience may be affected",
-    "fr": "Carte mémoire non recommandée. L'expérience utilisateur peut être affectée",
-    "es": "Tarjeta de memoria no recomendada. La experiencia del usuario puede verse afectada",
-    "zh": "存储卡为非推荐卡，可能会影响使用体验"
+    "de": "SD-Karte nicht empfohlen. Nutzererfahrung kann\r\nbeeinträchtigt sein",
+    "ru": "SD-карта отличается от рекомендуемой. Это может повлиять на ее\r\n\r\n\r\n\r\n работу.",
+    "ko": "SD 카드를 권장하지 않습니다. 사용자 경험이 저하될 수 있습니다.\r\n영향을 받음",
+    "pt": "Cartão SD não recomendado. A experiência do usuário pode ser\r\n\r\n\r\n\r\n afetada.",
+    "ja": "SDカードは推奨されません。ユーザーエクスペリエンスに影響が出る可能性が\r\nあります",
+    "en": "SD card not recommended. User experience may be\r\r\r\n affected",
+    "fr": "Carte SD non recommandée. L’expérience utilisateur peut être\r\naffectée",
+    "es": "Tarjeta SD no recomendada. La experiencia del usuario puede verse\r\nafectada",
+    "zh": "SD卡为非推荐卡，可能会影响使用体验"
   },
   "fpv_tip_0x19000704": {
     "de": "Speicherkarte nicht offiziell. Es wird empfohlen, eine offizielle Karte zu verwenden",
@@ -19324,25 +19426,25 @@
     "zh": "相机温度过高，将无法录制，请待冷却后使用"
   },
   "fpv_tip_0x19000810": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fluggerät im Energiesparmodus",
+    "ru": "Дрон в состоянии низкого уровня заряда",
+    "ko": "기체 저전력 상태",
+    "pt": "Aeronave no modo de economia de energia",
+    "ja": "機体が低電力状態",
     "en": "Aircraft in low-power state",
-    "fr": "",
-    "es": "",
+    "fr": "Appareil en état de basse puissance",
+    "es": "Aeronave en estado de baja potencia",
     "zh": "飞机进入低功耗模式"
   },
   "fpv_tip_0x19000811": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Air Unit im Energiesparmodus",
+    "ru": "Воздушный модуль в состоянии низкого уровня заряда",
+    "ko": "에어 유닛 저전력 상태",
+    "pt": "Unidade Aérea no Modo de economia de energia",
+    "ja": "エアユニットが低電力状態",
     "en": "Air unit in low-power state",
-    "fr": "",
-    "es": "",
+    "fr": "Unité aérienne en état de basse puissance",
+    "es": "Unidad aérea en estado de baja potencia",
     "zh": "air unit处于低功耗状态"
   },
   "fpv_tip_0x19000814": {
@@ -19426,21 +19528,21 @@
     "zh": "一致性检查：一致性检查不通过"
   },
   "fpv_tip_0x1900E001": {
-    "de": "Protokoll-Speicherplatz unzureichend. Protokolle können möglicherweise nicht gespeichert werden",
-    "ru": "Недостаточно места для хранения журнала. Журналы могут не сохраняться",
-    "ko": "로그 저장 공간 부족. 로그가 저장되지 않을 수 있습니다",
-    "pt": "",
-    "ja": "ログストレージの空き容量が不足しています。ログを保存できない可能性があります",
-    "en": "Log storage space insufficient. Logs may not be able to be stored",
-    "fr": "L'espace de stockage des journaux est insuffisant. Il se peut que les journaux ne puissent pas être stockés",
-    "es": "Espacio de almacenamiento de registros insuficiente. Es posible que los registros no se puedan almacenar",
+    "de": "Speicherplatz für Protokolle unzureichend. Protokolle können nicht gespeichert werden",
+    "ru": "Недостаточно места для хранения журналов. Невозможно сохранить журналы",
+    "ko": "로그 저장 공간이 부족합니다. 로그를 저장할 수 없습니다.",
+    "pt": "Espaço de armazenamento de logs insuficiente. Não é possível armazenar logs",
+    "ja": "ログストレージ容量が不足しています。ログを保存できません",
+    "en": "Log storage space insufficient. Unable to store logs",
+    "fr": "Espace de stockage des journaux insuffisant. Impossible de stocker les journaux",
+    "es": "Espacio de almacenamiento de registros insuficiente. No se pueden almacenar registros",
     "zh": "日志空间不足，避免无法存储日志"
   },
   "fpv_tip_0x1900E002": {
     "de": "Protokolldaten fehlen",
     "ru": "Данные журнала отсутствуют.",
     "ko": "로그 데이터 누락",
-    "pt": "",
+    "pt": "Dados de registro ausentes",
     "ja": "ログデータが見つかりません",
     "en": "Log data missing",
     "fr": "Données du journal manquantes",
@@ -19448,36 +19550,36 @@
     "zh": "日志数据丢失"
   },
   "fpv_tip_0x1900E003": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Protokolldaten fehlen",
+    "ru": "Данные журнала отсутствуют.",
+    "ko": "로그 데이터 누락",
+    "pt": "Dados de registro ausentes",
+    "ja": "ログデータが見つかりません",
     "en": "Log data missing",
-    "fr": "",
-    "es": "",
+    "fr": "Données du journal manquantes",
+    "es": "Faltan datos de registro",
     "zh": "日志数据丢失"
   },
   "fpv_tip_0x1900E004": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fehler beim Einbinden des Speichergeräts",
+    "ru": "Ошибка подключения устройства хранения данных",
+    "ko": "저장 장치 장착 오류",
+    "pt": "Erro ao montar o dispositivo de armazenamento",
+    "ja": "ストレージ機器の取り付けエラー",
     "en": "Storage device mounting error",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de montage du périphérique de stockage",
+    "es": "Error de montaje del dispositivo de almacenamiento",
     "zh": "存储设备挂载异常"
   },
   "fpv_tip_0x1900F001": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Goggles unterstützen nur die Bewegungssteuereinheit",
+    "ru": "Очки поддерживают только контроллер движения",
+    "ko": "고글은 모션 컨트롤러만 지원합니다.",
+    "pt": "Goggles só são compatíveis com o controle de movimento",
+    "ja": "ゴーグルはモーションコントローラーにのみ対応しています",
     "en": "Goggles only support motion controller",
-    "fr": "",
-    "es": "",
+    "fr": "Les goggles ne prennent en charge que le contrôleur de mouvement",
+    "es": "Las gafas solo son compatibles con el controlador de movimientos",
     "zh": "眼镜只支持穿越摇杆飞行"
   },
   "fpv_tip_0x19010002": {
@@ -19501,14 +19603,14 @@
     "zh": "负载样机离线使用次数用尽，请联网授权使用次数"
   },
   "fpv_tip_0x19018001": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "System im Werksmodus",
+    "ru": "Система в заводском режиме",
+    "ko": "시스템 공장 모드",
+    "pt": "Sistema em modo de fábrica",
+    "ja": "システムは出荷時の初期モードです",
     "en": "System in factory mode",
-    "fr": "",
-    "es": "",
+    "fr": "Système en mode usine",
+    "es": "Sistema en modo de fábrica",
     "zh": "系统处于工厂模式"
   },
   "fpv_tip_0x1901C010": {
@@ -20076,9 +20178,7 @@
     "pt": "Falha ao recarregar a bateria da aeronave",
     "ja": "機体バッテリーの充電に失敗しました",
     "en": "Failed to recharge aircraft battery",
-    "it": "Ricarica della batteria dell'aeromobile non riuscita",
     "fr": "Échec de la recharge de la batterie de l’appareil",
-    "pl": "Nie udało się naładować akumulatora drona",
     "es": "No se pudo recargar la batería de la aeronave",
     "zh": "飞行器电池充电失败"
   },
@@ -20089,9 +20189,7 @@
     "pt": "Aeronave não detectada. Falha ao carregar aeronave",
     "ja": "機体が検出されませんでした。機体の充電に失敗しました",
     "en": "Aircraft not detected. Charging aircraft failed",
-    "it": "Aeromobile non rilevato. Ricarica aeromobile non riuscita",
     "fr": "Appareil non détecté. Échec de la charge de l’appareil",
-    "pl": "Nie wykryto drona. Nie udało się naładować drona.",
     "es": "Aeronave no detectada. No se ha podido cargar la aeronave",
     "zh": "未检测到飞行器，飞行器充电失败"
   },
@@ -20106,9 +20204,7 @@
     "pt": "Nível da bateria da aeronave criticamente baixo. Não é possível ligar a aeronave",
     "ja": "機体バッテリー残量が著しく低下しています。機体の電源をオンにできません",
     "en": "Aircraft battery level critically low. Unable to power on aircraft",
-    "it": "Livello batteria aeromobile estremamente basso. Impossibile accendere l'aeromobile",
     "fr": "Niveau de batterie de l’appareil extrêmement faible. Impossible de mettre l’appareil sous tension",
-    "pl": "Poziom naładowania akumulatora drona jest krytycznie niski. Nie można włączyć drona.",
     "es": "Nivel de la batería de la aeronave críticamente bajo. No se puede encender la aeronave",
     "zh": "飞行器严重低电量，无法开机"
   },
@@ -20119,9 +20215,7 @@
     "pt": "Erro da bateria da aeronave. Não é possível carregar a bateria ou ligar a aeronave",
     "ja": "機体バッテリーエラー。バッテリーの充電または機体の電源オンができません",
     "en": "Aircraft battery error. Unable to charge battery or power on aircraft",
-    "it": "Errore batteria aeromobile. Impossibile caricare la batteria o accendere l'aeromobile",
     "fr": "Erreur de batterie appareil. Impossible de charger la batterie ou de mettre l’appareil sous tension",
-    "pl": "Błąd akumulatora drona. Nie można naładować akumulatora ani włączyć drona.",
     "es": "Error de batería de la aeronave. No se puede cargar la batería ni encender la aeronave",
     "zh": "飞行器电池故障，无法充电或开机"
   },
@@ -20132,9 +20226,7 @@
     "pt": "Erro de comunicação da bateria da aeronave",
     "ja": "機体バッテリー通信エラー",
     "en": "Aircraft battery communication error",
-    "it": "Errore comunicazione batteria aeromobile",
     "fr": "Erreur de communication de la batterie de l’appareil",
-    "pl": "Błąd komunikacji akumulatora drona",
     "es": "Error de comunicación de la batería de la aeronave",
     "zh": "飞行器电池通信异常"
   },
@@ -20145,9 +20237,7 @@
     "pt": "Nível da bateria da aeronave alto. Não é necessário carregar a bateria",
     "ja": "機体バッテリー残量が十分です。充電は必要ありません",
     "en": "Aircraft battery level high. No battery charging required",
-    "it": "Livello batteria aeromobile alto. Nessuna carica batteria richiesta",
     "fr": "Niveau de batterie de l’appareil élevé. La charge de la batterie n’est pas nécessaire",
-    "pl": "Poziom naładowania akumulatora drona jest wysoki. Ładowanie akumulatora nie jest wymagane.",
     "es": "Nivel de la batería de la aeronave alto. No se requiere cargar la batería",
     "zh": "飞行器电量较高，无需充电"
   },
@@ -20158,9 +20248,7 @@
     "pt": "Erro no módulo de carregamento por conexão sem fio da aeronave",
     "ja": "機体無線充電モジュールエラー",
     "en": "Aircraft wireless charging module error",
-    "it": "Errore modulo di ricarica wireless aeromobile",
     "fr": "Erreur du module de charge sans fil de l’appareil",
-    "pl": "Błąd modułu bezprzewodowego ładowania drona",
     "es": "Error en el módulo de carga inalámbrica de la aeronave",
     "zh": "飞行器无线充电模块异常"
   },
@@ -20171,9 +20259,7 @@
     "pt": "Falha ao ativar o módulo de carregamento da aeronave",
     "ja": "機体充電モジュールの起動に失敗しました",
     "en": "Waking aircraft charging module failed",
-    "it": "Riattivazione del modulo di ricarica dell'aeromobile non riuscita",
     "fr": "Échec de l’activation du module de charge de l’appareil",
-    "pl": "Nie udało się wybudzić modułu ładowania drona",
     "es": "Fallo al activar el módulo de carga de la aeronave",
     "zh": "飞行器充电模块唤醒失败"
   },
@@ -20208,9 +20294,7 @@
     "pt": "Sobrecorrente na bobina do módulo de carregamento da aeronave",
     "ja": "機体充電モジュールコイル過電流",
     "en": "Aircraft charging module coil overcurrent",
-    "it": "Sovracorrente bobina modulo di ricarica aeromobile",
     "fr": "Surintensité de la bobine du module de charge de l’appareil",
-    "pl": "Przetężenie cewki modułu ładowania drona",
     "es": "Sobrecorriente en la bobina del módulo de carga de la aeronave",
     "zh": "飞行器充电模块线圈电流过大"
   },
@@ -20221,9 +20305,7 @@
     "pt": "Voltagem da bateria do módulo de carregamento da aeronave muito alta",
     "ja": "機体充電モジュールのバッテリー電圧が高すぎます",
     "en": "Battery voltage of aircraft charging module too high",
-    "it": "Tensione batteria del modulo di ricarica aeromobile troppo alta",
     "fr": "Tension de la batterie du module de charge de l’appareil trop élevée",
-    "pl": "Napięcie akumulatora modułu ładowania drona jest zbyt wysokie",
     "es": "Voltaje de la batería del módulo de carga de la aeronave demasiado alto",
     "zh": "飞行器充电电源过压"
   },
@@ -20234,9 +20316,7 @@
     "pt": "Temperatura da bobina do módulo de carregamento da aeronave muito alta",
     "ja": "機体充電モジュールコイルの温度が高すぎます",
     "en": "Temperature of aircraft charging module coil too high",
-    "it": "Temperatura della bobina del modulo di ricarica dell'aeromobile troppo alta",
     "fr": "Température de la bobine du module de charge de l’appareil trop élevée",
-    "pl": "Temperatura cewki modułu ładowania drona jest za wysoka",
     "es": "Temperatura de la bobina del módulo de carga de la aeronave demasiado alta",
     "zh": "飞行器充电模块线圈温度过高"
   },
@@ -21975,47 +22055,47 @@
     "zh": "功耗切换异常，请重启飞行器"
   },
   "fpv_tip_0x1A050040": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fehler: Hinderniserkennung. Vorsichtig fliegen",
+    "ru": "Ошибка системы обнаружения препятствий. Соблюдайте осторожность во время полета",
+    "ko": "장애물 감지 오류. 비행 시 주의 필요",
+    "pt": "Erro no sensor de obstáculos. Voe com cautela.",
+    "ja": "障害物検知エラー。慎重に飛行してください",
     "en": "Obstacle sensing error. Fly with caution",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de détection d’obstacles. Pilotez avec précaution",
+    "es": "Error de detección de obstáculos. Vuele con precaución",
     "zh": "感知避障异常，请谨慎飞行"
   },
   "fpv_tip_0x1A050041": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fehler: Hinderniserkennung. Vorsichtig fliegen",
+    "ru": "Ошибка системы обнаружения препятствий. Соблюдайте осторожность во время полета",
+    "ko": "장애물 감지 오류. 비행 시 주의 필요",
+    "pt": "Erro no sensor de obstáculos. Voe com cautela.",
+    "ja": "障害物検知エラー。慎重に飛行してください",
     "en": "Obstacle sensing error. Fly with caution",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de détection d’obstacles. Pilotez avec précaution",
+    "es": "Error de detección de obstáculos. Vuele con precaución",
     "zh": "感知避障异常，请谨慎飞行"
   },
   "fpv_tip_0x1A050042": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fehler: Hinderniserkennung. Vorsichtig fliegen",
+    "ru": "Ошибка системы обнаружения препятствий. Соблюдайте осторожность во время полета",
+    "ko": "장애물 감지 오류. 비행 시 주의 필요",
+    "pt": "Erro no sensor de obstáculos. Voe com cautela.",
+    "ja": "障害物検知エラー。慎重に飛行してください",
     "en": "Obstacle sensing error. Fly with caution",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de détection d’obstacles. Pilotez avec précaution",
+    "es": "Error de detección de obstáculos. Vuele con precaución",
     "zh": "感知避障异常，请谨慎飞行"
   },
   "fpv_tip_0x1A050043": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Fehler: Hinderniserkennung. Vorsichtig fliegen",
+    "ru": "Ошибка системы обнаружения препятствий. Соблюдайте осторожность во время полета",
+    "ko": "장애물 감지 오류. 비행 시 주의 필요",
+    "pt": "Erro no sensor de obstáculos. Voe com cautela.",
+    "ja": "障害物検知エラー。慎重に飛行してください",
     "en": "Obstacle sensing error. Fly with caution",
-    "fr": "",
-    "es": "",
+    "fr": "Erreur de détection d’obstacles. Pilotez avec précaution",
+    "es": "Error de detección de obstáculos. Vuele con precaución",
     "zh": "感知避障异常，请谨慎飞行"
   },
   "fpv_tip_0x1A060041": {
@@ -23027,14 +23107,14 @@
     "zh": "右视传感器标定异常"
   },
   "fpv_tip_0x1A510391": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "",
-    "fr": "",
-    "es": "",
+    "de": "Kalibrierungsfehler des Sichtsensorsystems | Infrarotsensor der Hauptkamera nicht kalibriert",
+    "ru": "Ошибка калибровки системы датчиков | Инфракрасный датчик основной камеры не откалиброван",
+    "ko": "감지 시스템 캘리브레이션 오류 | 메인 카메라 적외선 센서 캘리브레이션 안 됨",
+    "pt": "Erro de calibração do sistema de detecção | Sensor infravermelho da câmera principal não calibrado",
+    "ja": "検知システムキャリブレーション異常 | メインカメラ赤外線センサー未キャリブレーション",
+    "en": "Sensing System Calibration Error | Main Camera Infrared Sensor Not Calibrated",
+    "fr": "Erreur d'étalonnage du système de détection | Capteur infrarouge de la caméra principale non étalonné",
+    "es": "Error de calibración del sistema de detección | Sensor infrarrojo de la cámara principal no calibrado",
     "zh": "感知标定异常|主摄红外传感器未标定"
   },
   "fpv_tip_0x1A5103C0": {
@@ -23731,14 +23811,15 @@
     "zh": "自动返航避障功能启动失败，请切换至手动返航"
   },
   "fpv_tip_0x1B030006": {
-    "de": "Hindernis oder Gegenlicht erkannt. Pause-Taste auf der Fernsteuerung drücken, um autom. Rückkehr abzubrechen und das Fluggerät manuell zurückzufliegen",
-    "ru": "Обнаружено распознавание препятствий или подсветка. Нажмите кнопку паузы на пульте управления, чтобы отменить возврат домой, и вручную управляйте дроном, чтобы вернуться в домашнюю точку",
-    "ko": "장애물 회피 또는 백라이트 감지. 조종기의 '일시 정지' 버튼 눌러 RTH 종료하고 기체 수동으로 홈 복귀 필요",
-    "ja": "障害物または逆光を検知。送信機の一時停止ボタンを押してRTHを終了し、手動で機体を制御して帰還させてください",
-    "en": "Obstacle avoidance or backlight detected. Press the Pause button on the remote controller to exit RTH and manually control aircraft to return to home",
-    "fr": "Évitement d'obstacles ou rétroéclairage détecté. Appuyez sur le bouton Pause de la radiocommande pour sortir du RTH et contrôler manuellement le retour au point de départ",
-    "es": "Detectado sistema anticolisión o luz trasera. Pulsa el botón de pausa del control remoto para abandonar el RPO y controla manualmente la aeronave para regresar al punto de origen",
-    "zh": "遇到障碍物或环境逆光，请按遥控器上暂停键退出自动返航，进行手动返航"
+    "de": "Klicken Sie auf Pause, um die Rückkehr zu beenden",
+    "ru": "Нажмите «Пауза», чтобы выйти из режима возврата домой",
+    "ko": "일시정지를 딸깍하여 RTH를 종료하십시오.",
+    "pt": "Clique em Pausar para sair do RTH",
+    "ja": "RTHを終了するには、一時停止をクリックしてください",
+    "en": "Click Pause to exit RTH",
+    "fr": "Cliquez sur Pause pour quitter le RTH",
+    "es": "Haga clic en Pausa para salir de RPO",
+    "zh": "请按暂停键退出自动返航"
   },
   "fpv_tip_0x1B030007": {
     "de": "Steuerknüppel nach unten gedrückt. Fluggerät sinkt. Rückkehr abgebrochen",
@@ -24003,9 +24084,7 @@
     "pt": "Fora da área de mapa de alta precisão quando a altitude AGL máxima estiver ativada",
     "ja": "最大AGL高度が有効な場合、高精度マップエリアの範囲外です",
     "en": "Outside high-precision map area when max AGL altitude is enabled",
-    "it": "Fuori dall'area della mappa ad alta precisione quando l'altitudine AGL max è abilitata",
     "fr": "En dehors de la zone de carte de haute précision lorsque l’altitude AGL max. est activée",
-    "pl": "Poza obszarem mapy o wysokiej precyzji, gdy włączona jest funkcja maksymalnej wysokości AGL",
     "es": "Fuera del área de mapa de alta precisión cuando la altitud AGL máx. está habilitada",
     "zh": "真高盖帽启用时飞出高精地图区域"
   },
@@ -24016,9 +24095,7 @@
     "pt": "Voou para fora da área do mapa de alta precisão com o limite de altitude AGL ativado",
     "ja": "対地高度制限が有効な状態で高精度マップエリアから離脱しました",
     "en": "Flew out of high-precision map area with AGL altitude cap enabled",
-    "it": "Uscita dall'area della mappa ad alta precisione con il limite di altitudine AGL attivato",
     "fr": "A volé hors de la zone de la carte haute précision avec la limite d'altitude AGL activée",
-    "pl": "Wyleciano poza obszar mapy wysokiej precyzji przy włączonym limicie wysokości AGL",
     "es": "Voló fuera del área del mapa de alta precisión con el límite de altitud AGL activado",
     "zh": "真高盖帽启用时飞出高精地图区域"
   },
@@ -24029,9 +24106,7 @@
     "pt": "Saiu automaticamente da altitude AGL máxima para o RTH normal, pois o RTH não pode continuar quando a altitude AGL máxima estiver ativada",
     "ja": "最大AGL高度が有効な場合、RTHが進行できないため、通常RTHのために自動的に最大AGL高度を解除しました",
     "en": "Exited max AGL altitude automatically for normal RTH as RTH cannot proceed when max AGL altitude is enabled",
-    "it": "Uscita automatica dalla quota AGL massima per RTH normale, poiché RTH non può procedere quando la quota AGL massima è abilitata",
     "fr": "Sortie automatique de l’altitude AGL max. pour un RTH normal car le RTH ne peut pas être effectué lorsque l’altitude AGL max. est activée",
-    "pl": "Maksymalna wysokość nad ziemią (AGL) została automatycznie wyłączona w celu przeprowadzenia standardowego powrotu do punktu startu (RTH), ponieważ funkcja RTH nie może zostać uruchomiona, gdy maksymalna wysokość nad ziemią (AGL) jest włączona",
     "es": "Ha salido automáticamente de la altitud AGL máx. para el RPO normal, ya que el RPO no puede continuar cuando la altitud AGL máx. está habilitada",
     "zh": "真高盖帽启用时返航卡住，自动退出盖帽回到正常返航"
   },
@@ -24500,15 +24575,15 @@
     "zh": "空吊电机温度过高，请检查货物是否超重"
   },
   "fpv_tip_0x1B080001": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
-    "en": "Remote ID broadcast error. Failed to obtain remote controller location",
-    "fr": "",
-    "es": "",
-    "zh": "Remote ID 播报异常，无法获取遥控器位置"
+    "de": "Remote-ID-Übertragungsfehler. Dock-Standort kann nicht abgerufen werden",
+    "ru": "Ошибка передачи удаленного идентификатора. Не удалось получить местоположение док-станции",
+    "ko": "원격 ID 브로드캐스트 오류. 도크 위치 확인 불가",
+    "pt": "Erro de transmissão de ID remota. Não foi possível obter a localização do dock",
+    "ja": "リモートIDの配信エラー。ドックの位置を取得できません",
+    "en": "Remote ID broadcast error. Unable to obtain dock location",
+    "fr": "Erreur de diffusion ID à distance. Impossible d’obtenir l’emplacement du dock.",
+    "es": "Error de emisión de ID remoto. No se puede obtener la ubicación del Dock",
+    "zh": "Remote ID 播报异常，无法获取机场位置"
   },
   "fpv_tip_0x1B080002": {
     "de": "",
@@ -25646,91 +25721,91 @@
     "zh": "已自动校准空吊称重"
   },
   "fpv_tip_0x1B310001": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Akkustand zu niedrig, um die Flugmission abzuschließen. Flugplan anpassen",
+    "ru": "Уровень заряда аккумулятора слишком низкий для выполнения полетной задачи. Скорректируйте план полета",
+    "ko": "배터리 잔량이 너무 낮아 비행 임무를 완료할 수 없습니다. 비행 계획을 조정하십시오.",
+    "pt": "O nível de bateria está muito baixo para completar a missão de voo. Ajuste o plano de voo",
+    "ja": "バッテリー残量が低下しすぎており、飛行ミッションを完了できません。飛行計画を調整してください",
     "en": "Battery level too low to complete flight mission. Adjust flight plan",
-    "fr": "",
-    "es": "",
+    "fr": "Niveau de batterie trop faible pour terminer la mission de vol. Ajustez le plan de vol",
+    "es": "Nivel de la batería demasiado bajo para completar la misión de vuelo. Ajuste el plan de vuelo",
     "zh": "当前电量不够完成航线任务，请更改飞行计划"
   },
   "fpv_tip_0x1B310001_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Akkustand zu niedrig, um die Flugmission abzuschließen. Flugplan anpassen",
+    "ru": "Уровень заряда аккумулятора слишком низкий для выполнения полетной задачи. Скорректируйте план полета",
+    "ko": "배터리 잔량이 너무 낮아 비행 임무를 완료할 수 없습니다. 비행 계획을 조정하십시오.",
+    "pt": "O nível de bateria está muito baixo para completar a missão de voo. Ajuste o plano de voo",
+    "ja": "バッテリー残量が低下しすぎており、飛行ミッションを完了できません。飛行計画を調整してください",
     "en": "Battery level too low to complete flight mission. Adjust flight plan",
-    "fr": "",
-    "es": "",
+    "fr": "Niveau de batterie trop faible pour terminer la mission de vol. Ajustez le plan de vol",
+    "es": "Nivel de la batería demasiado bajo para completar la misión de vuelo. Ajuste el plan de vuelo",
     "zh": "当前电量不够完成航线任务，请更改飞行计划"
   },
   "fpv_tip_0x1B310002": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Akkustand zu niedrig, um zu einem alternativen Landeplatz zu fliegen. Sofort landen",
+    "ru": "Уровень заряда аккумулятора слишком низкий для перелета к альтернативной площадке посадки. Выполните посадку незамедлительно",
+    "ko": "배터리 잔량이 너무 낮아 대체 착륙 지점으로 비행할 수 없습니다. 즉시 착륙하십시오.",
+    "pt": "Nível de bateria muito baixo para voar até o local alternativo de pouso. Pouse imediatamente",
+    "ja": "バッテリー残量が低下しすぎており、代替着陸サイトまで飛行できません。すぐに着陸してください",
     "en": "Battery level too low to fly to alternate landing site. Land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Niveau de batterie trop faible pour voler vers un autre site d’atterrissage. Atterrissez rapidement",
+    "es": "Nivel de la batería demasiado bajo para volar al sitio de aterrizaje alternativo. Aterrice de inmediato",
     "zh": "当前电量不够前往备降点，请尽快降落"
   },
   "fpv_tip_0x1B310002_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Akkustand zu niedrig, um zu einem alternativen Landeplatz zu fliegen. Sofort landen",
+    "ru": "Уровень заряда аккумулятора слишком низкий для перелета к альтернативной площадке посадки. Выполните посадку незамедлительно",
+    "ko": "배터리 잔량이 너무 낮아 대체 착륙 지점으로 비행할 수 없습니다. 즉시 착륙하십시오.",
+    "pt": "Nível de bateria muito baixo para voar até o local alternativo de pouso. Pouse imediatamente",
+    "ja": "バッテリー残量が低下しすぎており、代替着陸サイトまで飛行できません。すぐに着陸してください",
     "en": "Battery level too low to fly to alternate landing site. Land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "Niveau de batterie trop faible pour voler vers un autre site d’atterrissage. Atterrissez rapidement",
+    "es": "Nivel de la batería demasiado bajo para volar al sitio de aterrizaje alternativo. Aterrice de inmediato",
     "zh": "当前电量不够前往备降点，请尽快降落"
   },
   "fpv_tip_0x1B310003": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Aktuelle Nutzlast überschreitet die Leistungsgrenze des Antriebssystems. Motoren könnten überhitzen. Nutzlastgewicht vor dem Start reduzieren",
+    "ru": "Текущая полезная нагрузка превышает допустимые возможности силовой установки. Моторы могут перегреться. Уменьшите массу полезной нагрузки перед взлетом",
+    "ko": "현재 페이로드가 추진 시스템의 능력 한도를 초과합니다. 모터가 과열될 수 있습니다. 이륙하기 전에 페이로드 무게를 줄이십시오.",
+    "pt": "A carga atual excede o limite de capacidade do sistema de propulsão. Os motores podem superaquecer. Reduza o peso das cargas antes de decolar.",
+    "ja": "現在のペイロードが推進システムの能力制限を超えています。モーターが過熱する可能性があります。離陸前にペイロードの重量を減らしてください",
     "en": "Current payload exceeds propulsion system capability limit. Motors may be overheated. Reduce payload weight before taking off",
-    "fr": "",
-    "es": "",
+    "fr": "La charge utile actuelle dépasse la limite de capacité du système de propulsion. Les moteurs peuvent surchauffer. Réduisez le poids de la charge utile avant le décollage",
+    "es": "Los instrumentos actuales exceden el límite de capacidad del sistema de propulsión. Los motores pueden sobrecalentarse. Reduzca el peso de los instrumentos antes de despegar",
     "zh": "当前载重超过动力系统载重限制，可能导致电机超温，请降低载重后起飞"
   },
   "fpv_tip_0x1B310003_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Aktuelle Nutzlast überschreitet die Leistungsgrenze des Antriebssystems. Motoren könnten überhitzen. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Текущая полезная нагрузка превышает допустимые возможности силовой установки. Моторы могут перегреться. Выполните возврат домой или посадку незамедлительно",
+    "ko": "현재 페이로드가 추진 시스템의 능력 한도를 초과합니다. 모터가 과열될 수 있습니다. 귀환하거나 즉시 착륙하십시오.",
+    "pt": "O peso atual das cargas excede o limite de capacidade do sistema de propulsão. Os motores podem superaquecer. Retorne para o ponto de origem ou pouse imediatamente.",
+    "ja": "現在のペイロードが推進システムの能力制限を超えています。モーターが過熱する可能性があります。ホームに帰還するか、すぐに着陸してください",
     "en": "Current payload exceeds propulsion system capability limit. Motors may be overheated. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "La charge utile actuelle dépasse la limite de capacité du système de propulsion. Les moteurs peuvent surchauffer. Retournez au point de départ ou atterrissez rapidement",
+    "es": "Los instrumentos actuales exceden el límite de capacidad del sistema de propulsión. Los motores pueden sobrecalentarse. Regrese al punto de origen o aterrice de inmediato",
     "zh": "当前载重超过动力系统载重限制，可能导致电机超温，请尽快返航或降落"
   },
   "fpv_tip_0x1B310004": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Aktuelle Nutzlast überschreitet die Leistungsgrenze des Akkus. Akku könnte beschädigt werden. Nutzlastgewicht vor dem Start reduzieren",
+    "ru": "Текущая полезная нагрузка превышает допустимые возможности аккумулятора. Аккумулятор может быть поврежден. Уменьшите массу полезной нагрузки перед взлетом",
+    "ko": "현재 페이로드가 배터리 능력 한도를 초과합니다. 배터리가 손상될 수 있습니다. 이륙하기 전에 페이로드 무게를 줄이십시오.",
+    "pt": "A carga atual excede o limite de capacidade da bateria. A bateria pode estar danificada. Reduza o peso da carga antes de decolar.",
+    "ja": "現在のペイロードがバッテリーの能力制限を超えています。バッテリーが破損する可能性があります。離陸前にペイロードの重量を減らしてください",
     "en": "Current payload exceeds battery capability limit. Battery may be damaged. Reduce payload weight before taking off",
-    "fr": "",
-    "es": "",
+    "fr": "La charge utile actuelle dépasse la limite de capacité de la batterie. La batterie peut être endommagée. Réduisez le poids de la charge utile avant le décollage",
+    "es": "Los instrumentos actuales exceden el límite de capacidad de la batería. La batería puede dañarse. Reduzca el peso de los instrumentos antes de despegar",
     "zh": "当前载重超过电池限制，可能导致电池损坏，请降低载重后起飞"
   },
   "fpv_tip_0x1B310004_in_the_sky": {
-    "de": "",
-    "ru": "",
-    "ko": "",
-    "pt": "",
-    "ja": "",
+    "de": "Aktuelle Nutzlast überschreitet die Leistungsgrenze des Akkus. Akku könnte beschädigt werden. Sofort zum Startpunkt zurückkehren oder landen",
+    "ru": "Текущая полезная нагрузка превышает допустимые возможности аккумулятора. Аккумулятор может быть поврежден. Выполните возврат домой или посадку незамедлительно",
+    "ko": "현재 페이로드가 배터리 능력 한도를 초과합니다. 배터리가 손상될 수 있습니다. 귀환하거나 즉시 착륙하십시오.",
+    "pt": "A carga atual excede o limite de capacidade da bateria. A bateria pode estar danificada. Retorne para o ponto de origem ou pouse imediatamente.",
+    "ja": "現在のペイロードがバッテリーの能力制限を超えています。バッテリーが破損する可能性があります。ホームに帰還するか、すぐに着陸してください",
     "en": "Current payload exceeds battery capability limit. Battery may be damaged. Return to home or land promptly",
-    "fr": "",
-    "es": "",
+    "fr": "La charge utile actuelle dépasse la limite de capacité de la batterie. La batterie peut être endommagée. Retournez au point de départ ou atterrissez rapidement",
+    "es": "Los instrumentos actuales exceden el límite de capacidad de la batería. La batería puede dañarse. Regrese al punto de origen o aterrice de inmediato",
     "zh": "当前载重超过电池限制，可能导致电池损坏，请尽快返航或降落"
   },
   "fpv_tip_0x1B310005": {
@@ -26210,8 +26285,6 @@
     "zh": "到达航线终点，定速巡航已退出"
   },
   "fpv_tip_0x1BA11001": {
-    "it": "Il tracciamento intelligente ha prestazioni limitate in modalità Notturna",
-    "pl": "Wydajność inteligentnego śledzenia jest ograniczona w trybie nocnym",
     "zh": "智能跟踪在夜景模式下性能受限"
   },
   "fpv_tip_0x1BA11100": {
@@ -26860,7 +26933,7 @@
     "ko": "",
     "ja": "",
     "en": "",
-    "fr": "Surchauffe du processeur de la caméra . Retournez au point de départ ou atterrissez immédiatement et attendez que la température de la caméra revienne à la normale avant usage\\r\\r\\n\\r\\r\\nSurchauffe du processeur de la caméra . Retournez au point de départ ou atterrissez immédiatement et attendez que la température de la caméra revienne à la normale avant usage",
+    "fr": "Surchauffe du processeur de la caméra . Retournez au point de départ ou atterrissez immédiatement et attendez que la température de la caméra revienne à la normale avant usage\r\r\n\r\r\nSurchauffe du processeur de la caméra . Retournez au point de départ ou atterrissez immédiatement et attendez que la température de la caméra revienne à la normale avant usage",
     "es": "",
     "zh": "获取 DJI PROSSD 存储信息失败，避免存储风险，请备份素材后格式化"
   },
@@ -26945,11 +27018,25 @@
     "zh": "存储卡剩余空间不足，正在停止录像"
   },
   "fpv_tip_0x1C001306": {
+    "de": "System ausgelastet. Aufnahme nicht erlaubt",
+    "ru": "Система занята. Запись недоступна",
+    "ko": "시스템 사용 중. 녹화할 수 없습니다.",
+    "pt": "Sistema ocupado. Gravação não permitida",
+    "ja": "システムがビジー状態です。録画は許可されていません",
     "en": "System busy. Recording not allowed",
+    "fr": "Système occupé. Enregistrement non autorisé",
+    "es": "Sistema ocupado. Grabación no permitida",
     "zh": "系统业务繁忙，禁止录像"
   },
   "fpv_tip_0x1C001307": {
+    "de": "System nicht ausgelastet. Aufnahme möglich",
+    "ru": "Система не занята. Запись доступна",
+    "ko": "시스템 사용 가능. 녹화할 수 있습니다.",
+    "pt": "Sistema livre. Gravação disponível",
+    "ja": "システムはビジー状態ではありません。録画可能です",
     "en": "System not busy. Recording available",
+    "fr": "Système non occupé. Enregistrement disponible",
+    "es": "Sistema no ocupado. Grabación disponible",
     "zh": "业务繁忙解除，允许录像"
   },
   "fpv_tip_0x1C001401": {
@@ -27343,19 +27430,47 @@
     "zh": "云台接口已达预设使用次数"
   },
   "fpv_tip_0x1C001E04": {
+    "de": "System ausgelastet. Fotografie ist nicht erlaubt",
+    "ru": "Система занята. Съемка фото недоступна",
+    "ko": "시스템 사용 중입니다. 사진 촬영이 허용되지 않습니다.",
+    "pt": "Sistema ocupado. Foto não permitida",
+    "ja": "システムがビジー状態です。写真撮影はできません",
     "en": "System busy. Photo is not allowed",
+    "fr": "Système occupé. La photo n’est pas autorisée",
+    "es": "Sistema ocupado. No se permite hacer fotos",
     "zh": "系统业务繁忙，禁止拍照"
   },
   "fpv_tip_0x1C001E05": {
+    "de": "System nicht ausgelastet. Foto verfügbar",
+    "ru": "Система не занята. Съемка фото доступна",
+    "ko": "시스템이 사용 중이 아닙니다.사용 가능 한 사진",
+    "pt": "Sistema não está ocupado. Foto disponível",
+    "ja": "システムはビジー状態ではありません。写真撮影が利用できます",
     "en": "System not busy.Photo available",
+    "fr": "Système non occupé. Photo disponible",
+    "es": "Sistema no ocupado. Foto disponible",
     "zh": "业务繁忙解除，允许拍照"
   },
   "fpv_tip_0x1C001F01": {
+    "de": "System ausgelastet. Zoom ist nicht verfügbar",
+    "ru": "Система занята. Масштабирование недоступно",
+    "ko": "시스템 사용 중입니다. 줌을 사용할 수 없습니다.",
+    "pt": "Sistema ocupado. Zoom não disponível",
+    "ja": "システムがビジー状態です。ズームは利用できません",
     "en": "System busy. Zoom is not available",
+    "fr": "Système occupé. Le zoom n’est pas disponible",
+    "es": "Sistema ocupado. El zoom no está disponible",
     "zh": "系统业务繁忙，禁止变焦"
   },
   "fpv_tip_0x1C001F02": {
+    "de": "System nicht ausgelastet. Zoom verfügbar",
+    "ru": "Система не занята. Масштабирование доступно",
+    "ko": "시스템 사용 중이 아닙니다. 줌을 사용할 수 있습니다.",
+    "pt": "Sistema não está ocupado. Zoom disponível",
+    "ja": "システムはビジー状態ではありません。ズームが利用できます",
     "en": "System not busy. Zoom available",
+    "fr": "Système non occupé. Zoom disponible",
+    "es": "Sistema no ocupado. Zoom disponible",
     "zh": "业务繁忙解除，允许变焦"
   },
   "fpv_tip_0x1C002001": {
@@ -27482,15 +27597,15 @@
     "zh": "相机SSD存在旧版本媒体文件，请及时备份避免丢失"
   },
   "fpv_tip_0x1C002202": {
-    "de": "Dateien können nicht angezeigt werden. Datenfehler auf der Speicherkarte. Daten sichern und Karte vor der Nutzung formatieren",
-    "ru": "Невозможно просмотреть файлы. Ошибка данных на карте памяти. Создайте резервную копию данных и отформатируйте карту перед использованием",
-    "ko": "파일 보기 불가. 메모리 카드 데이터 오류. 사용 전에 데이터를 백업하고 카드를 포맷하세요",
-    "pt": "",
-    "ja": "ファイルを表示できません。メモリーカードのデータエラーです。使用前にデータをバックアップし、カードをフォーマットしてください",
-    "en": "Unable to view files. Memory card data error. Back up data and format card before use",
-    "fr": "Impossible d'afficher les fichiers. Erreur de données sur la carte mémoire. Sauvegardez les données et formatez la carte avant utilisation",
-    "es": "No se pueden ver los archivos. Error de datos de la tarjeta de memoria. Realiza una copia de seguridad de los datos y formatea la tarjeta antes de usarla",
-    "zh": "存储卡数据异常，无法查看素材，请备份数据并格式化后使用"
+    "de": "Dateien können aufgrund fehlerhafter Mediendateien auf der Speicherkarte nicht aus der Medienbibliothek abgerufen werden. Formatiere die Speicherkarte",
+    "ru": "Не удалось получить файлы из медиатеки из-за поврежденных медиафайлов на карте памяти. Отформатируйте карту памяти",
+    "ko": "메모리 카드의 비정상 미디어 파일로 인해 미디어 파일 라이브러리에서 파일을 가져올 수 없습니다. 메모리 카드를 포맷하세요.",
+    "pt": "Não foi possível recuperar os arquivos da biblioteca de mídia devido a arquivos de mídia anormais no cartão de memória. Formate o cartão de memória.",
+    "ja": "メモリーカード上のメディアファイルに異常があるため、メディアファイルライブラリからファイルを取得できません。メモリーカードをフォーマットしてください",
+    "en": "Unable to retrieve files from media file library due to abnormal media files on memory card. Format memory card",
+    "fr": "Impossible de récupérer les fichiers de la bibliothèque de fichiers multimédias en raison de fichiers multimédias anormaux sur la carte mémoire. Formatez la carte mémoire",
+    "es": "No se pueden recuperar los archivos de biblioteca de archivos multimedia debido a que hay archivos multimedia anómalos en la tarjeta de memoria. Formatee la tarjeta de memoria",
+    "zh": "存储卡媒体数据异常，无法拉取媒体库素材,请格式化存储卡"
   },
   "fpv_tip_0x1C002301": {
     "zh": "EIS的图像帧的vsync为0"
@@ -29939,9 +30054,7 @@
     "pt": "Nível da bateria da aeronave baixo. Alguns acessórios entrarão no modo de baixo consumo em breve.",
     "ja": "機体のバッテリー残量が低下しています。一部のアクセサリーはまもなく低電力モードに入ります",
     "en": "Aircraft battery level low. Certain accessories will soon enter low power mode",
-    "it": "Livello della batteria dell'aeromobile basso. Alcuni accessori entreranno presto in modalità a basso consumo",
     "fr": "Niveau de batterie de l’appareil faible. Certains accessoires vont bientôt passer en Mode économie d’énergie",
-    "pl": "Poziom naładowania akumulatora drona jest niski. Niektóre akcesoria wkrótce przejdą w tryb niskiego zużycia energii.",
     "es": "Nivel de batería de la aeronave bajo. Determinados accesorios entrarán pronto en modo de bajo consumo",
     "zh": "飞机电量不足，即将通知部分配件进入低功耗"
   },
@@ -30603,14 +30716,15 @@
     "zh": "飞行器 DJI Cellular 模块需要升级"
   },
   "fpv_tip_0x1F0B0021": {
-    "de": "Aktualisierung des DJI Mobilfunkmodul-Dongles der Fernsteuerung erforderlich",
-    "ru": "Обновите DJI Cellular Dongle пульта дистанционного управления",
-    "ko": "조종기의 DJI 셀룰러 동글 업데이트 필요",
-    "ja": "送信機のDJIセルラードングルの更新が必要です",
-    "en": "Update DJI Cellular Dongle of remote controller required",
-    "fr": "Mise à jour requise du dongle cellulaire DJI de la radiocommande",
-    "es": "Es necesario actualizar el adaptador de red móvil de DJI del control remoto.",
-    "zh": "遥控器 DJI Cellular 模块需升级"
+    "de": "Aktualisierung des DJI Mobilfunk-Dongle des Docks erforderlich",
+    "ru": "Требуется обновление порт сотовой связи DJI док-станции",
+    "ko": "도크의 DJI 셀룰러 동글 업데이트 필요",
+    "pt": "Atualização do dongle celular DJI do dock necessária",
+    "ja": "ドックのDJIセルラードングルの更新が必要です",
+    "en": "Update DJI Cellular Dongle of dock required",
+    "fr": "Mise à jour requise du Dongle cellulaire DJI du dock",
+    "es": "Es necesario actualizar el adaptador celular DJI del dock",
+    "zh": "机场 DJI 增强图传模块需升级"
   },
   "fpv_tip_0x1F0B0022": {
     "de": "",
@@ -30675,14 +30789,15 @@
     "zh": "飞行器 LTE 证书需更新，请联系售后或代理商"
   },
   "fpv_tip_0x1F0B0028": {
-    "de": "Aktualisierung der LTE-Zertifizierung der Fernsteuerung erforderlich. An Händler vor Ort oder an DJI Support wenden",
-    "ru": "Требуется обновление сертификации LTE для пульта дистанционного управления. Обратитесь к местному представителю или в службу поддержки DJI",
-    "ko": "조종기 LTE 인증 업데이트 필요. 지역 딜러 또는 DJI 고객지원에 문의하세요.",
-    "ja": "送信機のLTE認定の更新が必要です。最寄りの代理店またはDJIサポートにお問い合わせください",
-    "en": "Remote controller LTE certification update required. Contact your local dealer or DJI Support",
-    "fr": "Mise à jour de la certification LTE de la radiocommande. Contactez votre revendeur local ou le service client DJI",
-    "es": "Es necesario actualizar la certificación LTE del control remoto. Ponte en contacto con el distribuidor local o el servicio de asistencia técnica de DJI.",
-    "zh": "遥控器 LTE 证书需更新，请联系售后或代理商"
+    "de": "Aktualisierung der LTE-Zertifizierung des Docks erforderlich. Wenden Sie sich an Ihren Händler vor Ort oder an den DJI Support",
+    "ru": "Требуется обновление сертификации LTE док-станции. Обратитесь к местному представителю или в службу поддержки DJI",
+    "ko": "도크 LTE 인증 업데이트 필요. 지역 딜러 또는 DJI 고객지원에 문의하세요.",
+    "pt": "Atualização de certificação LTE do dock necessária. Entre em contato com o seu revendedor local ou com o Suporte DJI",
+    "ja": "ドックのLTE認定の更新が必要です。最寄りの代理店またはDJIサポートにお問い合わせください",
+    "en": "Dock LTE certification update required. Contact your local dealer or DJI Support",
+    "fr": "Mise à jour de la certification LTE du dock nécessaire. Contactez votre revendeur local ou le service client DJI",
+    "es": "Es necesario actualizar la certificación LTE del dock. Póngase en contacto con su distribuidor local o la Asistencia técnica de DJI",
+    "zh": "机场 LTE 证书需更新，请联系售后或代理商"
   },
   "fpv_tip_0x1F0B0029": {
     "de": "",
@@ -30738,14 +30853,15 @@
     "zh": "App版本需要升级"
   },
   "fpv_tip_0x1F0B002E": {
-    "de": "Schwache Netzwerkverbindung auf Fernsteuerung. Mit Vorsicht fliegen",
-    "ru": "Слабое сетевое подключение на пульте дистанционного управления. Соблюдайте осторожность при полете",
-    "ko": "조종기의 네트워크 연결이 약합니다. 비행 시 주의 필요",
-    "ja": "送信機のネットワーク接続 弱。慎重に飛行してください",
-    "en": "Weak network connection on remote controller. Fly with caution",
-    "fr": "Connexion réseau faible sur la radiocommande. Pilotez avec précaution",
-    "es": "Conexión de red débil en el control remoto. Vuele con cuidado",
-    "zh": "遥控器网络信号弱，请谨慎飞行"
+    "de": "Schwache Netzwerkverbindung am Dock. Vorsichtig fliegen",
+    "ru": "Слабое сетевое соединение на док-станции. Соблюдайте осторожность во время полета",
+    "ko": "도크의 네트워크 연결이 약합니다. 주의하여 비행하세요.",
+    "pt": "Conexão de rede fraca no dock. Voe com cautela",
+    "ja": "ドックのネットワーク接続が弱くなっています。慎重に飛行してください",
+    "en": "Weak network connection on dock. Fly with caution",
+    "fr": "Connexion réseau faible sur le dock. Pilotez avec précaution",
+    "es": "Conexión de red débil en el dock. Vuele con precaución",
+    "zh": "机场网络信号弱，请谨慎飞行"
   },
   "fpv_tip_0x1F0B0030": {
     "de": "Verbindung zum LTE-Server fehlgeschlagen. Später erneut versuchen",
@@ -30811,14 +30927,15 @@
     "zh": "飞行器 DJI Cellular 模块无法访问网络，请更换至网络更好的地点或稍后重试"
   },
   "fpv_tip_0x1F0B0038": {
-    "de": "Kein Netz auf DJI Mobilfunk-Dongle der Fernsteuerung",
-    "ru": "Нет сети на DJI Cellular Dongle пульта дистанционного управления",
-    "ko": "조종기 DJI 셀룰러 동글이 네트워크에 연결되어 있지 않습니다",
-    "ja": "送信機のDJIセルラードングルでネットワークを利用できません",
-    "en": "No network on DJI Cellular Dongle of remote controller",
-    "fr": "Pas de réseau sur le dongle cellulaire DJI de la radiocommande",
-    "es": "No hay red en el adaptador de red móvil de DJI del control remoto",
-    "zh": "遥控器 DJI Cellular 模块无法访问网络"
+    "de": "Kein Netz für den DJI Mobilfunk-Dongle des Docks",
+    "ru": "Нет сети на порте сотовой связи DJI док-станции",
+    "ko": "도크의 DJI 셀룰러 동글에 네트워크가 없습니다.",
+    "pt": "Sem rede no dongle celular DJI do dock",
+    "ja": "ドックのDJIセルラードングルでネットワークを利用できません",
+    "en": "No network on DJI Cellular Dongle of dock",
+    "fr": "Pas de réseau sur le Dongle cellulaire DJI du dock",
+    "es": "No hay red en el adaptador celular DJI del dock",
+    "zh": "机场 DJI 增强图传模块无法访问网络"
   },
   "fpv_tip_0x1F0B0038_ta101": {
     "de": "",
@@ -30853,14 +30970,15 @@
     "zh": "飞行器 DJI Cellular 模块无法访问网络，请尝试使用其他运营商网络"
   },
   "fpv_tip_0x1F0B003B": {
-    "de": "Kein Netz auf DJI Mobilfunk-Dongle der Fernsteuerung",
-    "ru": "Нет сети на DJI Cellular Dongle пульта дистанционного управления",
-    "ko": "조종기 DJI 셀룰러 동글이 네트워크에 연결되어 있지 않습니다",
-    "ja": "送信機のDJIセルラードングルでネットワークを利用できません",
-    "en": "No network on DJI Cellular Dongle of remote controller",
-    "fr": "Pas de réseau sur le dongle cellulaire DJI de la radiocommande",
-    "es": "No hay red en el adaptador de red móvil de DJI del control remoto",
-    "zh": "遥控器 DJI Cellular 模块无法访问网络"
+    "de": "Kein Netz für den DJI Mobilfunk-Dongle des Docks",
+    "ru": "Нет сети на порте сотовой связи DJI док-станции",
+    "ko": "도크의 DJI 셀룰러 동글에 네트워크가 없습니다.",
+    "pt": "Sem rede no dongle celular DJI do dock",
+    "ja": "ドックのDJIセルラードングルでネットワークを利用できません",
+    "en": "No network on DJI Cellular Dongle of dock",
+    "fr": "Pas de réseau sur le Dongle cellulaire DJI du dock",
+    "es": "No hay red en el adaptador celular DJI del dock",
+    "zh": "机场 DJI 增强图传模块无法访问网络"
   },
   "fpv_tip_0x1F0B003B_ta101": {
     "de": "",
@@ -30895,14 +31013,15 @@
     "zh": "无法访问网络"
   },
   "fpv_tip_0x1F0B003E": {
-    "de": "Kein Netz für SIM-Karte des DJI Mobilfunkmodul-Dongles der Fernsteuerung. SIM-Karte prüfen oder ersetzen",
-    "ru": "Нет сети на SIM-карте DJI Cellular Dongle пульта дистанционного управления. Проверьте или замените SIM-карту",
-    "ko": "조종기 DJI 셀룰러 동글의 SIM 카드에 네트워크가 없습니다. SIM 카드를 확인하거나 교체하세요",
-    "ja": "送信機のDJIセルラードングルのSIMカードでネットワークを利用できません。SIMカードを確認または交換してください",
-    "en": "No network on SIM card of DJI Cellular Dongle of remote controller. Check or replace SIM card",
-    "fr": "Pas de réseau sur la carte SIM du dongle cellulaire de radiocommande DJI. Vérifiez ou remplacez la carte SIM",
-    "es": "No hay red en la tarjeta SIM del adaptador de red móvil de DJI del control remoto. Compruebe o sustituya la tarjeta SIM",
-    "zh": "遥控器 DJI Cellular SIM卡暂时无法获取网络服务，建议检查或更换SIM卡"
+    "de": "Kein Netz für SIM-Karte des DJI Mobilfunk-Dongle des Docks. Prüfen oder ersetzen Sie die SIM-Karte",
+    "ru": "Нет сети на SIM-карте порта сотовой связи DJI док-станции. Проверьте или замените SIM-карту",
+    "ko": "도크 DJI 셀룰러 동글의 SIM 카드에 네트워크가 없습니다. SIM 카드를 확인하거나 교체하세요.",
+    "pt": "Sem rede no cartão SIM do dongle celular DJI do dock. Verifique ou substitua o cartão SIM",
+    "ja": "ドックのDJIセルラードングルのSIMカードでネットワークを利用できません。SIMカードを確認または交換してください",
+    "en": "No network on SIM card of DJI Cellular Dongle of dock. Check or replace SIM card",
+    "fr": "Pas de réseau sur la carte SIM du Dongle cellulaire DJI du dock. Vérifiez ou remplacez la carte SIM",
+    "es": "No hay red en la tarjeta SIM del adaptador celular DJI del dock. Compruebe o sustituya la tarjeta SIM",
+    "zh": "机场 DJI 增强图传模块 SIM 卡暂时无法获取网络服务，建议检查或更换SIM卡"
   },
   "fpv_tip_0x1F0B003E_ta101": {
     "de": "",
@@ -30956,48 +31075,48 @@
     "zh": "增强链路操控延时较大，请谨慎飞行"
   },
   "fpv_tip_0x1F0B0046": {
-    "de": "SIM-Karte nicht in 4G-Dongle des Fluggeräts eingesetzt und eSIM-Karte nicht aktiviert",
-    "ru": "SIM-карта не вставлена в 4G-адаптер дрона и карта eSIM не активирована",
-    "ko": "기체의 4G 동글에 SIM 카드가 삽입되지 않았고 eSIM 카드가 활성화되지 않았습니다",
-    "pt": "",
-    "ja": "SIMカードが機体の4Gドングルに挿入されておらず、eSIMカードがアクティベートされていません",
-    "en": "SIM card not inserted in 4G Dongle of aircraft and eSIM card not activated",
-    "fr": "Carte SIM non insérée dans le dongle 4G de l'appareil et carte eSIM non activée",
-    "es": "Tarjeta SIM no insertada en el adaptador 4G de la aeronave y tarjeta eSIM no activada",
-    "zh": "飞机的4G Dongle未插入SIM卡且eSIM未激活"
+    "de": "eSIM-Karte aktivieren oder SIM-Karte in DJI Mobilfunk-Dongle des Fluggeräts einsetzen",
+    "ru": "Активируйте карту eSIM или вставьте SIM-карту в порт сотовой связи DJI дрона",
+    "ko": "eSIM 카드를 활성화하거나 기체의 DJI 셀룰러 동글에 SIM 카드를 삽입하세요",
+    "pt": "Ative o cartão eSIM ou insira o cartão SIM no Dongle celular DJI da aeronave",
+    "ja": "eSIMカードをアクティベートするか、SIMカードを機体のDJIセルラードングルに挿入してください",
+    "en": "Activate eSIM card or insert SIM card in DJI Cellular Dongle of aircraft",
+    "fr": "Activez la carte eSIM ou insérez la carte SIM dans le Dongle cellulaire DJI de l’appareil",
+    "es": "Active la tarjeta eSIM o inserte la tarjeta SIM en el adaptador celular DJI de la aeronave",
+    "zh": "请在飞机的 DJI Cellular 模块上激活 eSIM 或插入SIM卡"
   },
   "fpv_tip_0x1F0B0047": {
-    "de": "SIM-Karte in 4G-Dongle des Fluggeräts eingesetzt. eSIM-Karte ausgewählt, aber nicht aktiviert",
-    "ru": "SIM-карта вставлена в 4G-адаптер дрона. Карта eSIM выбрана, но не активирована",
-    "ko": "기체의 4G 동글에 SIM 카드가 삽입되어 있지만 선택한 eSIM 카드가 활성화되지 않았습니다",
-    "pt": "",
-    "ja": "SIMカードが機体の4Gドングルに挿入され、eSIMカードが選択されていますがアクティベートされていません",
-    "en": "SIM card inserted in 4G Dongle of aircraft. eSIM card selected but not activated",
-    "fr": "Carte SIM insérée dans le dongle 4G de l'appareil. Carte eSIM sélectionnée, mais non activée",
-    "es": "Tarjeta SIM insertada en el adaptador 4G de la aeronave. Tarjeta eSIM seleccionada pero no activada",
-    "zh": "飞机的4G Dongle已插入SIM卡，选择了eSIM且eSIM未激活"
+    "de": "Wechseln Sie zur SIM-Karte oder aktivieren Sie die eSIM im DJI Mobilfunk-Dongle des Fluggeräts",
+    "ru": "Переключитесь на SIM-карту или активируйте eSIM в порте сотовой связи DJI дрона",
+    "ko": "기체의 DJI Cellular Dongle에서 SIM 카드 또는 eSIM으로 전환하거나 활성화하십시오.",
+    "pt": "Alterne ao cartão SIM ou habilite o eSIM no Dongle celular DJI da aeronave",
+    "ja": "SIMカードに切り替えるか、機体のDJIセルラードングルでeSIMをアクティベートしてください",
+    "en": "Switch to SIM card or activate eSIM in DJI Cellular Dongle of aircraft",
+    "fr": "Passez à la carte SIM ou activez l’eSIM dans le Dongle cellulaire DJI de l’appareil",
+    "es": "Cambie a tarjeta SIM o active eSIM en el adaptador celular DJI de la aeronave",
+    "zh": "请将飞机的 DJI Cellular 模块切换到 SIM 卡或激活 eSIM 卡后使用"
   },
   "fpv_tip_0x1F0B0048": {
-    "de": "SIM-Karte nicht in 4G-Dongle der Fernsteuerung eingesetzt und eSIM-Karte nicht aktiviert",
-    "ru": "SIM-карта не вставлена в 4G-адаптер пульта ДУ и карта eSIM не активирована",
-    "ko": "조종기의 4G 동글에 SIM 카드가 삽입되지 않았고 eSIM 카드가 활성화되지 않았습니다",
-    "pt": "",
-    "ja": "SIMカードが送信機の4Gドングルに挿入されておらず、eSIMカードがアクティベートされていません",
-    "en": "SIM card not inserted in 4G Dongle of remote controller and eSIM card not activated",
-    "fr": "Carte SIM non insérée dans le dongle 4G de la radiocommande et carte eSIM non activée",
-    "es": "Tarjeta SIM no insertada en el adaptador 4G del control remoto y tarjeta eSIM no activada",
-    "zh": "遥控器的4G Dongle未插入SIM卡且eSIM未激活"
+    "de": "Aktivieren Sie die eSIM-Karte oder setzen Sie die SIM-Karte in den DJI Mobilfunk-Dongle des Docks ein",
+    "ru": "Активируйте eSIM или вставьте SIM-карту в порт сотовой связи DJI док-станции",
+    "ko": "도크의 DJI 셀룰러 동글에 eSIM을 활성화하거나 SIM 카드를 삽입하세요",
+    "pt": "Ative o eSIM ou insira o cartão SIM no dongle celular DJI do dock",
+    "ja": "eSIMをアクティベートするか、SIMカードをドックのDJIセルラードングルに挿入してください",
+    "en": "Activate eSIM or insert SIM card in DJI Cellular Dongle of dock",
+    "fr": "Activez l’eSIM ou insérez la carte SIM dans le Dongle cellulaire DJI du dock",
+    "es": "Active eSIM o inserte la tarjeta SIM en el adaptador celular DJI del dock",
+    "zh": "请在机场的 DJI 增强图传模块上激活 eSIM 或插入SIM卡"
   },
   "fpv_tip_0x1F0B0049": {
-    "de": "SIM-Karte in 4G-Dongle der Fernsteuerung eingesetzt. eSIM-Karte ausgewählt, aber nicht aktiviert",
-    "ru": "SIM-карта вставлена в 4G-адаптер пульта ДУ. Карта eSIM выбрана, но не активирована",
-    "ko": "조종기의 4G 동글에 SIM 카드가 삽입되어 있지만 선택한 eSIM 카드가 활성화되지 않았습니다",
-    "pt": "",
-    "ja": "SIMカードが送信機の4Gドングルに挿入され、eSIMカードが選択されていますがアクティベートされていません",
-    "en": "SIM card inserted in 4G Dongle of remote controller. eSIM card selected but not activated",
-    "fr": "Carte SIM insérée dans le dongle 4G de la radiocommande. Carte eSIM sélectionnée, mais non activée",
-    "es": "Tarjeta SIM insertada en el adaptador 4G del control remoto. Tarjeta eSIM seleccionada pero no activada",
-    "zh": "遥控器的4G Dongle已插入SIM卡，选择了eSIM且eSIM未激活"
+    "de": "Wechseln Sie zur SIM-Karte oder aktivieren Sie die eSIM-Karte im DJI Mobilfunk-Dongle des Docks",
+    "ru": "Переключитесь на SIM-карту или активируйте eSIM в порт сотовой связи DJI док-станции",
+    "ko": "도크의 DJI 셀룰러 동글에서 SIM 카드로 전환하거나 eSIM을 활성화하세요",
+    "pt": "Alterne para cartão SIM ou ative eSIM no dongle celular DJI do dock",
+    "ja": "SIMカードに切り替えるか、ドックのDJIセルラードングルでeSIMをアクティベートしてください",
+    "en": "Switch to SIM card or activate eSIM in DJI Cellular Dongle of dock",
+    "fr": "Passez à la carte SIM ou activez l’eSIM dans le Dongle cellulaire DJI du dock",
+    "es": "Cambie a tarjeta SIM o active eSIM en el adaptador celular DJI del dock",
+    "zh": "请将机场的 DJI 增强图传模块切换到 SIM 卡或激活 eSIM 卡后使用"
   },
   "fpv_tip_0x1F0B004A": {
     "de": "Fluggerät kann LTE-Übertragung nicht verwenden. Netzwerk instabil oder SIM %lte_index nicht mit dem Internet verbunden",
@@ -31505,8 +31624,15 @@
     "zh": "检测到电磁信号强干扰或诱骗，请立即返航"
   },
   "fpv_tip_0x1b080001": {
-    "en": "Remote ID broadcast error. Failed to obtain remote controller location",
-    "zh": "Remote ID 播报异常，无法获取遥控器位置"
+    "de": "Remote-ID-Übertragungsfehler. Dock-Standort kann nicht abgerufen werden",
+    "ru": "Ошибка передачи удаленного идентификатора. Не удалось получить местоположение док-станции",
+    "ko": "원격 ID 방송 오류. 도크 위치를 가져올 수 없습니다.",
+    "pt": "Erro de transmissão de ID remota. Não foi possível obter a localização do dock",
+    "ja": "リモートID発信エラー。ドックの位置情報を取得できません",
+    "en": "Remote ID broadcast error. Unable to obtain dock location",
+    "fr": "Erreur de diffusion ID à distance. Impossible d’obtenir l’emplacement du dock.",
+    "es": "Error de transmisión de ID remoto. No se puede obtener la ubicación del dock",
+    "zh": "Remote ID 播报异常，无法获取机场位置"
   },
   "fpv_tip_0x1b080002": {
     "en": "Remote ID module error. Contact DJI Support",
@@ -32287,10 +32413,10 @@
     "de": "Hinweis: Fluggerät hat die maximale Flughöhe erreicht. Vorsichtig fliegen.",
     "ru": "Примечание: достигнуто макс. расстояние. Будьте осторожны",
     "ko": "주의: 기체 최대 거리 도달. 비행 시 주의해주세요",
-    "ja": "ヒント：機体は最大距離に到達しました。安全飛行を心掛けてください。\\n",
-    "en": "Tip: Aircraft reached maximum distance, please pay attention to flight safety.\\n",
+    "ja": "ヒント：機体は最大距離に到達しました。安全飛行を心掛けてください。\n",
+    "en": "Tip: Aircraft reached maximum distance, please pay attention to flight safety.\n",
     "fr": "Note : L'appareil a atteint la distance maximum. Soyez attentifs à la sécurité du vol.",
-    "es": "Consejo: La aeronave ha alcanzado la distancia máxima. Presta atención a la seguridad de vuelo.\\n",
+    "es": "Consejo: La aeronave ha alcanzado la distancia máxima. Presta atención a la seguridad de vuelo.\n",
     "zh": "提示：飞机已经达到最远距离， 请注意安全飞行"
   },
   "fpv_tip_0x20020200": {
@@ -32502,24 +32628,26 @@
     "zh": "当前电量仅够当前高度降落，系统将强制下降，无法取消"
   },
   "fpv_tip_0x20020604": {
-    "de": "Akkuladezustand sehr niedrig. Fluggerät landet. RTH-Taste auf der Fernsteuerung drücken um abzubrechen.",
-    "ru": "Критически низкое напряжение. Дрон садится. Нажмите кнопку \"RTH\" на пульте, чтобы отменить посадку.",
-    "ko": "전압 매우 낮음. 기체 착륙 중. 조종기의 RTH 버튼을 누르면 취소합니다",
-    "ja": "重度の低電圧。機体は着陸中。送信機のRTHボタンを押すと、停止します。",
-    "en": "Critically low voltage. Aircraft is landing. Press the RTH button on the remote controller to stop.",
-    "fr": "Tension dangereusement faible. L'appareil est en phase d'atterrissage. Appuyez sur le bouton RTH (Return to Home) de la radiocommande pour interrompre.",
-    "es": "Voltaje crítico. La aeronave está aterrizando. Pulsa el botón RPO en el control remoto para detener.",
-    "zh": "严重低电压，系统强制降落，短按遥控器上的返航按钮停止降落"
+    "de": "Kritisch niedrige Spannung. Fluggerät landet automatisch",
+    "ru": "Критически низкое напряжение. Дрон выполняет автоматическую посадку",
+    "ko": "심각한 저전압. 기체가 자동으로 착륙 중입니다.",
+    "pt": "Tensão criticamente baixa. A aeronave está aterrissando automaticamente",
+    "ja": "電圧が極度に低下。機体が自動的に着陸します",
+    "en": "Critically low voltage. Aircraft is automatically landing",
+    "fr": "Tension extrêmement faible. L’appareil atterrit automatiquement",
+    "es": "Voltaje críticamente bajo. La aeronave está aterrizando automáticamente",
+    "zh": "严重低电压，系统强制降落"
   },
   "fpv_tip_0x20020605": {
-    "de": "Niedrige Spannung. Fluggerät kehrt zum Startpunkt zurück. RTH-Taste auf der Fernsteuerung drücken, um abzubrechen.",
-    "ru": "Низкое напряжение. Дрон возвращается домой. Нажмите кнопку \"RTH\" на пульте, чтобы отменить возврат.",
-    "ko": "저전압. 즉시 RTH 진행 필요. 조종기의 RTH 버튼을 누르면 취소합니다",
-    "ja": "低電圧。ホームに直ちに帰還します。送信機のRTHボタンを押すと、停止します。",
-    "en": "Low voltage. Returning home now. Press the RTH button on the remote controller to stop.",
-    "fr": "Tension faible. Retour au point de départ. Appuyez sur le bouton RTH (Return to Home) de la radiocommande pour annuler.",
-    "es": "Voltaje bajo. Regresando al punto de origen ahora. Pulsa el botón RPO en el control remoto para detener.",
-    "zh": "低电压报警，飞机开始返航，短按遥控器上的返航按钮停止返航"
+    "de": "Niedrige Spannung. Fluggerät kehrt zum Startpunkt zurück",
+    "ru": "Низкое напряжение. Дрон выполняет возврат домой",
+    "ko": "전압 낮음. 기체가 홈으로 복귀 중입니다.",
+    "pt": "Baixa voltagem. Aeronave retornando à base",
+    "ja": "低電圧です。機体がホームポイントへ帰還します",
+    "en": "Low voltage. Aircraft returning to home",
+    "fr": "Tension faible. L’appareil retourne au point de départ",
+    "es": "Bajo voltaje. La aeronave regresa al punto de origen",
+    "zh": "低电压报警，飞机开始返航"
   },
   "fpv_tip_0x20020606": {
     "de": "Warnung! Fluggerät landet aufgrund zu niedriger Spannung. Steuerknüppel nutzen um Hindernissen auszuweichen und die Sinkgeschwindigkeit zu reduzieren.",
@@ -33382,7 +33510,14 @@
     "zh": "光照传感器被遮挡，影响多光谱数据采集"
   },
   "fpv_tip_0x20041801": {
+    "de": "Inkompatible Kameraparameter. App neu starten und zum Startbildschirm wechseln, um ein Update durchzuführen",
+    "ru": "Несовместимые параметры камеры. Перезапустите приложение и перейдите на главный экран для обновления",
+    "ko": "카메라 매개변수가 호환되지 않습니다. 앱을 재시작하고 홈 화면으로 이동하여 업데이트하십시오.",
+    "pt": "Parâmetros de câmera incompatíveis. Reinicie o aplicativo e vá para a tela inicial para atualizar",
+    "ja": "カメラパラメーターに互換性がありません。アプリを再起動し、ホーム画面に移動して更新してください",
     "en": "Incompatible camera parameters. Restart app and go to home screen to update",
+    "fr": "Paramètres de caméra incompatibles. Redémarrez l’application et accédez à l’écran d’accueil pour mettre à jour",
+    "es": "Parámetros de cámara incompatibles. Reinicie la aplicación y vaya a la pantalla de inicio para actualizar",
     "zh": "摄像头参数不匹配，请重启APP进入首页更新参数"
   },
   "fpv_tip_0x20050100": {
@@ -33905,14 +34040,15 @@
     "zh": "为避免信号干扰，请关闭WiFi后使用中继模式"
   },
   "fpv_tip_0x20100000": {
-    "de": "D-RTK-Akkustand niedrig",
-    "ru": "Низкий заряд батареи D-RTK",
-    "ko": "D-RTK 배터리 부족",
-    "ja": "D-RTKローバッテリー",
-    "en": "D-RTK Low Battery",
-    "fr": "Batterie D-RTK faible",
-    "es": "Batería baja de D-RTK",
-    "zh": "D-RTK低电量警报"
+    "de": "Alarm über niedrigen Akkustand der Relaisstation",
+    "ru": "Предупреждение о низком уровне заряда аккумулятора ретрансляционной станции",
+    "ko": "릴레이 스테이션 배터리 부족 알람",
+    "pt": "Alarme de bateria baixa da estação de retransmissão",
+    "ja": "リレーステーションのバッテリー残量低下アラーム",
+    "en": "Relay station low battery alarm",
+    "fr": "Alerte batterie faible de la station relais",
+    "es": "Alarma de batería baja de la estación repetidora",
+    "zh": "中继站低电量警报"
   },
   "fpv_tip_0x20100100": {
     "de": "RTK-Statusfehler. Der Modus \"Positioniergenauigkeit beibehalten\" wird gestartet. Das Fluggerät verlässt RTK, falls eine Verbindung nicht in angemessener Zeit wiederhergestellt werden kann",
@@ -33946,15 +34082,15 @@
     "zh": "飞行器RTK源不一致，可能出现定位异常，请在设置中统一多个飞行器的RTK服务类型"
   },
   "fpv_tip_0x2010D000": {
-    "de": "D-RTK -Akkustand niedrig",
-    "ru": "Низкий заряд батареи D-RTK",
-    "ko": "D-RTK  배터리 부족",
-    "pt": "",
-    "ja": "D-RTK ローバッテリー",
-    "en": "D-RTK  Low Battery",
-    "fr": "Batterie D-RTK  faible",
-    "es": "Batería baja de D-RTK",
-    "zh": "D-RTK 低电量警报"
+    "de": "Alarm über niedrigen Akkustand der Relaisstation",
+    "ru": "Предупреждение о низком уровне заряда аккумулятора ретрансляционной станции",
+    "ko": "릴레이 스테이션 배터리 부족 알람",
+    "pt": "Alarme de bateria baixa da estação de retransmissão",
+    "ja": "リレーステーションのバッテリー残量低下アラーム",
+    "en": "Relay station low battery alarm",
+    "fr": "Alerte batterie faible de la station relais",
+    "es": "Alarma de batería baja de la estación repetidora",
+    "zh": "中继站低电量警报"
   },
   "fpv_tip_0x20110000": {
     "de": "Autom. vorwärmen der Akkus ...",
@@ -34241,14 +34377,15 @@
     "zh": "未知原因，航线任务已暂停"
   },
   "fpv_tip_0x20120B08": {
-    "de": "Maximale Flughöhe der Flughafen-Höhenlagezone erreicht",
-    "ru": "Достигнута максимальная высота полета в зоне ограничения высоты полета аэропорта",
-    "ko": "공항 고도 제한 구역 최고 비행 고도에 도달했습니다",
-    "ja": "空港の高度制限区域の最大飛行高度に達しました",
-    "en": "Max flight altitude of airport Altitude Zone reached",
-    "fr": "Altitude maximale de vol de la zone d'altitude de l'aéroport atteinte",
-    "es": "Altitud máxima de vuelo de zona de aeropuerto alcanzada",
-    "zh": "超过机场限高区限高"
+    "de": "Überschreitung der Höhenbegrenzung der Höhenlagezonen für die Dockingstation/Bodenstation",
+    "ru": "Превышена высота зон высоты для док-станции / наземной станции",
+    "ko": "도크/그라운드 스테이션의 고도 제한 구역 고도 초과",
+    "pt": "Altitude máxima das zonas de altitude excedida para dock/estação terrestre",
+    "ja": "ドック／地上ステーションの高度制限区域の高度を超えました",
+    "en": "Exceeded altitude of Altitude Zones for dock/ground station",
+    "fr": "Altitude des zones d'altitude dépassée pour station d’accueil/station au sol",
+    "es": "Se ha excedido la altitud de las zonas de altitud para el dock/estación en tierra",
+    "zh": "超过机场/地面站限高区限高"
   },
   "fpv_tip_0x20120B09": {
     "de": "Notbremse ausgelöst. Flugaufgabe pausiert",
@@ -35682,9 +35819,7 @@
     "pt": "Ponto de origem atualizado. Fique atento à localização do ponto de origem",
     "ja": "ホームポイントが更新されました。ホームポイントの位置に注意してください",
     "en": "Home point updated. Pay attention to home point location",
-    "it": "Punto iniziale aggiornato. Presta attenzione alla posizione del punto iniziale",
     "fr": "Point de départ mis à jour. Veuillez faire attention à l'emplacement du point de départ",
-    "pl": "Zaktualizowano punkt startowy. Zwróć uwagę na jego lokalizację",
     "es": "Punto de origen actualizado. Preste atención a la ubicación del punto de origen",
     "zh": "返航点已刷新，请留意返航点位置"
   },

@@ -1,0 +1,17 @@
+{
+    "device_model": "6-610-0",
+    "device_name": "DJI O4 地面站（中继）",
+    "release_pages": "https://enterprise.dji.com/cn/o4-ground-station/downloads",
+    "firmwares": [
+        {
+            "product_version": "18.00.0053",
+            "file_name": "O4_Relay_18.00.00.53.zip",
+            "file_size": 309674338,
+            "md5": "88b695bd4dd9fd8643fc2c189263af56",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/PAYLOAD/O4%20Ground%20Station/18.0/O4_Relay_18.00.00.53.zip",
+            "release_date": "2026-10-14",
+            "release_notes": "1. 新增网关模式下的机场控制功能，支持配合大疆机场4使用。\r\n2. 新增支持大疆机场4配合Matrice 5TD进行多站漫游。详细使用方法请参考产品用户手册。\r\n3. 修复某些已知问题。",
+            "can_downgrade": true
+        }
+    ]
+}

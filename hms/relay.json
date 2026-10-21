@@ -33,15 +33,15 @@
     "zh": "IMU 异常，请重启设备，如果设备仍上报此告警，请联系大疆售后"
   },
   "relay_faq_content_0x1603001D": {
-    "de": "1. Gerät nach Beendigung der Vibrationen verwenden\\n2. Gerät neu starten, wenn die Warnung weiterhin besteht",
-    "ru": "1. Используйте устройство после прекращения вибрации\\n2. Перезапустите устройство, если предупреждение сохраняется",
-    "ko": "1. 진동이 멈춘 후 기기 사용\\r\\n2. 경고가 계속되면 기기 재시작",
-    "pt": "1. Use o dispositivo após a vibração parar\\n2. Reinicie o dispositivo se o aviso persistir",
-    "ja": "1. 振動が停止してから機器を使用してください。\\n2. 警告が続く場合は、機器を再起動してください",
-    "en": "1. Use device after vibration stops\\n2. Restart device if warning persists",
-    "fr": "1. Utilisez l’appareil après l’arrêt des vibrations cessées\\n2. Redémarrez l’appareil si l’avertissement persiste",
-    "es": "1. Use el dispositivo una vez que se detenga la vibración\\n2. Reinicie el dispositivo si la advertencia persiste",
-    "zh": "1、请在震动消除后再使用设备\\n2、若持续提示，请重启设备"
+    "de": "1. Gerät nach Beendigung der Vibrationen verwenden\n2. Gerät neu starten, wenn die Warnung weiterhin besteht",
+    "ru": "1. Используйте устройство после прекращения вибрации\n2. Перезапустите устройство, если предупреждение сохраняется",
+    "ko": "1. 진동이 멈춘 후 기기 사용\r\n2. 경고가 계속되면 기기 재시작",
+    "pt": "1. Use o dispositivo após a vibração parar\n2. Reinicie o dispositivo se o aviso persistir",
+    "ja": "1. 振動が停止してから機器を使用してください。\n2. 警告が続く場合は、機器を再起動してください",
+    "en": "1. Use device after vibration stops\n2. Restart device if warning persists",
+    "fr": "1. Utilisez l’appareil après l’arrêt des vibrations cessées\n2. Redémarrez l’appareil si l’avertissement persiste",
+    "es": "1. Use el dispositivo una vez que se detenga la vibración\n2. Reinicie el dispositivo si la advertencia persiste",
+    "zh": "1、请在震动消除后再使用设备\n2、若持续提示，请重启设备"
   },
   "relay_faq_content_0x16070046": {
     "de": "Ionosphärische Szintillation hat im aktuellen Bereich begonnen. Die Positionierungsgenauigkeit kann beeinträchtigt werden. Vorsichtig fliegen",
