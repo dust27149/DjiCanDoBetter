@@ -82,7 +82,8 @@
 * [上云API 1.0](https://developer.dji.com/doc/cloud-api-tutorial/cn/error-code.html)
 * [上云API 2.0](https://developer.dji.com/doc/cloud-api-2-tutorial/cn/error-codes.html)
 * [HMS](https://terra-1-g.djicdn.com/fee90c2e03e04e8da67ea6f56365fc76/SDK%20%E6%96%87%E6%A1%A3/CloudAPI/hms.json) 中328xx和332xx相关错误码
-* [大疆司空](https://fh.dji.com/user-manual/cn/organization-management/device-management.html#云服务切换)
+* [大疆司空说明书-云服务切换](https://fh.dji.com/user-manual/cn/organization-management/device-management.html#云服务切换)
+* [大疆司空说明书-错误码](https://fh.dji.com/user-manual/cn/custom-development/error-codes.html)
 * [大疆司运](https://2rybwyrrk6.apifox.cn/doc-3990540)
 * [大疆论坛](https://sdk-forum.dji.net/hc/zh-cn/articles/33865335025945)
 * [OpenAPI 1.0公有云](https://fh2-api.apifox.cn/doc-7183966)
