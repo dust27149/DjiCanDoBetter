@@ -81,17 +81,26 @@
 
 * [上云API 1.0](https://developer.dji.com/doc/cloud-api-tutorial/cn/error-code.html)
 * [上云API 2.0](https://developer.dji.com/doc/cloud-api-2-tutorial/cn/error-codes.html)
-* [HMS](https://terra-1-g.djicdn.com/fee90c2e03e04e8da67ea6f56365fc76/SDK%20%E6%96%87%E6%A1%A3/CloudAPI/hms.json) 中328xx和332xx相关错误码
+* [HMS](https://terra-1-g.djicdn.com/fee90c2e03e04e8da67ea6f56365fc76/SDK%20%E6%96%87%E6%A1%A3/CloudAPI/hms.json) 中328xxx和332xxx相关错误码
 * [大疆司空说明书-云服务切换](https://fh.dji.com/user-manual/cn/organization-management/device-management.html#云服务切换)
 * [大疆司空说明书-错误码](https://fh.dji.com/user-manual/cn/custom-development/error-codes.html)
 * [大疆司运](https://2rybwyrrk6.apifox.cn/doc-3990540)
 * [大疆论坛](https://sdk-forum.dji.net/hc/zh-cn/articles/33865335025945)
+* [大疆智图重建错误指引](https://terra-1-g.djicdn.com/851d20f7b9f64838a34cd02351370894/DJI%20Terra/其他文档/产品相关/大疆智图重建错误指引.pdf) 
+* [司空建模常见错误码补充](https://sdk-forum.dji.net/hc/zh-cn/articles/57805366244121)
 * [OpenAPI 1.0公有云](https://fh2-api.apifox.cn/doc-7183966)
 * [OpenAPI 2.0公有云](https://s.apifox.cn/4de4a239-c2cc-4572-9b65-90738289f37a/8785335m0)
 * [OpenAPI 2.0私有化](https://henvmbbf6x.apifox.cn/8983516m0)
-* [用爱发电社区](https://www.kdocs.cn/l/clOp5VzfiTYE) 感谢 `奔波儿小马@BoermaPony` 等人的奉献！
-* 大疆智图API(当前已从开发者网站下架，无法访问)
+* [DJI上云常见问题汇总](https://www.kdocs.cn/l/clOp5VzfiTYE) 感谢 `奔波儿小马@BoermaPony` 等人的奉献！
 * ……
+
+其他：
+
+* 328xxx和332xxx相关的错误码中，后三位转化为3位16进制数后，再拼接前缀（328xxx拼接前缀`0x16100`，332xxx拼接前缀`0x16200`），可以在HMS中找到对应的错误信息。例如：
+  * 328199-328000=199，199 转换16进制后=0c7，拼接前缀`0x16100`，对应的 HMS key 中包含 `0x161000c7`，表示`电池低温阻飞`。
+  * 332257-332000=257，257 转换16进制后=101，拼接前缀`0x16200`，对应的 HMS key 中包含 `0x16200101`，表示`无法起飞：已连接USB`。
+* 上云API 1.0 上报航线任务进度 `flighttask_progress` 事件中，中断原因 `break_reason` 可以和错误码互相转换，值相差 321000 。
+* 【⼤疆智图重建错误提示】中的四位错误码可以和上云API六位错误码互相转换，值相差 700000 。
 
 ### HMS健康告警 
 
