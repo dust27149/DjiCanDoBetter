@@ -164,6 +164,9 @@ HMS功能是为了设备的问题能在云端显示，提升用户对于风险�
 * [M3TD相机](./sensor/81-0-0.json)
 * [M4D相机](./sensor/98-0-0.json)
 * [M4TD相机](./sensor/99-0-0.json)
+* [M5TD相机](./sensor/122-0-0.json)
+
+M5TD 相机未提供传感器尺寸和真实焦距，其 `sensor_size` 由 `pixel_size × photo_resolution` 推算，`hfov`/`vfov` 由 `dfov` 结合宽高比推算，`real_focal_length`/`factor` 由 `dfov` 与推算的传感器尺寸换算，精度约为 ±2%。
 
 **特别声明**：相机传感器相关知识触及我的知识盲区，因此无法对大模型分析结果进行校对。推演结果与大疆技术参数有出入，请谨慎使用。如有相关行业大佬，欢迎审阅并指正。
 

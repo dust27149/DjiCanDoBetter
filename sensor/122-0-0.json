@@ -1,0 +1,167 @@
+{
+    "device_model": "122-0-0",
+    "device_name": "Matrice 5TD Camera",
+    "product_page": "https://enterprise.dji.com/cn/dock-4/specs",
+    "sensor": [
+        {
+            "type": "wide",
+            "desc": "广角",
+            "sensor_size": {
+                "width": 13.11,
+                "height": 9.83,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.6,
+                "height": 1.6,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8192,
+                    "height": 6144,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 8.67,
+                "min": 8.67,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.0,
+                    "dfov": 85.7,
+                    "hfov": 73.16,
+                    "vfov": 58.20,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 23.5,
+                "min": 23.5,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",
+            "desc": "中长焦",
+            "sensor_size": {
+                "width": 9.99,
+                "height": 7.50,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.22,
+                "height": 1.22,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8192,
+                    "height": 6144,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 19.81,
+                "min": 19.81,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 2.29,
+                    "dfov": 35,
+                    "hfov": 28.31,
+                    "vfov": 21.43,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 70,
+                "min": 70,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "zoom",
+            "desc": "长焦",
+            "sensor_size": {
+                "width": 8.26,
+                "height": 6.19,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 1.008,
+                "height": 1.008,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 8192,
+                    "height": 6144,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 60.82,
+                "min": 60.82,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 7.02,
+                    "dfov": 9.7,
+                    "hfov": 7.77,
+                    "vfov": 5.83,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 252,
+                "min": 252,
+                "unit": "mm"
+            }
+        },
+        {
+            "type": "ir",
+            "desc": "红外",
+            "sensor_size": {
+                "width": 10.24,
+                "height": 8.19,
+                "unit": "mm"
+            },
+            "pixel_size": {
+                "width": 8,
+                "height": 8,
+                "unit": "µm"
+            },
+            "photo_resolution": [
+                {
+                    "width": 1280,
+                    "height": 1024,
+                    "unit": "px"
+                }
+            ],
+            "real_focal_length": {
+                "max": 15.83,
+                "min": 15.83,
+                "unit": "mm"
+            },
+            "fov": [
+                {
+                    "factor": 1.83,
+                    "dfov": 45,
+                    "hfov": 35.85,
+                    "vfov": 29.01,
+                    "unit": "°"
+                }
+            ],
+            "equivalent_focal_length": {
+                "max": 53,
+                "min": 53,
+                "unit": "mm"
+            }
+        }
+    ]
+}
