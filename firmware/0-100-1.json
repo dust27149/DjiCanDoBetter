@@ -4,6 +4,16 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads",
     "firmwares": [
         {
+            "product_version": "19.01.0202",
+            "file_name": "M4TD_19.01.02.02_pro.zip",
+            "file_size": 749337042,
+            "md5": "dc6a5abf412422b62098a0b080a7126e",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK3/19.1/M4TD_19.01.02.02_pro.zip",
+            "release_date": "2026-11-05",
+            "release_notes": "1. 修复部分已知问题。",
+            "can_downgrade": true
+        },
+        {
             "product_version": "17.07.0401",
             "file_name": "M4TD_17.07.04.01_pro.zip",
             "file_size": 749727378,
