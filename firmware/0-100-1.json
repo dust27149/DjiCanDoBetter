@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads",
     "firmwares": [
         {
-            "product_version": "19.01.0202",
+            "product_version": "19.01.02.02",
             "file_name": "M4TD_19.01.02.02_pro.zip",
             "file_size": 749337042,
             "md5": "dc6a5abf412422b62098a0b080a7126e",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.07.0401",
+            "product_version": "17.07.04.01",
             "file_name": "M4TD_17.07.04.01_pro.zip",
             "file_size": 749727378,
             "md5": "322019361dad9f24531c253c4cca3811",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.02.0521",
+            "product_version": "17.02.05.21",
             "file_name": "M4TD_17.02.05.21_pro.zip",
             "file_size": 751503378,
             "md5": "975df04ab246eceb12db2f49a7fa86c6",
@@ -34,7 +34,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.01.0506",
+            "product_version": "17.01.05.06",
             "file_name": "M4TD_17.01.05.06_pro.zip",
             "file_size": 750775204,
             "md5": "337be9d41d91d04c8c537e1a9dcd236a",
@@ -44,7 +44,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0007",
+            "product_version": "16.01.00.07",
             "file_name": "M4TD_16.01.00.07_pro.zip",
             "file_size": 751001600,
             "md5": "4a385e9eb198d19e0f22320f66b91153",
@@ -54,7 +54,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0005",
+            "product_version": "16.01.00.05",
             "file_name": "M4TD_16.01.00.05_pro.zip",
             "file_size": 750967808,
             "md5": "f062941f7e8460213ff6e33eb8b54bf5",
@@ -64,7 +64,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.00.0001",
+            "product_version": "16.00.00.01",
             "file_name": "M4TD_16.00.00.01_pro.zip",
             "file_size": 752476120,
             "md5": "c6d3db3663def4471616bd3f02147338",

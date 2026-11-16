@@ -139,16 +139,25 @@ HMS功能是为了设备的问题能在云端显示，提升用户对于风险�
 
 为此，本项目中汇总了以下设备的最新固件和历史固件，方便开发者在遇到严重问题时，能够回退固件版本。
 
-* [Dock1](./firmware/3-1-0.json)
-* [Dock2](./firmware/3-2-0.json)
-* [Dock3](./firmware/3-3-0.json)
-* [M30](./firmware/0-67-0.json)
-* [M30T](./firmware/0-67-1.json)
-* [M3D](./firmware/0-91-0.json)
-* [M3TD](./firmware/0-91-1.json)
-* [M4D](./firmware/0-100-0.json)
-* [M4TD](./firmware/0-100-1.json)
-* [D-RTK 3](./firmware/6-600-0.json)
+* 机场
+    * [Dock1](./firmware/3-1-0.json)
+    * [Dock2](./firmware/3-2-0.json)
+    * [Dock3](./firmware/3-3-0.json)
+* 机库
+    * [Dock4](./firmware/9-131-0.json)
+* 基站
+    * [O4(基站)](./firmware/8-135-0.json)
+* 无人机
+    * [M30](./firmware/0-67-0.json)
+    * [M30T](./firmware/0-67-1.json)
+    * [M3D](./firmware/0-91-0.json)
+    * [M3TD](./firmware/0-91-1.json)
+    * [M4D](./firmware/0-100-0.json)
+    * [M4TD](./firmware/0-100-1.json)
+    * [M5TD](./firmware/0-130-0.json)
+* 中继
+    * [D-RTK 3](./firmware/6-600-0.json)
+    * [O4(中继)](./firmware/6-610-0.json)
 
 本项目仅提供`文件下载地址`、`MD5`等必要信息；不提供具体固件文件。
 
@@ -314,11 +323,10 @@ M5TD 相机未提供传感器尺寸和真实焦距，其 `sensor_size` 由 `pixe
 
 
 ### 未来计划支持的开发资源
-* 踩坑记录（常见问题和排障方案）
+* 上云API 1/2踩坑记录（常见问题和排障方案）
 * 设备常用技术参数
 * 设备属性
 * 文档中遗漏的各类枚举值
-* 补全大疆4代机场相关信息
 
 ### 其他
 欢迎提交必要需求。

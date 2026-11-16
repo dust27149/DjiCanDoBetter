@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads",
     "firmwares": [
         {
-            "product_version": "19.01.0202",
+            "product_version": "19.01.02.02",
             "file_name": "M4D_19.01.02.02_pro.zip",
             "file_size": 743794136,
             "md5": "e6a406da2e0b30fe93b57db92120791f",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.07.0401",
+            "product_version": "17.07.04.01",
             "file_name": "M4D_17.07.04.01_pro.zip",
             "file_size": 744343640,
             "md5": "683558c3927ad8e8c3ffeac7c4a0592e",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.02.0521",
+            "product_version": "17.02.05.21",
             "file_name": "M4D_17.02.05.21_pro.zip",
             "file_size": 746170200,
             "md5": "3935a301c2a6a97c1d50e5a552328b3f",
@@ -34,7 +34,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.01.0506",
+            "product_version": "17.01.05.06",
             "file_name": "M4D_17.01.05.06_pro.zip",
             "file_size": 746190570,
             "md5": "eca7b88a91346439a00309c51c9f8b04",
@@ -44,7 +44,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0007",
+            "product_version": "16.01.00.07",
             "file_name": "M4D_16.01.00.07_pro.zip",
             "file_size": 745964554,
             "md5": "43a9f44a55d7a99d6e098bb365bf2274",
@@ -54,7 +54,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0005",
+            "product_version": "16.01.00.05",
             "file_name": "M4D_16.01.00.05_pro.zip",
             "file_size": 745666282,
             "md5": "3817fe9d7b5fff85c16aa181b1499988",
@@ -64,7 +64,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.00.0001",
+            "product_version": "16.00.00.01",
             "file_name": "M4D_16.00.00.01_pro.zip",
             "file_size": 747184298,
             "md5": "a29bc96992c5698da382aaafe7af3b1c",

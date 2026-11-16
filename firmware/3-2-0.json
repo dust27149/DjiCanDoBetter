@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads",
     "firmwares": [
         {
-            "product_version": "17.03.0502",
+            "product_version": "17.03.05.02",
             "file_name": "DOCK2_17.03.05.02_pro.zip",
             "file_size": 495281278,
             "md5": "47172c909ec585e12dd9e59991fe6e73",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0915",
+            "product_version": "14.03.09.15",
             "file_name": "DOCK2_14.03.09.15_pro.zip",
             "file_size": 494230238,
             "md5": "778bab54a525b8b310cde943eff7258b",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0906",
+            "product_version": "14.03.09.06",
             "file_name": "DOCK2_14.03.09.06_pro.zip",
             "file_size": 494223006,
             "md5": "c22c9f0865577e8b996e42fd0ba9fbf8",
@@ -34,7 +34,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0701",
+            "product_version": "14.03.07.01",
             "file_name": "DOCK2_14.03.07.01_pro.zip",
             "file_size": 494220288,
             "md5": "6688490f72b6087cdda3b611bfb9f45d",

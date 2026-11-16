@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-3/downloads",
     "firmwares": [
         {
-            "product_version": "19.01.0202",
+            "product_version": "19.01.02.02",
             "file_name": "DOCK3_19.01.02.02_pro.zip",
             "file_size": 242287404,
             "md5": "5afa5bf368ae647a294b63bf5b1f7e2b",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.07.0401",
+            "product_version": "17.07.04.01",
             "file_name": "DOCK3_17.07.04.01_pro.zip",
             "file_size": 242690636,
             "md5": "cac646be6ce0fa30eb6cc21c9b218ed8",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.02.0521",
+            "product_version": "17.02.05.21",
             "file_name": "DOCK3_17.02.05.21_pro.zip",
             "file_size": 241829868,
             "md5": "8a8573e388fecbf6956e9efb58681b26",
@@ -34,7 +34,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.01.0506",
+            "product_version": "17.01.05.06",
             "file_name": "DOCK3_17.01.05.06_pro.zip",
             "file_size": 242150572,
             "md5": "c30b67dcf7e83d82c62deca9c764936f",
@@ -44,7 +44,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0007",
+            "product_version": "16.01.00.07",
             "file_name": "DOCK3_16.01.00.07_pro.zip",
             "file_size": 237533184,
             "md5": "3a8ca337c480cea95d470363fec897d6",
@@ -54,7 +54,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0005",
+            "product_version": "16.01.00.05",
             "file_name": "DOCK3_16.01.00.05_pro.zip",
             "file_size": 237701120,
             "md5": "4115dc40359089677c8730e3ab1fbe98",
@@ -64,7 +64,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.00.0001",
+            "product_version": "16.00.00.01",
             "file_name": "DOCK3_16.00.00.01_pro.zip",
             "file_size": 237085696,
             "md5": "ba237461e2d70af78db6c82e5117c8be",

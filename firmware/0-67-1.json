@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/matrice-30/downloads",
     "firmwares": [
         {
-            "product_version": "17.03.0013",
+            "product_version": "17.03.00.13",
             "file_name": "Matrice_30_UAV_17.03.00.13.zip",
             "file_size": 552356178,
             "md5": "22d31b4747ed936050ad3ba0b7e29b56",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0110",
+            "product_version": "14.03.01.10",
             "file_name": "Matrice_30_UAV_14.03.01.10.zip",
             "file_size": 552500402,
             "md5": "19305de5b170b81cc459083926cd6050",

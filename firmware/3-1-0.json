@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock/downloads",
     "firmwares": [
         {
-            "product_version": "10.01.0205",
+            "product_version": "10.01.02.05",
             "file_name": "dock_10.01.02.05_pro.zip",
             "file_size": 562213158,
             "md5": "9f08214d7b9f168f68c9b4bf97e1f7fd",

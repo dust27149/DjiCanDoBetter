@@ -2,5 +2,16 @@
     "device_model": "9-131-0",
     "device_name": "大疆机场 4",
     "release_pages": "https://enterprise.dji.com/cn/dock-4/downloads",
-    "firmwares": []
+    "firmwares": [
+        {
+            "product_version": "19.01.00.07",
+            "file_name": "DOCK4_19.01.00.07_pro.zip",
+            "file_size": 217771318,
+            "md5": "6e9538a01380b1d5442a2b85e9210d1f",
+            "file_url": "https://terra-1-g.djicdn.com/cbcd35598c6a46819472eb8801a4c29e/Offline%20firmware/DOCK4/V19.1/DOCK4_19.01.00.07_pro.zip",
+            "release_date": "2026-11-11",
+            "release_notes": "1. 优化大疆行业App部署体验，支持上方遮挡与铁塔场景部署。\r\n2. 支持飞行器安装降落伞时设置进离场航线，设置过程中飞行器将自动旋转上升。\r\n3. 优化照片文件的Wi-Fi快传速率。\r\n4. 大风场景下飞行器返航自动降低高度时，增加弹窗提示。\r\n5. 优化细小障碍物场景下的避障能力。\r\n6. 支持在地图界面基于目标点(Pin点)开启环绕飞行功能。\r\n7. 支持超解析拍摄功能，在日间场景且变焦倍数达到20倍及以上时生效。\r\n8. 优化舱盖关闭体验，解决手动关闭后缝隙较大的问题。\r\n9. 修复部分已知问题。",
+            "can_downgrade": true
+        }
+    ]
 }

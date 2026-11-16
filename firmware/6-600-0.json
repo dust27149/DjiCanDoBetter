@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/d-rtk-3/downloads",
     "firmwares": [
         {
-            "product_version": "17.01.0502",
+            "product_version": "17.01.05.02",
             "file_name": "D-RTK3_17.01.05.02_pro.zip",
             "file_size": 216207656,
             "md5": "09da0ec7d5ec98bc29d2133ec0f885ec",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "17.00.0006",
+            "product_version": "17.00.00.06",
             "file_name": "D-RTK3_17.00.00.06_pro.zip",
             "file_size": 216320680,
             "md5": "a1128bac0a08372525aab30d5b687e41",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "16.01.0002",
+            "product_version": "16.01.00.02",
             "file_name": "D-RTK3_16.01.00.02_pro.zip",
             "file_size": 208361472,
             "md5": "0dd18f1eaf24b53aaa36be48aaf8bdf9",

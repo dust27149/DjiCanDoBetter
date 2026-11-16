@@ -4,7 +4,7 @@
     "release_pages": "https://enterprise.dji.com/cn/dock-2/downloads",
     "firmwares": [
         {
-            "product_version": "17.03.0502",
+            "product_version": "17.03.05.02",
             "file_name": "M3TD_17.03.05.02_pro.zip",
             "file_size": 410201708,
             "md5": "1163a3c95b61ac117a8d89ca6ba9a2ba",
@@ -14,7 +14,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0915",
+            "product_version": "14.03.09.15",
             "file_name": "M3TD_14.03.09.15_pro.zip",
             "file_size": 409843308,
             "md5": "141cf00e39f9d622f0b54786a73d7ca8",
@@ -24,7 +24,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0906",
+            "product_version": "14.03.09.06",
             "file_name": "M3TD_14.03.09.06_pro.zip",
             "file_size": 410062892,
             "md5": "9def8baaae4e71f3a077064484e95eb6",
@@ -34,7 +34,7 @@
             "can_downgrade": true
         },
         {
-            "product_version": "14.03.0701",
+            "product_version": "14.03.07.01",
             "file_name": "M3TD_14.03.07.01_pro.zip",
             "file_size": 409922560,
             "md5": "127f716ecb4de8a2460058eeb5965ee4",
